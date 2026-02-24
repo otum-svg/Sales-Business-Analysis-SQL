@@ -189,6 +189,20 @@ ORDER BY total_profit DESC
 LIMIT 5;
 
 
+--Q14. Daily Sales vs. Profit Comparison 
+-- Show total sales and profit side by side for each day.
+SELECT 
+    STR_TO_DATE(price.Order_Date, '%m/%d/%Y') AS date,
+    ROUND(SUM(payment.revenue), 2) AS total_amount,
+    ROUND(SUM(payment.Profit), 2) AS total_profit
+FROM
+    price
+        JOIN
+    payment ON price.Order_ID = payment.Order_ID
+GROUP BY date
+ORDER BY date ASC;
+
+
 -- ============================================================
 -- END OF ANALYSIS
 -- ============================================================
