@@ -116,7 +116,9 @@ sales-sql-business-analysis/
 **TARUN PRAJAPAT**  
 Aspiring Data / Business Analyst  
 📧 [tarunprajapat256@gmail.com]  
+
 🔗 [LinkedIn Profile URL : https://www.linkedin.com/in/tarun-prajapat-482b22369/ ]
+
 🐙 [GitHub Profile URL : (https://github.com/otum-svg) ]
 
 ---
