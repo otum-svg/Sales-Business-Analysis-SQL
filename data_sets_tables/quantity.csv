@@ -1,0 +1,10001 @@
+Order_ID,Quantity,Payment_Method
+1,5,Credit Card
+2,9,Debit Card
+3,5,Credit Card
+4,1,UPI
+5,5,Credit Card
+6,1,Credit Card
+7,8,Credit Card
+8,9,UPI
+9,9,Credit Card
+10,10,Debit Card
+11,3,Debit Card
+12,8,Net Banking
+13,2,Net Banking
+14,7,Net Banking
+15,7,Credit Card
+16,3,Credit Card
+17,9,Cash on Delivery
+18,1,Credit Card
+19,8,UPI
+20,2,Net Banking
+21,5,Cash on Delivery
+22,7,UPI
+23,10,Cash on Delivery
+24,5,Credit Card
+25,5,Net Banking
+26,7,Credit Card
+27,5,Cash on Delivery
+28,4,Cash on Delivery
+29,9,Debit Card
+30,1,Net Banking
+31,2,Credit Card
+32,3,UPI
+33,5,UPI
+34,2,Cash on Delivery
+35,8,Debit Card
+36,5,Credit Card
+37,9,Credit Card
+38,8,Credit Card
+39,5,Credit Card
+40,4,Debit Card
+41,8,Debit Card
+42,10,Debit Card
+43,2,Credit Card
+44,6,Net Banking
+45,3,Credit Card
+46,7,Credit Card
+47,2,Debit Card
+48,4,Credit Card
+49,3,Credit Card
+50,8,Debit Card
+51,2,UPI
+52,1,Credit Card
+53,5,Net Banking
+54,9,Debit Card
+55,9,UPI
+56,4,Debit Card
+57,6,Credit Card
+58,7,UPI
+59,3,Cash on Delivery
+60,2,Debit Card
+61,3,Cash on Delivery
+62,9,Credit Card
+63,5,Net Banking
+64,6,UPI
+65,7,Credit Card
+66,4,Debit Card
+67,3,Net Banking
+68,8,Debit Card
+69,1,Debit Card
+70,5,Cash on Delivery
+71,9,Net Banking
+72,9,Cash on Delivery
+73,2,Net Banking
+74,10,Debit Card
+75,9,Net Banking
+76,1,UPI
+77,3,Credit Card
+78,5,Cash on Delivery
+79,3,UPI
+80,5,Debit Card
+81,10,UPI
+82,7,Cash on Delivery
+83,2,Debit Card
+84,5,Debit Card
+85,3,UPI
+86,9,UPI
+87,2,Credit Card
+88,4,UPI
+89,3,Cash on Delivery
+90,8,Debit Card
+91,4,Credit Card
+92,5,Net Banking
+93,1,UPI
+94,10,Credit Card
+95,6,Credit Card
+96,1,Net Banking
+97,8,Net Banking
+98,9,Credit Card
+99,8,Cash on Delivery
+100,9,UPI
+101,1,Net Banking
+102,4,UPI
+103,10,Credit Card
+104,2,Cash on Delivery
+105,1,UPI
+106,5,Net Banking
+107,8,UPI
+108,10,Debit Card
+109,4,Cash on Delivery
+110,9,Cash on Delivery
+111,5,Net Banking
+112,8,UPI
+113,5,Debit Card
+114,7,Credit Card
+115,3,UPI
+116,3,Debit Card
+117,9,Debit Card
+118,4,Cash on Delivery
+119,6,Net Banking
+120,10,Cash on Delivery
+121,8,Debit Card
+122,9,Net Banking
+123,4,Net Banking
+124,6,Net Banking
+125,2,Debit Card
+126,9,Debit Card
+127,5,Credit Card
+128,1,Debit Card
+129,6,Credit Card
+130,3,Cash on Delivery
+131,1,UPI
+132,2,Debit Card
+133,6,Debit Card
+134,9,Debit Card
+135,9,Net Banking
+136,2,UPI
+137,4,Credit Card
+138,10,Debit Card
+139,3,UPI
+140,2,Net Banking
+141,5,Debit Card
+142,8,Net Banking
+143,3,Credit Card
+144,1,Credit Card
+145,4,UPI
+146,3,Debit Card
+147,10,Credit Card
+148,4,Cash on Delivery
+149,1,Cash on Delivery
+150,2,Net Banking
+151,5,Net Banking
+152,4,Net Banking
+153,5,UPI
+154,10,Cash on Delivery
+155,10,Cash on Delivery
+156,9,Credit Card
+157,4,Credit Card
+158,5,Net Banking
+159,6,Cash on Delivery
+160,8,Net Banking
+161,2,Cash on Delivery
+162,3,Debit Card
+163,2,Net Banking
+164,3,Cash on Delivery
+165,2,UPI
+166,1,Debit Card
+167,1,UPI
+168,7,Debit Card
+169,2,Cash on Delivery
+170,3,Debit Card
+171,3,Debit Card
+172,10,Debit Card
+173,6,Cash on Delivery
+174,1,Credit Card
+175,3,Cash on Delivery
+176,3,Credit Card
+177,2,Net Banking
+178,5,Net Banking
+179,8,UPI
+180,9,Net Banking
+181,7,Cash on Delivery
+182,4,Cash on Delivery
+183,3,UPI
+184,8,Cash on Delivery
+185,7,Cash on Delivery
+186,9,Cash on Delivery
+187,10,UPI
+188,5,Cash on Delivery
+189,7,Cash on Delivery
+190,2,Cash on Delivery
+191,1,Debit Card
+192,6,UPI
+193,10,Credit Card
+194,8,Credit Card
+195,4,Cash on Delivery
+196,2,Debit Card
+197,1,Net Banking
+198,7,Debit Card
+199,6,UPI
+200,2,Net Banking
+201,6,Net Banking
+202,3,Debit Card
+203,4,Cash on Delivery
+204,4,Debit Card
+205,7,UPI
+206,3,UPI
+207,6,Cash on Delivery
+208,1,Credit Card
+209,10,Credit Card
+210,8,Net Banking
+211,6,Net Banking
+212,7,UPI
+213,2,Debit Card
+214,6,Net Banking
+215,6,Cash on Delivery
+216,4,Credit Card
+217,8,UPI
+218,1,Debit Card
+219,2,Credit Card
+220,2,Cash on Delivery
+221,5,Debit Card
+222,7,Debit Card
+223,8,Cash on Delivery
+224,3,Debit Card
+225,3,Credit Card
+226,4,Net Banking
+227,7,Debit Card
+228,4,Cash on Delivery
+229,3,UPI
+230,8,Credit Card
+231,6,Credit Card
+232,3,UPI
+233,10,UPI
+234,2,UPI
+235,4,Net Banking
+236,8,Credit Card
+237,5,Credit Card
+238,9,UPI
+239,4,UPI
+240,9,Debit Card
+241,5,Cash on Delivery
+242,3,Net Banking
+243,6,Net Banking
+244,6,Net Banking
+245,8,Debit Card
+246,3,UPI
+247,3,Debit Card
+248,9,UPI
+249,6,Credit Card
+250,6,Debit Card
+251,3,UPI
+252,3,Cash on Delivery
+253,1,Net Banking
+254,10,Cash on Delivery
+255,9,Net Banking
+256,9,Net Banking
+257,6,Debit Card
+258,2,UPI
+259,3,Net Banking
+260,5,UPI
+261,3,Debit Card
+262,10,Debit Card
+263,3,UPI
+264,6,Credit Card
+265,6,Debit Card
+266,10,UPI
+267,5,Debit Card
+268,5,Net Banking
+269,10,UPI
+270,10,Debit Card
+271,10,Cash on Delivery
+272,5,Net Banking
+273,6,Credit Card
+274,8,Debit Card
+275,7,UPI
+276,6,Credit Card
+277,2,Debit Card
+278,3,Debit Card
+279,2,UPI
+280,8,Net Banking
+281,3,Credit Card
+282,5,Credit Card
+283,1,Credit Card
+284,7,Debit Card
+285,6,UPI
+286,4,Cash on Delivery
+287,1,UPI
+288,8,Net Banking
+289,9,Cash on Delivery
+290,3,Debit Card
+291,2,Cash on Delivery
+292,5,Debit Card
+293,10,Cash on Delivery
+294,9,Debit Card
+295,1,Credit Card
+296,10,Cash on Delivery
+297,4,Net Banking
+298,5,UPI
+299,2,Cash on Delivery
+300,8,UPI
+301,5,Credit Card
+302,9,Debit Card
+303,1,Net Banking
+304,6,Credit Card
+305,2,UPI
+306,5,UPI
+307,9,Net Banking
+308,1,UPI
+309,7,Credit Card
+310,7,UPI
+311,1,Net Banking
+312,3,Net Banking
+313,1,UPI
+314,7,Net Banking
+315,10,UPI
+316,10,UPI
+317,1,Debit Card
+318,6,Net Banking
+319,1,Debit Card
+320,5,Cash on Delivery
+321,3,Cash on Delivery
+322,9,Debit Card
+323,6,Cash on Delivery
+324,4,UPI
+325,10,Cash on Delivery
+326,7,Cash on Delivery
+327,4,Debit Card
+328,1,Cash on Delivery
+329,4,Net Banking
+330,2,Debit Card
+331,6,Net Banking
+332,10,Debit Card
+333,10,Cash on Delivery
+334,1,Debit Card
+335,4,Debit Card
+336,10,Credit Card
+337,3,Net Banking
+338,2,Net Banking
+339,7,Cash on Delivery
+340,8,Debit Card
+341,5,Net Banking
+342,5,Cash on Delivery
+343,4,Debit Card
+344,10,Credit Card
+345,1,Credit Card
+346,9,Debit Card
+347,5,Net Banking
+348,7,Credit Card
+349,7,UPI
+350,7,UPI
+351,3,Cash on Delivery
+352,2,Cash on Delivery
+353,1,Cash on Delivery
+354,3,Debit Card
+355,2,Cash on Delivery
+356,1,Credit Card
+357,10,Cash on Delivery
+358,5,Credit Card
+359,6,UPI
+360,1,Cash on Delivery
+361,4,Debit Card
+362,2,Net Banking
+363,9,Cash on Delivery
+364,7,Net Banking
+365,1,Net Banking
+366,8,Debit Card
+367,10,Cash on Delivery
+368,10,UPI
+369,1,Credit Card
+370,1,UPI
+371,1,Cash on Delivery
+372,1,Credit Card
+373,3,Net Banking
+374,4,UPI
+375,7,Credit Card
+376,6,Cash on Delivery
+377,8,Credit Card
+378,10,Credit Card
+379,2,Debit Card
+380,4,Credit Card
+381,5,Cash on Delivery
+382,7,Cash on Delivery
+383,8,Net Banking
+384,7,Cash on Delivery
+385,5,UPI
+386,6,Net Banking
+387,6,Credit Card
+388,3,Credit Card
+389,7,Credit Card
+390,8,Debit Card
+391,5,Debit Card
+392,7,UPI
+393,1,Cash on Delivery
+394,4,Cash on Delivery
+395,6,UPI
+396,1,Cash on Delivery
+397,3,Net Banking
+398,2,Net Banking
+399,8,Credit Card
+400,9,Credit Card
+401,5,Net Banking
+402,3,Cash on Delivery
+403,10,UPI
+404,8,Cash on Delivery
+405,7,Debit Card
+406,4,Cash on Delivery
+407,6,UPI
+408,5,Debit Card
+409,6,Debit Card
+410,8,Debit Card
+411,7,Debit Card
+412,6,Credit Card
+413,9,UPI
+414,7,Cash on Delivery
+415,5,Credit Card
+416,9,Net Banking
+417,8,Cash on Delivery
+418,5,Debit Card
+419,2,Net Banking
+420,8,Net Banking
+421,8,Net Banking
+422,5,Debit Card
+423,3,Credit Card
+424,10,Net Banking
+425,3,Credit Card
+426,4,Net Banking
+427,3,Credit Card
+428,8,Net Banking
+429,9,Cash on Delivery
+430,10,UPI
+431,7,Cash on Delivery
+432,10,Debit Card
+433,7,Cash on Delivery
+434,10,UPI
+435,3,Cash on Delivery
+436,5,Credit Card
+437,8,UPI
+438,5,Credit Card
+439,3,Credit Card
+440,7,Net Banking
+441,6,Cash on Delivery
+442,2,Debit Card
+443,5,Credit Card
+444,4,Cash on Delivery
+445,9,UPI
+446,7,Net Banking
+447,3,Cash on Delivery
+448,2,UPI
+449,8,Debit Card
+450,7,Cash on Delivery
+451,6,Cash on Delivery
+452,1,UPI
+453,1,Cash on Delivery
+454,9,Debit Card
+455,6,Debit Card
+456,5,Debit Card
+457,9,Credit Card
+458,1,UPI
+459,6,Credit Card
+460,7,UPI
+461,8,Credit Card
+462,9,Cash on Delivery
+463,9,Net Banking
+464,9,Credit Card
+465,2,Cash on Delivery
+466,9,Net Banking
+467,10,Debit Card
+468,2,Cash on Delivery
+469,3,Credit Card
+470,1,UPI
+471,5,Credit Card
+472,8,Cash on Delivery
+473,6,Cash on Delivery
+474,9,UPI
+475,10,Credit Card
+476,1,UPI
+477,10,Debit Card
+478,4,UPI
+479,4,Net Banking
+480,7,Debit Card
+481,3,UPI
+482,7,UPI
+483,7,Debit Card
+484,3,UPI
+485,1,Cash on Delivery
+486,7,Debit Card
+487,1,Net Banking
+488,4,Credit Card
+489,6,Cash on Delivery
+490,10,UPI
+491,10,Credit Card
+492,4,UPI
+493,7,Credit Card
+494,3,Cash on Delivery
+495,8,UPI
+496,5,UPI
+497,1,Debit Card
+498,6,UPI
+499,1,Debit Card
+500,2,Cash on Delivery
+501,8,Cash on Delivery
+502,1,UPI
+503,4,Credit Card
+504,7,Credit Card
+505,1,UPI
+506,7,Cash on Delivery
+507,6,UPI
+508,6,UPI
+509,8,UPI
+510,3,Net Banking
+511,2,Debit Card
+512,8,Credit Card
+513,8,Net Banking
+514,9,Cash on Delivery
+515,2,Cash on Delivery
+516,3,Net Banking
+517,1,Credit Card
+518,4,Credit Card
+519,1,Debit Card
+520,3,Cash on Delivery
+521,2,Net Banking
+522,4,Net Banking
+523,1,Net Banking
+524,2,UPI
+525,7,Cash on Delivery
+526,1,UPI
+527,6,UPI
+528,6,Net Banking
+529,8,Debit Card
+530,1,UPI
+531,10,Credit Card
+532,4,Cash on Delivery
+533,4,Cash on Delivery
+534,5,Cash on Delivery
+535,7,Debit Card
+536,4,Debit Card
+537,10,Credit Card
+538,8,Cash on Delivery
+539,8,Net Banking
+540,1,Cash on Delivery
+541,7,Net Banking
+542,5,UPI
+543,3,Debit Card
+544,4,Cash on Delivery
+545,1,Cash on Delivery
+546,7,Credit Card
+547,10,Net Banking
+548,6,Debit Card
+549,7,Credit Card
+550,4,Net Banking
+551,8,Cash on Delivery
+552,5,Cash on Delivery
+553,7,Cash on Delivery
+554,10,Cash on Delivery
+555,10,Credit Card
+556,5,Debit Card
+557,7,UPI
+558,1,Cash on Delivery
+559,6,Debit Card
+560,10,Credit Card
+561,4,UPI
+562,2,Net Banking
+563,9,Credit Card
+564,4,Cash on Delivery
+565,10,Credit Card
+566,4,Cash on Delivery
+567,6,Cash on Delivery
+568,10,Credit Card
+569,2,UPI
+570,8,UPI
+571,4,Debit Card
+572,4,Credit Card
+573,1,UPI
+574,3,Cash on Delivery
+575,5,UPI
+576,7,Net Banking
+577,1,Cash on Delivery
+578,6,Debit Card
+579,10,Net Banking
+580,8,Net Banking
+581,10,Cash on Delivery
+582,1,Credit Card
+583,4,Debit Card
+584,1,UPI
+585,2,UPI
+586,3,Cash on Delivery
+587,6,Credit Card
+588,5,Cash on Delivery
+589,5,Credit Card
+590,5,Credit Card
+591,5,Cash on Delivery
+592,1,UPI
+593,8,Debit Card
+594,1,Credit Card
+595,1,Credit Card
+596,10,Credit Card
+597,10,Debit Card
+598,9,Debit Card
+599,2,Debit Card
+600,4,Net Banking
+601,8,Debit Card
+602,7,Cash on Delivery
+603,6,UPI
+604,4,Net Banking
+605,10,Credit Card
+606,2,UPI
+607,8,Debit Card
+608,3,Debit Card
+609,2,Cash on Delivery
+610,1,Debit Card
+611,4,Net Banking
+612,7,Cash on Delivery
+613,3,Debit Card
+614,3,Net Banking
+615,6,UPI
+616,1,Debit Card
+617,9,Net Banking
+618,3,Credit Card
+619,9,Debit Card
+620,2,Debit Card
+621,6,Net Banking
+622,4,Cash on Delivery
+623,4,Debit Card
+624,6,Cash on Delivery
+625,10,Cash on Delivery
+626,4,Cash on Delivery
+627,3,Cash on Delivery
+628,5,Cash on Delivery
+629,8,Net Banking
+630,9,Net Banking
+631,5,Credit Card
+632,5,Net Banking
+633,9,Debit Card
+634,5,Net Banking
+635,6,UPI
+636,8,UPI
+637,9,Cash on Delivery
+638,6,Cash on Delivery
+639,4,UPI
+640,8,Cash on Delivery
+641,9,UPI
+642,3,UPI
+643,2,Credit Card
+644,1,Net Banking
+645,1,Cash on Delivery
+646,5,UPI
+647,7,Debit Card
+648,2,Credit Card
+649,2,UPI
+650,9,Credit Card
+651,8,Debit Card
+652,5,Net Banking
+653,7,UPI
+654,9,UPI
+655,7,Debit Card
+656,9,Debit Card
+657,1,Net Banking
+658,6,Cash on Delivery
+659,1,Debit Card
+660,9,Debit Card
+661,8,Cash on Delivery
+662,1,Cash on Delivery
+663,2,Credit Card
+664,10,Net Banking
+665,5,Debit Card
+666,3,Credit Card
+667,9,UPI
+668,4,Cash on Delivery
+669,1,Debit Card
+670,1,UPI
+671,5,UPI
+672,3,Net Banking
+673,3,UPI
+674,9,Debit Card
+675,1,Net Banking
+676,4,Cash on Delivery
+677,7,Credit Card
+678,7,Net Banking
+679,5,Net Banking
+680,6,Debit Card
+681,4,Credit Card
+682,1,Debit Card
+683,4,UPI
+684,2,Cash on Delivery
+685,10,Credit Card
+686,10,Credit Card
+687,2,UPI
+688,9,Net Banking
+689,9,Net Banking
+690,6,Debit Card
+691,8,UPI
+692,8,UPI
+693,10,Debit Card
+694,6,Net Banking
+695,1,Cash on Delivery
+696,4,Debit Card
+697,5,Net Banking
+698,8,Credit Card
+699,7,Net Banking
+700,6,Debit Card
+701,6,UPI
+702,5,Debit Card
+703,8,Credit Card
+704,6,Net Banking
+705,5,UPI
+706,10,Credit Card
+707,2,Net Banking
+708,8,Credit Card
+709,9,Cash on Delivery
+710,4,Credit Card
+711,6,Net Banking
+712,3,Debit Card
+713,9,Cash on Delivery
+714,6,Net Banking
+715,2,UPI
+716,2,Net Banking
+717,9,Credit Card
+718,9,Net Banking
+719,8,Cash on Delivery
+720,3,UPI
+721,1,Net Banking
+722,4,Credit Card
+723,8,Cash on Delivery
+724,3,Cash on Delivery
+725,2,Cash on Delivery
+726,8,Credit Card
+727,6,Credit Card
+728,9,Net Banking
+729,7,Cash on Delivery
+730,9,Net Banking
+731,8,Debit Card
+732,6,Debit Card
+733,3,Debit Card
+734,10,Debit Card
+735,6,Credit Card
+736,10,Cash on Delivery
+737,8,Credit Card
+738,6,Net Banking
+739,1,Credit Card
+740,7,Credit Card
+741,7,UPI
+742,7,Cash on Delivery
+743,9,Cash on Delivery
+744,9,UPI
+745,3,Credit Card
+746,7,Debit Card
+747,8,Debit Card
+748,6,UPI
+749,1,Net Banking
+750,5,UPI
+751,2,Net Banking
+752,5,UPI
+753,9,Net Banking
+754,5,Credit Card
+755,4,Cash on Delivery
+756,6,Debit Card
+757,7,Credit Card
+758,10,Credit Card
+759,10,Credit Card
+760,8,Debit Card
+761,10,UPI
+762,4,UPI
+763,3,Credit Card
+764,8,UPI
+765,8,Net Banking
+766,1,Debit Card
+767,3,Cash on Delivery
+768,4,Net Banking
+769,3,Net Banking
+770,3,Cash on Delivery
+771,5,UPI
+772,1,Net Banking
+773,2,Debit Card
+774,4,Cash on Delivery
+775,3,Debit Card
+776,10,Debit Card
+777,8,Net Banking
+778,9,Net Banking
+779,6,Net Banking
+780,5,Credit Card
+781,5,Credit Card
+782,2,Net Banking
+783,5,Credit Card
+784,2,Cash on Delivery
+785,1,Credit Card
+786,8,Cash on Delivery
+787,5,Credit Card
+788,4,Debit Card
+789,5,UPI
+790,10,Net Banking
+791,10,Debit Card
+792,7,Net Banking
+793,4,Cash on Delivery
+794,10,Debit Card
+795,2,Debit Card
+796,1,Net Banking
+797,1,UPI
+798,4,UPI
+799,8,Debit Card
+800,3,Cash on Delivery
+801,3,Cash on Delivery
+802,4,Net Banking
+803,8,UPI
+804,2,Cash on Delivery
+805,3,UPI
+806,4,UPI
+807,9,Credit Card
+808,10,UPI
+809,6,Cash on Delivery
+810,2,Credit Card
+811,7,Cash on Delivery
+812,9,Credit Card
+813,5,Debit Card
+814,10,Credit Card
+815,5,Cash on Delivery
+816,8,UPI
+817,7,Credit Card
+818,2,Cash on Delivery
+819,7,Credit Card
+820,1,Cash on Delivery
+821,3,Credit Card
+822,6,Credit Card
+823,7,Cash on Delivery
+824,2,UPI
+825,8,UPI
+826,10,Debit Card
+827,5,Net Banking
+828,8,Credit Card
+829,5,Credit Card
+830,8,Cash on Delivery
+831,9,Net Banking
+832,1,Credit Card
+833,6,UPI
+834,8,Net Banking
+835,10,Debit Card
+836,10,Debit Card
+837,4,Credit Card
+838,4,Net Banking
+839,3,Cash on Delivery
+840,1,Credit Card
+841,7,UPI
+842,9,Debit Card
+843,3,UPI
+844,5,Net Banking
+845,1,Net Banking
+846,9,UPI
+847,6,Cash on Delivery
+848,1,Credit Card
+849,4,UPI
+850,10,UPI
+851,7,Credit Card
+852,5,Credit Card
+853,7,Debit Card
+854,6,Cash on Delivery
+855,1,UPI
+856,5,Debit Card
+857,4,Net Banking
+858,7,Credit Card
+859,10,UPI
+860,5,UPI
+861,7,UPI
+862,1,Debit Card
+863,4,Net Banking
+864,10,Cash on Delivery
+865,5,UPI
+866,5,Debit Card
+867,5,Debit Card
+868,5,Net Banking
+869,6,Credit Card
+870,1,Debit Card
+871,9,Debit Card
+872,6,Net Banking
+873,8,Cash on Delivery
+874,4,Debit Card
+875,6,Cash on Delivery
+876,8,Net Banking
+877,10,Cash on Delivery
+878,7,Debit Card
+879,1,Credit Card
+880,8,Debit Card
+881,7,Cash on Delivery
+882,1,UPI
+883,2,Debit Card
+884,6,Cash on Delivery
+885,4,Cash on Delivery
+886,3,Net Banking
+887,6,UPI
+888,5,Debit Card
+889,10,Net Banking
+890,10,Net Banking
+891,6,Credit Card
+892,9,Cash on Delivery
+893,2,Credit Card
+894,9,Net Banking
+895,2,UPI
+896,6,UPI
+897,9,UPI
+898,8,UPI
+899,4,Debit Card
+900,2,Cash on Delivery
+901,10,Debit Card
+902,6,Credit Card
+903,8,Cash on Delivery
+904,8,Cash on Delivery
+905,10,Cash on Delivery
+906,2,UPI
+907,5,Net Banking
+908,5,Cash on Delivery
+909,2,Cash on Delivery
+910,10,Cash on Delivery
+911,6,Debit Card
+912,6,Credit Card
+913,2,Debit Card
+914,1,Credit Card
+915,5,Credit Card
+916,9,Net Banking
+917,5,Net Banking
+918,9,Credit Card
+919,9,Debit Card
+920,8,Cash on Delivery
+921,7,UPI
+922,3,Net Banking
+923,3,Net Banking
+924,10,Credit Card
+925,4,Debit Card
+926,3,Net Banking
+927,9,Net Banking
+928,10,Net Banking
+929,5,Debit Card
+930,2,UPI
+931,2,Cash on Delivery
+932,9,Credit Card
+933,10,Debit Card
+934,8,Debit Card
+935,9,UPI
+936,3,UPI
+937,2,Net Banking
+938,8,UPI
+939,9,Net Banking
+940,3,Net Banking
+941,1,Cash on Delivery
+942,10,UPI
+943,7,Credit Card
+944,9,UPI
+945,1,UPI
+946,7,Credit Card
+947,2,Debit Card
+948,2,Credit Card
+949,4,Credit Card
+950,5,UPI
+951,4,Cash on Delivery
+952,8,Cash on Delivery
+953,7,Cash on Delivery
+954,4,Credit Card
+955,7,Cash on Delivery
+956,8,Net Banking
+957,4,Net Banking
+958,4,Cash on Delivery
+959,8,Net Banking
+960,5,Cash on Delivery
+961,5,Debit Card
+962,3,Net Banking
+963,4,Credit Card
+964,3,Credit Card
+965,10,Net Banking
+966,7,Cash on Delivery
+967,6,Cash on Delivery
+968,6,UPI
+969,7,Cash on Delivery
+970,7,Debit Card
+971,4,Net Banking
+972,6,Credit Card
+973,6,UPI
+974,2,UPI
+975,4,Debit Card
+976,1,Credit Card
+977,2,Debit Card
+978,2,Cash on Delivery
+979,3,Net Banking
+980,5,Debit Card
+981,8,Cash on Delivery
+982,7,Credit Card
+983,6,Credit Card
+984,7,Net Banking
+985,5,UPI
+986,1,Cash on Delivery
+987,8,UPI
+988,6,UPI
+989,5,UPI
+990,8,Net Banking
+991,8,Credit Card
+992,6,UPI
+993,7,Debit Card
+994,5,UPI
+995,7,Debit Card
+996,4,Cash on Delivery
+997,10,Credit Card
+998,4,Net Banking
+999,7,Debit Card
+1000,4,Cash on Delivery
+1001,5,UPI
+1002,10,UPI
+1003,5,Net Banking
+1004,6,Credit Card
+1005,7,UPI
+1006,1,Debit Card
+1007,4,Cash on Delivery
+1008,10,Credit Card
+1009,1,Net Banking
+1010,7,Debit Card
+1011,4,Debit Card
+1012,10,Debit Card
+1013,5,UPI
+1014,1,Credit Card
+1015,10,Credit Card
+1016,3,Debit Card
+1017,8,Net Banking
+1018,5,Cash on Delivery
+1019,3,UPI
+1020,10,UPI
+1021,7,Debit Card
+1022,7,Credit Card
+1023,10,Net Banking
+1024,8,Credit Card
+1025,7,UPI
+1026,6,Credit Card
+1027,6,Debit Card
+1028,10,Cash on Delivery
+1029,5,Net Banking
+1030,3,Net Banking
+1031,8,Net Banking
+1032,7,Net Banking
+1033,8,Debit Card
+1034,7,UPI
+1035,1,Debit Card
+1036,9,Credit Card
+1037,10,Net Banking
+1038,2,Debit Card
+1039,9,Credit Card
+1040,8,Credit Card
+1041,3,Net Banking
+1042,6,Debit Card
+1043,8,UPI
+1044,8,Debit Card
+1045,9,Debit Card
+1046,4,Debit Card
+1047,1,Credit Card
+1048,2,Cash on Delivery
+1049,6,Cash on Delivery
+1050,6,Cash on Delivery
+1051,7,UPI
+1052,6,Net Banking
+1053,10,UPI
+1054,8,Cash on Delivery
+1055,7,Debit Card
+1056,10,UPI
+1057,4,Credit Card
+1058,2,UPI
+1059,10,UPI
+1060,9,UPI
+1061,8,Cash on Delivery
+1062,8,Debit Card
+1063,6,Net Banking
+1064,10,Cash on Delivery
+1065,8,Debit Card
+1066,8,Cash on Delivery
+1067,6,UPI
+1068,6,Cash on Delivery
+1069,4,Net Banking
+1070,9,Debit Card
+1071,1,Net Banking
+1072,4,Debit Card
+1073,10,Cash on Delivery
+1074,5,Net Banking
+1075,9,UPI
+1076,2,Debit Card
+1077,3,Net Banking
+1078,2,Cash on Delivery
+1079,3,Credit Card
+1080,8,Net Banking
+1081,2,Cash on Delivery
+1082,6,Cash on Delivery
+1083,8,Net Banking
+1084,6,Net Banking
+1085,10,UPI
+1086,10,Net Banking
+1087,4,Credit Card
+1088,1,Cash on Delivery
+1089,8,UPI
+1090,9,Debit Card
+1091,7,Cash on Delivery
+1092,3,Credit Card
+1093,5,Credit Card
+1094,1,Credit Card
+1095,4,Debit Card
+1096,6,Credit Card
+1097,1,Debit Card
+1098,1,Debit Card
+1099,1,Cash on Delivery
+1100,6,UPI
+1101,3,Net Banking
+1102,7,Debit Card
+1103,7,Cash on Delivery
+1104,10,Debit Card
+1105,4,Cash on Delivery
+1106,10,Debit Card
+1107,3,Cash on Delivery
+1108,10,Net Banking
+1109,3,Credit Card
+1110,9,UPI
+1111,7,Net Banking
+1112,2,UPI
+1113,3,UPI
+1114,3,Debit Card
+1115,6,Credit Card
+1116,10,Credit Card
+1117,5,Credit Card
+1118,7,UPI
+1119,4,Net Banking
+1120,8,Debit Card
+1121,2,UPI
+1122,4,UPI
+1123,10,Credit Card
+1124,2,Credit Card
+1125,6,Net Banking
+1126,1,Net Banking
+1127,6,Debit Card
+1128,2,UPI
+1129,10,Debit Card
+1130,7,Debit Card
+1131,3,Debit Card
+1132,4,Credit Card
+1133,10,Credit Card
+1134,1,Cash on Delivery
+1135,2,Credit Card
+1136,3,UPI
+1137,5,Credit Card
+1138,4,Credit Card
+1139,7,Debit Card
+1140,4,UPI
+1141,6,Credit Card
+1142,8,UPI
+1143,8,Debit Card
+1144,10,Credit Card
+1145,7,Cash on Delivery
+1146,4,UPI
+1147,8,Credit Card
+1148,2,Cash on Delivery
+1149,6,Debit Card
+1150,7,Credit Card
+1151,9,Cash on Delivery
+1152,4,Debit Card
+1153,5,Cash on Delivery
+1154,6,UPI
+1155,10,Cash on Delivery
+1156,5,Debit Card
+1157,1,Credit Card
+1158,2,Debit Card
+1159,10,Net Banking
+1160,5,Credit Card
+1161,2,Cash on Delivery
+1162,1,UPI
+1163,5,Credit Card
+1164,3,Debit Card
+1165,2,UPI
+1166,6,Debit Card
+1167,4,Cash on Delivery
+1168,2,Debit Card
+1169,5,Cash on Delivery
+1170,8,Debit Card
+1171,3,Credit Card
+1172,3,Net Banking
+1173,6,UPI
+1174,6,UPI
+1175,3,Debit Card
+1176,2,Cash on Delivery
+1177,4,Cash on Delivery
+1178,9,UPI
+1179,6,Net Banking
+1180,8,Credit Card
+1181,2,Cash on Delivery
+1182,1,Debit Card
+1183,10,Debit Card
+1184,2,Cash on Delivery
+1185,9,Net Banking
+1186,9,UPI
+1187,6,Credit Card
+1188,9,Debit Card
+1189,3,Credit Card
+1190,9,Credit Card
+1191,3,Credit Card
+1192,6,UPI
+1193,2,Cash on Delivery
+1194,3,Cash on Delivery
+1195,1,Net Banking
+1196,9,Debit Card
+1197,6,Cash on Delivery
+1198,4,Cash on Delivery
+1199,8,Debit Card
+1200,10,Credit Card
+1201,4,Cash on Delivery
+1202,7,Debit Card
+1203,5,Net Banking
+1204,2,Credit Card
+1205,7,Credit Card
+1206,9,UPI
+1207,6,Credit Card
+1208,8,Credit Card
+1209,5,Credit Card
+1210,10,UPI
+1211,3,Debit Card
+1212,5,Debit Card
+1213,4,Cash on Delivery
+1214,3,Debit Card
+1215,8,Debit Card
+1216,10,Credit Card
+1217,5,Net Banking
+1218,9,Cash on Delivery
+1219,8,UPI
+1220,10,UPI
+1221,8,UPI
+1222,1,Debit Card
+1223,3,Credit Card
+1224,7,Credit Card
+1225,2,Credit Card
+1226,10,Cash on Delivery
+1227,9,Net Banking
+1228,10,Credit Card
+1229,3,Net Banking
+1230,9,Debit Card
+1231,4,UPI
+1232,10,Credit Card
+1233,9,Net Banking
+1234,6,Net Banking
+1235,2,UPI
+1236,3,Debit Card
+1237,4,Credit Card
+1238,10,UPI
+1239,6,Cash on Delivery
+1240,9,Debit Card
+1241,8,UPI
+1242,7,Debit Card
+1243,4,Credit Card
+1244,9,Debit Card
+1245,10,Debit Card
+1246,1,Cash on Delivery
+1247,9,Cash on Delivery
+1248,1,Cash on Delivery
+1249,8,Debit Card
+1250,10,Cash on Delivery
+1251,6,Net Banking
+1252,9,Debit Card
+1253,10,Debit Card
+1254,5,Credit Card
+1255,5,Credit Card
+1256,7,Debit Card
+1257,9,Cash on Delivery
+1258,3,Credit Card
+1259,8,Debit Card
+1260,1,Cash on Delivery
+1261,4,Cash on Delivery
+1262,8,Cash on Delivery
+1263,7,Debit Card
+1264,9,Credit Card
+1265,1,Debit Card
+1266,8,UPI
+1267,7,Debit Card
+1268,4,Net Banking
+1269,7,Cash on Delivery
+1270,1,Debit Card
+1271,5,Cash on Delivery
+1272,10,Net Banking
+1273,3,UPI
+1274,6,Cash on Delivery
+1275,7,Credit Card
+1276,5,Debit Card
+1277,5,Cash on Delivery
+1278,5,Credit Card
+1279,5,Debit Card
+1280,4,Net Banking
+1281,5,Debit Card
+1282,2,Net Banking
+1283,6,Cash on Delivery
+1284,4,Cash on Delivery
+1285,4,Net Banking
+1286,5,Net Banking
+1287,3,UPI
+1288,4,UPI
+1289,1,Credit Card
+1290,8,Debit Card
+1291,10,Credit Card
+1292,3,Credit Card
+1293,3,Net Banking
+1294,3,UPI
+1295,9,Cash on Delivery
+1296,8,Cash on Delivery
+1297,7,UPI
+1298,6,Net Banking
+1299,1,Debit Card
+1300,7,UPI
+1301,8,Cash on Delivery
+1302,7,Cash on Delivery
+1303,6,Debit Card
+1304,1,Net Banking
+1305,2,Cash on Delivery
+1306,1,Credit Card
+1307,5,Debit Card
+1308,7,Cash on Delivery
+1309,6,UPI
+1310,9,UPI
+1311,7,Net Banking
+1312,6,Credit Card
+1313,6,Debit Card
+1314,8,Cash on Delivery
+1315,10,UPI
+1316,4,Net Banking
+1317,3,UPI
+1318,5,Debit Card
+1319,3,Cash on Delivery
+1320,6,UPI
+1321,9,UPI
+1322,10,UPI
+1323,8,UPI
+1324,4,Debit Card
+1325,9,Credit Card
+1326,8,Debit Card
+1327,7,Credit Card
+1328,2,Cash on Delivery
+1329,5,Debit Card
+1330,2,Net Banking
+1331,10,Credit Card
+1332,4,Debit Card
+1333,3,Debit Card
+1334,10,Net Banking
+1335,4,UPI
+1336,4,Debit Card
+1337,2,Credit Card
+1338,9,Debit Card
+1339,3,Cash on Delivery
+1340,1,Debit Card
+1341,4,Net Banking
+1342,10,Cash on Delivery
+1343,10,UPI
+1344,5,Credit Card
+1345,10,Debit Card
+1346,9,Cash on Delivery
+1347,6,Credit Card
+1348,4,Credit Card
+1349,10,Credit Card
+1350,8,UPI
+1351,6,Debit Card
+1352,2,Net Banking
+1353,2,Cash on Delivery
+1354,6,Credit Card
+1355,7,Net Banking
+1356,5,Credit Card
+1357,9,Cash on Delivery
+1358,5,UPI
+1359,10,Debit Card
+1360,5,Credit Card
+1361,9,Credit Card
+1362,2,UPI
+1363,9,Net Banking
+1364,2,Cash on Delivery
+1365,4,UPI
+1366,8,Credit Card
+1367,7,Net Banking
+1368,7,Cash on Delivery
+1369,9,Debit Card
+1370,4,Net Banking
+1371,10,Debit Card
+1372,6,UPI
+1373,2,Credit Card
+1374,4,Debit Card
+1375,3,Cash on Delivery
+1376,5,Cash on Delivery
+1377,7,Credit Card
+1378,6,UPI
+1379,5,UPI
+1380,2,Net Banking
+1381,5,Cash on Delivery
+1382,5,Credit Card
+1383,3,Cash on Delivery
+1384,3,Net Banking
+1385,5,Net Banking
+1386,7,Credit Card
+1387,7,UPI
+1388,7,UPI
+1389,6,UPI
+1390,3,Net Banking
+1391,5,Cash on Delivery
+1392,6,Debit Card
+1393,1,Net Banking
+1394,3,Cash on Delivery
+1395,4,Debit Card
+1396,4,UPI
+1397,1,UPI
+1398,8,UPI
+1399,4,Credit Card
+1400,8,Debit Card
+1401,2,UPI
+1402,7,Debit Card
+1403,8,Credit Card
+1404,6,Debit Card
+1405,3,UPI
+1406,2,UPI
+1407,10,Cash on Delivery
+1408,4,Credit Card
+1409,4,Debit Card
+1410,5,Net Banking
+1411,9,Debit Card
+1412,1,Cash on Delivery
+1413,8,Cash on Delivery
+1414,4,Cash on Delivery
+1415,10,Credit Card
+1416,9,Credit Card
+1417,9,Cash on Delivery
+1418,9,Cash on Delivery
+1419,10,Credit Card
+1420,4,Credit Card
+1421,10,Cash on Delivery
+1422,3,Cash on Delivery
+1423,6,UPI
+1424,7,Cash on Delivery
+1425,3,Debit Card
+1426,10,Cash on Delivery
+1427,6,UPI
+1428,4,Credit Card
+1429,3,Debit Card
+1430,3,Debit Card
+1431,3,UPI
+1432,7,Credit Card
+1433,5,Credit Card
+1434,7,Debit Card
+1435,7,Cash on Delivery
+1436,9,Credit Card
+1437,2,Credit Card
+1438,2,Cash on Delivery
+1439,9,Net Banking
+1440,6,Cash on Delivery
+1441,6,Cash on Delivery
+1442,3,Net Banking
+1443,4,Debit Card
+1444,2,Cash on Delivery
+1445,1,Cash on Delivery
+1446,2,UPI
+1447,3,UPI
+1448,8,Cash on Delivery
+1449,9,Net Banking
+1450,2,Net Banking
+1451,6,Debit Card
+1452,2,Cash on Delivery
+1453,5,Debit Card
+1454,6,Cash on Delivery
+1455,3,UPI
+1456,10,Credit Card
+1457,8,Debit Card
+1458,1,Debit Card
+1459,1,Net Banking
+1460,7,Debit Card
+1461,9,Credit Card
+1462,9,Net Banking
+1463,4,Debit Card
+1464,9,Debit Card
+1465,8,Credit Card
+1466,1,Cash on Delivery
+1467,6,UPI
+1468,9,Net Banking
+1469,4,UPI
+1470,7,Debit Card
+1471,2,Debit Card
+1472,4,Cash on Delivery
+1473,4,Cash on Delivery
+1474,1,Net Banking
+1475,2,Net Banking
+1476,3,Net Banking
+1477,10,Debit Card
+1478,10,Credit Card
+1479,7,Credit Card
+1480,3,Debit Card
+1481,2,Net Banking
+1482,5,Cash on Delivery
+1483,4,Credit Card
+1484,7,Cash on Delivery
+1485,3,Cash on Delivery
+1486,4,Debit Card
+1487,7,Debit Card
+1488,6,Net Banking
+1489,2,Credit Card
+1490,9,Credit Card
+1491,2,Debit Card
+1492,10,Credit Card
+1493,8,Debit Card
+1494,5,Cash on Delivery
+1495,8,Credit Card
+1496,1,UPI
+1497,7,Net Banking
+1498,8,Cash on Delivery
+1499,10,Debit Card
+1500,6,UPI
+1501,6,Debit Card
+1502,2,Cash on Delivery
+1503,2,Cash on Delivery
+1504,9,UPI
+1505,9,Debit Card
+1506,7,Cash on Delivery
+1507,10,Debit Card
+1508,4,Net Banking
+1509,10,UPI
+1510,6,Credit Card
+1511,7,Debit Card
+1512,1,Credit Card
+1513,8,Net Banking
+1514,5,Debit Card
+1515,8,Net Banking
+1516,10,UPI
+1517,7,Cash on Delivery
+1518,7,Cash on Delivery
+1519,3,Net Banking
+1520,7,Debit Card
+1521,1,Debit Card
+1522,3,Cash on Delivery
+1523,8,Debit Card
+1524,6,Credit Card
+1525,1,UPI
+1526,5,Credit Card
+1527,5,Debit Card
+1528,7,UPI
+1529,9,Debit Card
+1530,3,UPI
+1531,9,Debit Card
+1532,4,Credit Card
+1533,1,Cash on Delivery
+1534,2,UPI
+1535,4,Debit Card
+1536,8,UPI
+1537,3,Credit Card
+1538,3,Credit Card
+1539,8,Debit Card
+1540,4,Cash on Delivery
+1541,9,Credit Card
+1542,4,UPI
+1543,1,Net Banking
+1544,1,Net Banking
+1545,9,Cash on Delivery
+1546,5,Cash on Delivery
+1547,5,Cash on Delivery
+1548,1,Credit Card
+1549,1,Credit Card
+1550,1,Net Banking
+1551,7,Debit Card
+1552,8,Debit Card
+1553,10,UPI
+1554,3,Credit Card
+1555,5,Credit Card
+1556,2,Debit Card
+1557,8,Credit Card
+1558,8,Net Banking
+1559,2,UPI
+1560,10,Net Banking
+1561,10,Debit Card
+1562,6,Credit Card
+1563,9,Debit Card
+1564,8,Debit Card
+1565,4,Debit Card
+1566,3,Cash on Delivery
+1567,6,Debit Card
+1568,1,Cash on Delivery
+1569,7,Cash on Delivery
+1570,8,Debit Card
+1571,3,Credit Card
+1572,9,UPI
+1573,10,Cash on Delivery
+1574,10,Debit Card
+1575,3,Net Banking
+1576,3,Cash on Delivery
+1577,2,Credit Card
+1578,6,Cash on Delivery
+1579,8,Credit Card
+1580,10,Credit Card
+1581,8,Net Banking
+1582,5,Credit Card
+1583,2,Net Banking
+1584,4,Credit Card
+1585,5,Net Banking
+1586,6,Net Banking
+1587,5,UPI
+1588,5,UPI
+1589,4,Net Banking
+1590,5,Cash on Delivery
+1591,6,UPI
+1592,6,Credit Card
+1593,5,Credit Card
+1594,4,UPI
+1595,2,UPI
+1596,5,UPI
+1597,3,Debit Card
+1598,1,UPI
+1599,7,Net Banking
+1600,7,Debit Card
+1601,8,Cash on Delivery
+1602,6,Cash on Delivery
+1603,7,Cash on Delivery
+1604,7,Debit Card
+1605,7,Debit Card
+1606,7,UPI
+1607,4,UPI
+1608,2,Debit Card
+1609,7,Debit Card
+1610,8,UPI
+1611,8,Net Banking
+1612,7,UPI
+1613,7,Cash on Delivery
+1614,3,Cash on Delivery
+1615,3,Credit Card
+1616,8,Credit Card
+1617,9,Credit Card
+1618,1,Debit Card
+1619,6,Credit Card
+1620,7,Credit Card
+1621,5,Cash on Delivery
+1622,9,Credit Card
+1623,3,Net Banking
+1624,6,Net Banking
+1625,9,Debit Card
+1626,3,Cash on Delivery
+1627,10,Debit Card
+1628,3,Net Banking
+1629,4,Net Banking
+1630,1,Cash on Delivery
+1631,10,Net Banking
+1632,4,Debit Card
+1633,10,Debit Card
+1634,10,UPI
+1635,6,Cash on Delivery
+1636,6,UPI
+1637,9,Debit Card
+1638,10,Net Banking
+1639,1,UPI
+1640,6,Net Banking
+1641,1,Debit Card
+1642,5,Cash on Delivery
+1643,10,UPI
+1644,6,UPI
+1645,3,Debit Card
+1646,2,Cash on Delivery
+1647,6,Cash on Delivery
+1648,1,UPI
+1649,9,UPI
+1650,7,Credit Card
+1651,9,Cash on Delivery
+1652,1,UPI
+1653,1,Debit Card
+1654,2,Net Banking
+1655,9,UPI
+1656,2,Net Banking
+1657,4,UPI
+1658,5,UPI
+1659,1,Cash on Delivery
+1660,10,Debit Card
+1661,6,Debit Card
+1662,9,Net Banking
+1663,4,Debit Card
+1664,7,Cash on Delivery
+1665,8,Net Banking
+1666,1,Net Banking
+1667,1,UPI
+1668,10,Cash on Delivery
+1669,1,Cash on Delivery
+1670,2,Debit Card
+1671,10,Net Banking
+1672,4,Debit Card
+1673,9,Cash on Delivery
+1674,7,Cash on Delivery
+1675,5,Debit Card
+1676,8,Credit Card
+1677,10,Cash on Delivery
+1678,7,Debit Card
+1679,9,UPI
+1680,3,UPI
+1681,10,Debit Card
+1682,5,Debit Card
+1683,3,UPI
+1684,9,Net Banking
+1685,6,Credit Card
+1686,3,UPI
+1687,2,Net Banking
+1688,2,Net Banking
+1689,2,Net Banking
+1690,8,Debit Card
+1691,3,Debit Card
+1692,5,Credit Card
+1693,10,Debit Card
+1694,6,Debit Card
+1695,9,Debit Card
+1696,7,Credit Card
+1697,5,Credit Card
+1698,1,Net Banking
+1699,4,UPI
+1700,10,Credit Card
+1701,2,UPI
+1702,4,Cash on Delivery
+1703,10,Cash on Delivery
+1704,4,UPI
+1705,8,Debit Card
+1706,2,Cash on Delivery
+1707,8,Debit Card
+1708,2,Cash on Delivery
+1709,1,Credit Card
+1710,9,Credit Card
+1711,8,Credit Card
+1712,8,Debit Card
+1713,2,Cash on Delivery
+1714,7,Cash on Delivery
+1715,6,Net Banking
+1716,10,UPI
+1717,7,Net Banking
+1718,5,Cash on Delivery
+1719,10,Debit Card
+1720,10,Cash on Delivery
+1721,8,Net Banking
+1722,5,Cash on Delivery
+1723,9,Cash on Delivery
+1724,5,Cash on Delivery
+1725,10,UPI
+1726,4,Credit Card
+1727,6,Cash on Delivery
+1728,5,Cash on Delivery
+1729,5,UPI
+1730,9,Net Banking
+1731,6,Debit Card
+1732,6,Credit Card
+1733,3,Debit Card
+1734,1,Debit Card
+1735,2,Cash on Delivery
+1736,6,Net Banking
+1737,10,UPI
+1738,10,Credit Card
+1739,2,Net Banking
+1740,5,Cash on Delivery
+1741,10,UPI
+1742,4,Debit Card
+1743,3,Credit Card
+1744,4,Credit Card
+1745,4,UPI
+1746,1,Cash on Delivery
+1747,2,Net Banking
+1748,7,UPI
+1749,8,Net Banking
+1750,9,Net Banking
+1751,5,UPI
+1752,1,Cash on Delivery
+1753,2,Credit Card
+1754,4,UPI
+1755,2,Cash on Delivery
+1756,10,Cash on Delivery
+1757,5,Cash on Delivery
+1758,10,Net Banking
+1759,8,Credit Card
+1760,7,Net Banking
+1761,9,UPI
+1762,7,Net Banking
+1763,2,UPI
+1764,5,UPI
+1765,8,Credit Card
+1766,6,Credit Card
+1767,7,Debit Card
+1768,1,Cash on Delivery
+1769,2,Credit Card
+1770,8,Cash on Delivery
+1771,10,UPI
+1772,10,UPI
+1773,4,UPI
+1774,8,Debit Card
+1775,10,UPI
+1776,1,Cash on Delivery
+1777,2,Debit Card
+1778,2,UPI
+1779,5,Cash on Delivery
+1780,6,Debit Card
+1781,8,UPI
+1782,7,UPI
+1783,5,UPI
+1784,1,UPI
+1785,3,Credit Card
+1786,10,Net Banking
+1787,5,UPI
+1788,7,Cash on Delivery
+1789,1,Net Banking
+1790,7,UPI
+1791,5,UPI
+1792,9,Net Banking
+1793,4,Credit Card
+1794,7,Cash on Delivery
+1795,9,Credit Card
+1796,6,Cash on Delivery
+1797,1,Credit Card
+1798,3,Debit Card
+1799,2,Net Banking
+1800,7,Debit Card
+1801,1,Cash on Delivery
+1802,3,Credit Card
+1803,4,Cash on Delivery
+1804,6,Net Banking
+1805,1,Cash on Delivery
+1806,2,Debit Card
+1807,10,Net Banking
+1808,4,Net Banking
+1809,9,UPI
+1810,8,UPI
+1811,8,Debit Card
+1812,6,UPI
+1813,6,Credit Card
+1814,6,Net Banking
+1815,2,Cash on Delivery
+1816,7,UPI
+1817,2,UPI
+1818,2,Cash on Delivery
+1819,10,Debit Card
+1820,8,Net Banking
+1821,1,Cash on Delivery
+1822,3,Credit Card
+1823,1,Cash on Delivery
+1824,2,Debit Card
+1825,6,UPI
+1826,7,Cash on Delivery
+1827,2,Debit Card
+1828,3,Credit Card
+1829,6,UPI
+1830,3,Cash on Delivery
+1831,2,Net Banking
+1832,6,Net Banking
+1833,8,Credit Card
+1834,2,Cash on Delivery
+1835,1,Credit Card
+1836,4,Net Banking
+1837,9,Net Banking
+1838,1,Cash on Delivery
+1839,5,UPI
+1840,9,Debit Card
+1841,8,Cash on Delivery
+1842,1,Credit Card
+1843,6,Net Banking
+1844,4,Debit Card
+1845,2,UPI
+1846,7,Cash on Delivery
+1847,6,Credit Card
+1848,1,Credit Card
+1849,6,Net Banking
+1850,9,Debit Card
+1851,10,Net Banking
+1852,2,Credit Card
+1853,9,Cash on Delivery
+1854,2,Debit Card
+1855,3,Cash on Delivery
+1856,6,Debit Card
+1857,1,UPI
+1858,8,Debit Card
+1859,3,Net Banking
+1860,10,Net Banking
+1861,3,Debit Card
+1862,8,Net Banking
+1863,7,Net Banking
+1864,3,Cash on Delivery
+1865,3,Net Banking
+1866,9,Credit Card
+1867,4,Cash on Delivery
+1868,3,UPI
+1869,4,UPI
+1870,1,Credit Card
+1871,10,Debit Card
+1872,3,Credit Card
+1873,7,UPI
+1874,2,UPI
+1875,6,Debit Card
+1876,7,Net Banking
+1877,6,Net Banking
+1878,4,Net Banking
+1879,3,UPI
+1880,10,Debit Card
+1881,10,UPI
+1882,2,Cash on Delivery
+1883,3,UPI
+1884,6,Cash on Delivery
+1885,3,UPI
+1886,7,UPI
+1887,5,UPI
+1888,2,Cash on Delivery
+1889,2,Cash on Delivery
+1890,9,Cash on Delivery
+1891,4,Net Banking
+1892,3,UPI
+1893,9,Debit Card
+1894,5,Credit Card
+1895,9,Credit Card
+1896,9,Cash on Delivery
+1897,1,UPI
+1898,1,Net Banking
+1899,7,Credit Card
+1900,2,Debit Card
+1901,7,UPI
+1902,4,Net Banking
+1903,6,Debit Card
+1904,4,Cash on Delivery
+1905,10,Cash on Delivery
+1906,10,UPI
+1907,8,Net Banking
+1908,8,Debit Card
+1909,10,Cash on Delivery
+1910,6,Net Banking
+1911,8,UPI
+1912,4,Credit Card
+1913,8,Credit Card
+1914,9,UPI
+1915,7,Net Banking
+1916,10,Net Banking
+1917,4,Cash on Delivery
+1918,5,UPI
+1919,9,Net Banking
+1920,1,Cash on Delivery
+1921,8,Credit Card
+1922,3,Net Banking
+1923,3,Cash on Delivery
+1924,8,Net Banking
+1925,6,Net Banking
+1926,5,Net Banking
+1927,10,Net Banking
+1928,3,Net Banking
+1929,7,Cash on Delivery
+1930,5,Credit Card
+1931,4,Cash on Delivery
+1932,5,Net Banking
+1933,3,Cash on Delivery
+1934,2,UPI
+1935,10,Credit Card
+1936,6,Net Banking
+1937,8,UPI
+1938,6,Debit Card
+1939,1,Credit Card
+1940,7,Cash on Delivery
+1941,10,Cash on Delivery
+1942,9,UPI
+1943,7,Credit Card
+1944,7,Credit Card
+1945,3,Cash on Delivery
+1946,8,Net Banking
+1947,3,Net Banking
+1948,2,Debit Card
+1949,4,Cash on Delivery
+1950,4,Debit Card
+1951,9,Debit Card
+1952,5,Debit Card
+1953,7,Debit Card
+1954,6,Net Banking
+1955,5,Debit Card
+1956,7,Net Banking
+1957,5,Debit Card
+1958,3,Cash on Delivery
+1959,1,Net Banking
+1960,9,Net Banking
+1961,7,Credit Card
+1962,3,Cash on Delivery
+1963,9,Debit Card
+1964,6,Debit Card
+1965,7,Credit Card
+1966,4,Credit Card
+1967,2,Credit Card
+1968,1,Cash on Delivery
+1969,1,UPI
+1970,6,Debit Card
+1971,3,Cash on Delivery
+1972,4,Debit Card
+1973,7,Cash on Delivery
+1974,6,Credit Card
+1975,1,Debit Card
+1976,3,Cash on Delivery
+1977,1,Debit Card
+1978,6,Credit Card
+1979,9,Credit Card
+1980,1,UPI
+1981,6,Net Banking
+1982,9,UPI
+1983,8,Credit Card
+1984,4,Net Banking
+1985,2,Cash on Delivery
+1986,10,UPI
+1987,4,Cash on Delivery
+1988,4,UPI
+1989,4,Net Banking
+1990,3,Net Banking
+1991,2,Net Banking
+1992,1,UPI
+1993,3,Cash on Delivery
+1994,10,Debit Card
+1995,8,Net Banking
+1996,3,Credit Card
+1997,5,Credit Card
+1998,4,Debit Card
+1999,5,Cash on Delivery
+2000,9,Cash on Delivery
+2001,5,Debit Card
+2002,4,Credit Card
+2003,7,Credit Card
+2004,2,UPI
+2005,7,Credit Card
+2006,4,Net Banking
+2007,6,Debit Card
+2008,3,UPI
+2009,8,Debit Card
+2010,10,Debit Card
+2011,2,Debit Card
+2012,4,UPI
+2013,9,Debit Card
+2014,3,UPI
+2015,3,Debit Card
+2016,4,Cash on Delivery
+2017,5,Credit Card
+2018,9,Net Banking
+2019,10,Cash on Delivery
+2020,7,Net Banking
+2021,1,Net Banking
+2022,7,Net Banking
+2023,9,UPI
+2024,10,Cash on Delivery
+2025,6,Debit Card
+2026,5,Cash on Delivery
+2027,9,UPI
+2028,3,Debit Card
+2029,3,UPI
+2030,9,UPI
+2031,5,Credit Card
+2032,7,Debit Card
+2033,5,Credit Card
+2034,6,Net Banking
+2035,5,Debit Card
+2036,10,Credit Card
+2037,7,Cash on Delivery
+2038,7,Debit Card
+2039,10,Net Banking
+2040,9,UPI
+2041,1,Net Banking
+2042,5,UPI
+2043,6,Debit Card
+2044,2,Cash on Delivery
+2045,3,UPI
+2046,10,Net Banking
+2047,3,Debit Card
+2048,6,Cash on Delivery
+2049,3,Credit Card
+2050,10,Cash on Delivery
+2051,5,Cash on Delivery
+2052,6,Credit Card
+2053,10,UPI
+2054,5,Credit Card
+2055,9,Net Banking
+2056,1,Credit Card
+2057,2,Credit Card
+2058,10,Debit Card
+2059,1,UPI
+2060,8,Cash on Delivery
+2061,2,Cash on Delivery
+2062,4,Debit Card
+2063,6,Net Banking
+2064,1,Cash on Delivery
+2065,9,Net Banking
+2066,9,Cash on Delivery
+2067,3,Cash on Delivery
+2068,4,Net Banking
+2069,9,Credit Card
+2070,1,Credit Card
+2071,7,Net Banking
+2072,7,Net Banking
+2073,2,Net Banking
+2074,2,Debit Card
+2075,9,Debit Card
+2076,2,UPI
+2077,3,Debit Card
+2078,4,Net Banking
+2079,2,Debit Card
+2080,3,UPI
+2081,5,Debit Card
+2082,1,Cash on Delivery
+2083,3,Debit Card
+2084,3,UPI
+2085,2,Debit Card
+2086,10,Cash on Delivery
+2087,4,Debit Card
+2088,2,Debit Card
+2089,6,Debit Card
+2090,8,UPI
+2091,5,UPI
+2092,8,Credit Card
+2093,9,UPI
+2094,1,Credit Card
+2095,9,Credit Card
+2096,4,Debit Card
+2097,7,Credit Card
+2098,2,UPI
+2099,8,UPI
+2100,10,Credit Card
+2101,8,UPI
+2102,8,Net Banking
+2103,10,Cash on Delivery
+2104,7,Credit Card
+2105,9,UPI
+2106,8,Net Banking
+2107,4,Credit Card
+2108,7,Net Banking
+2109,2,Credit Card
+2110,1,Debit Card
+2111,1,Debit Card
+2112,5,Debit Card
+2113,9,Cash on Delivery
+2114,9,Net Banking
+2115,6,Net Banking
+2116,7,Debit Card
+2117,7,Net Banking
+2118,3,Debit Card
+2119,3,Cash on Delivery
+2120,8,UPI
+2121,4,Debit Card
+2122,3,UPI
+2123,8,Cash on Delivery
+2124,2,Cash on Delivery
+2125,6,UPI
+2126,3,Debit Card
+2127,3,Credit Card
+2128,8,Debit Card
+2129,6,Net Banking
+2130,4,Credit Card
+2131,6,Net Banking
+2132,3,Cash on Delivery
+2133,6,Cash on Delivery
+2134,4,UPI
+2135,3,Credit Card
+2136,6,Cash on Delivery
+2137,2,Cash on Delivery
+2138,4,UPI
+2139,8,UPI
+2140,1,Net Banking
+2141,3,UPI
+2142,10,Debit Card
+2143,3,Credit Card
+2144,10,Cash on Delivery
+2145,4,Credit Card
+2146,3,Net Banking
+2147,4,Cash on Delivery
+2148,3,Net Banking
+2149,3,Credit Card
+2150,8,UPI
+2151,9,Cash on Delivery
+2152,6,UPI
+2153,8,UPI
+2154,6,Credit Card
+2155,9,Credit Card
+2156,4,Debit Card
+2157,9,UPI
+2158,4,Credit Card
+2159,7,Cash on Delivery
+2160,3,Net Banking
+2161,9,Credit Card
+2162,4,Debit Card
+2163,9,Net Banking
+2164,1,UPI
+2165,1,Cash on Delivery
+2166,4,UPI
+2167,2,Credit Card
+2168,10,Cash on Delivery
+2169,2,Cash on Delivery
+2170,5,Net Banking
+2171,10,UPI
+2172,2,Credit Card
+2173,6,Cash on Delivery
+2174,4,UPI
+2175,2,Cash on Delivery
+2176,7,Debit Card
+2177,4,Net Banking
+2178,5,Debit Card
+2179,8,Net Banking
+2180,8,Net Banking
+2181,3,Cash on Delivery
+2182,6,Debit Card
+2183,9,Net Banking
+2184,10,Credit Card
+2185,9,Debit Card
+2186,2,Debit Card
+2187,7,Credit Card
+2188,5,Cash on Delivery
+2189,8,Cash on Delivery
+2190,4,Cash on Delivery
+2191,4,Credit Card
+2192,3,Debit Card
+2193,6,Debit Card
+2194,3,UPI
+2195,2,Credit Card
+2196,1,Cash on Delivery
+2197,6,Credit Card
+2198,6,Credit Card
+2199,10,UPI
+2200,6,Cash on Delivery
+2201,9,UPI
+2202,5,UPI
+2203,4,Debit Card
+2204,6,UPI
+2205,8,Net Banking
+2206,6,Debit Card
+2207,3,Net Banking
+2208,7,UPI
+2209,2,Net Banking
+2210,4,Cash on Delivery
+2211,8,Cash on Delivery
+2212,8,UPI
+2213,3,Credit Card
+2214,2,UPI
+2215,10,Net Banking
+2216,5,Net Banking
+2217,8,Cash on Delivery
+2218,10,Credit Card
+2219,9,Cash on Delivery
+2220,4,UPI
+2221,4,UPI
+2222,3,UPI
+2223,8,Cash on Delivery
+2224,5,Credit Card
+2225,10,Net Banking
+2226,8,Cash on Delivery
+2227,2,Credit Card
+2228,9,Net Banking
+2229,3,UPI
+2230,9,Net Banking
+2231,8,Credit Card
+2232,1,UPI
+2233,10,UPI
+2234,4,Net Banking
+2235,6,Debit Card
+2236,5,Net Banking
+2237,10,Credit Card
+2238,2,Credit Card
+2239,5,Net Banking
+2240,5,Net Banking
+2241,10,Cash on Delivery
+2242,9,Cash on Delivery
+2243,5,Credit Card
+2244,1,UPI
+2245,6,Debit Card
+2246,1,Net Banking
+2247,4,Credit Card
+2248,1,Cash on Delivery
+2249,6,Credit Card
+2250,6,Credit Card
+2251,10,UPI
+2252,10,UPI
+2253,8,Debit Card
+2254,5,UPI
+2255,10,Net Banking
+2256,1,Net Banking
+2257,5,Debit Card
+2258,9,Credit Card
+2259,5,Credit Card
+2260,9,Credit Card
+2261,1,UPI
+2262,8,UPI
+2263,3,UPI
+2264,6,Debit Card
+2265,5,Debit Card
+2266,2,Debit Card
+2267,3,Debit Card
+2268,8,UPI
+2269,3,Cash on Delivery
+2270,10,Cash on Delivery
+2271,2,Debit Card
+2272,2,Debit Card
+2273,3,Debit Card
+2274,8,Net Banking
+2275,4,UPI
+2276,6,Credit Card
+2277,2,Credit Card
+2278,9,Net Banking
+2279,9,Debit Card
+2280,3,Net Banking
+2281,5,Net Banking
+2282,7,Cash on Delivery
+2283,3,Debit Card
+2284,9,UPI
+2285,6,Cash on Delivery
+2286,8,Cash on Delivery
+2287,10,Credit Card
+2288,4,Net Banking
+2289,2,Cash on Delivery
+2290,4,Debit Card
+2291,1,Net Banking
+2292,1,Debit Card
+2293,8,Debit Card
+2294,1,Debit Card
+2295,1,Net Banking
+2296,4,UPI
+2297,2,Net Banking
+2298,6,Credit Card
+2299,7,Credit Card
+2300,3,Net Banking
+2301,3,UPI
+2302,4,Net Banking
+2303,1,Net Banking
+2304,8,Debit Card
+2305,4,Net Banking
+2306,1,Net Banking
+2307,8,Debit Card
+2308,10,Cash on Delivery
+2309,7,Debit Card
+2310,1,Credit Card
+2311,9,Net Banking
+2312,8,Cash on Delivery
+2313,8,UPI
+2314,7,Debit Card
+2315,9,Cash on Delivery
+2316,4,Cash on Delivery
+2317,7,Debit Card
+2318,7,Net Banking
+2319,7,Cash on Delivery
+2320,8,Cash on Delivery
+2321,1,Credit Card
+2322,2,Credit Card
+2323,7,Cash on Delivery
+2324,1,Credit Card
+2325,6,Net Banking
+2326,6,Debit Card
+2327,3,Debit Card
+2328,5,Credit Card
+2329,4,Credit Card
+2330,3,Net Banking
+2331,10,UPI
+2332,9,UPI
+2333,6,Debit Card
+2334,7,Net Banking
+2335,2,Debit Card
+2336,2,UPI
+2337,6,Debit Card
+2338,4,UPI
+2339,7,Debit Card
+2340,4,Cash on Delivery
+2341,7,Cash on Delivery
+2342,3,Credit Card
+2343,5,Credit Card
+2344,9,Net Banking
+2345,3,Net Banking
+2346,2,Cash on Delivery
+2347,10,Debit Card
+2348,8,UPI
+2349,10,Credit Card
+2350,7,Net Banking
+2351,9,Credit Card
+2352,10,Credit Card
+2353,4,Debit Card
+2354,9,Debit Card
+2355,8,Cash on Delivery
+2356,1,Cash on Delivery
+2357,1,Net Banking
+2358,10,Debit Card
+2359,4,UPI
+2360,9,Cash on Delivery
+2361,2,Net Banking
+2362,4,Cash on Delivery
+2363,9,Cash on Delivery
+2364,4,Cash on Delivery
+2365,9,Credit Card
+2366,8,Debit Card
+2367,3,Net Banking
+2368,2,UPI
+2369,10,Cash on Delivery
+2370,6,Net Banking
+2371,5,UPI
+2372,3,Net Banking
+2373,1,Cash on Delivery
+2374,3,UPI
+2375,6,Cash on Delivery
+2376,4,Cash on Delivery
+2377,7,Credit Card
+2378,3,UPI
+2379,7,Debit Card
+2380,1,Cash on Delivery
+2381,4,Debit Card
+2382,9,Net Banking
+2383,6,Credit Card
+2384,2,Credit Card
+2385,8,UPI
+2386,8,Credit Card
+2387,1,Credit Card
+2388,9,Net Banking
+2389,3,UPI
+2390,5,UPI
+2391,9,Cash on Delivery
+2392,10,Debit Card
+2393,4,Cash on Delivery
+2394,4,UPI
+2395,1,Debit Card
+2396,2,UPI
+2397,7,Debit Card
+2398,7,Cash on Delivery
+2399,7,UPI
+2400,8,Net Banking
+2401,2,Net Banking
+2402,1,Credit Card
+2403,9,UPI
+2404,4,UPI
+2405,8,Credit Card
+2406,2,Net Banking
+2407,10,UPI
+2408,6,Credit Card
+2409,7,Cash on Delivery
+2410,7,Cash on Delivery
+2411,2,Credit Card
+2412,7,Debit Card
+2413,6,Debit Card
+2414,1,Net Banking
+2415,3,Cash on Delivery
+2416,8,UPI
+2417,9,Cash on Delivery
+2418,4,Cash on Delivery
+2419,10,Net Banking
+2420,10,Debit Card
+2421,3,Net Banking
+2422,8,Net Banking
+2423,9,Net Banking
+2424,1,Credit Card
+2425,1,Credit Card
+2426,10,Net Banking
+2427,5,Credit Card
+2428,1,Credit Card
+2429,1,UPI
+2430,1,Cash on Delivery
+2431,9,UPI
+2432,6,Credit Card
+2433,8,UPI
+2434,5,Cash on Delivery
+2435,7,Cash on Delivery
+2436,6,UPI
+2437,2,Cash on Delivery
+2438,1,Cash on Delivery
+2439,2,Credit Card
+2440,9,Net Banking
+2441,9,Credit Card
+2442,10,Cash on Delivery
+2443,9,Net Banking
+2444,2,Credit Card
+2445,10,Credit Card
+2446,6,Net Banking
+2447,4,Debit Card
+2448,4,Credit Card
+2449,1,Cash on Delivery
+2450,2,Cash on Delivery
+2451,5,Credit Card
+2452,7,Credit Card
+2453,4,Credit Card
+2454,7,Cash on Delivery
+2455,1,Cash on Delivery
+2456,4,Net Banking
+2457,5,Debit Card
+2458,1,Debit Card
+2459,1,Debit Card
+2460,9,Cash on Delivery
+2461,2,Credit Card
+2462,8,Cash on Delivery
+2463,7,Credit Card
+2464,2,Cash on Delivery
+2465,5,Debit Card
+2466,8,UPI
+2467,7,Cash on Delivery
+2468,3,Net Banking
+2469,3,Cash on Delivery
+2470,1,Debit Card
+2471,9,UPI
+2472,3,Credit Card
+2473,1,Credit Card
+2474,3,Cash on Delivery
+2475,3,UPI
+2476,4,Net Banking
+2477,1,UPI
+2478,8,Debit Card
+2479,10,Debit Card
+2480,10,Credit Card
+2481,3,Debit Card
+2482,6,Debit Card
+2483,7,Credit Card
+2484,5,Debit Card
+2485,6,UPI
+2486,5,Debit Card
+2487,2,Credit Card
+2488,10,Net Banking
+2489,6,UPI
+2490,8,Credit Card
+2491,3,Cash on Delivery
+2492,3,Cash on Delivery
+2493,4,Cash on Delivery
+2494,9,Credit Card
+2495,3,Debit Card
+2496,4,Credit Card
+2497,6,Net Banking
+2498,3,Net Banking
+2499,3,UPI
+2500,4,UPI
+2501,5,UPI
+2502,8,UPI
+2503,4,UPI
+2504,3,Net Banking
+2505,9,Debit Card
+2506,4,Net Banking
+2507,5,Net Banking
+2508,6,Debit Card
+2509,6,UPI
+2510,8,Debit Card
+2511,7,Debit Card
+2512,1,Debit Card
+2513,1,Debit Card
+2514,2,Cash on Delivery
+2515,2,Cash on Delivery
+2516,8,Debit Card
+2517,3,Credit Card
+2518,3,Net Banking
+2519,3,UPI
+2520,9,Credit Card
+2521,8,Credit Card
+2522,1,Net Banking
+2523,2,UPI
+2524,3,Debit Card
+2525,2,Credit Card
+2526,3,Net Banking
+2527,8,UPI
+2528,5,Debit Card
+2529,1,Cash on Delivery
+2530,3,Debit Card
+2531,4,Debit Card
+2532,5,Debit Card
+2533,3,Credit Card
+2534,6,UPI
+2535,7,Cash on Delivery
+2536,10,UPI
+2537,9,Debit Card
+2538,3,Debit Card
+2539,9,UPI
+2540,9,Cash on Delivery
+2541,5,Net Banking
+2542,5,Credit Card
+2543,9,Debit Card
+2544,1,UPI
+2545,3,UPI
+2546,3,Credit Card
+2547,10,UPI
+2548,2,Net Banking
+2549,8,Debit Card
+2550,2,Credit Card
+2551,2,Credit Card
+2552,1,UPI
+2553,10,UPI
+2554,6,Debit Card
+2555,5,Cash on Delivery
+2556,9,Debit Card
+2557,3,Cash on Delivery
+2558,1,Cash on Delivery
+2559,7,Credit Card
+2560,5,Cash on Delivery
+2561,7,Net Banking
+2562,2,Debit Card
+2563,4,UPI
+2564,1,Net Banking
+2565,1,Cash on Delivery
+2566,7,Debit Card
+2567,6,Credit Card
+2568,3,UPI
+2569,7,UPI
+2570,6,Debit Card
+2571,2,Net Banking
+2572,4,Debit Card
+2573,3,Cash on Delivery
+2574,8,Cash on Delivery
+2575,3,UPI
+2576,1,Credit Card
+2577,3,UPI
+2578,4,Debit Card
+2579,5,Cash on Delivery
+2580,5,Credit Card
+2581,10,UPI
+2582,10,Cash on Delivery
+2583,9,Credit Card
+2584,5,UPI
+2585,9,Credit Card
+2586,5,Cash on Delivery
+2587,9,Net Banking
+2588,10,UPI
+2589,7,Cash on Delivery
+2590,7,Credit Card
+2591,9,Cash on Delivery
+2592,10,Debit Card
+2593,1,Net Banking
+2594,9,Cash on Delivery
+2595,3,Debit Card
+2596,2,Credit Card
+2597,7,Net Banking
+2598,8,UPI
+2599,3,Credit Card
+2600,10,Credit Card
+2601,10,Cash on Delivery
+2602,6,Cash on Delivery
+2603,7,Net Banking
+2604,3,Net Banking
+2605,5,Credit Card
+2606,6,Debit Card
+2607,2,Cash on Delivery
+2608,9,UPI
+2609,1,Credit Card
+2610,2,Cash on Delivery
+2611,1,UPI
+2612,2,UPI
+2613,3,Credit Card
+2614,7,Cash on Delivery
+2615,7,UPI
+2616,4,Net Banking
+2617,8,Net Banking
+2618,7,UPI
+2619,3,UPI
+2620,6,Net Banking
+2621,10,UPI
+2622,10,UPI
+2623,1,Credit Card
+2624,3,Cash on Delivery
+2625,10,Debit Card
+2626,5,Credit Card
+2627,4,UPI
+2628,5,UPI
+2629,3,Net Banking
+2630,4,Net Banking
+2631,6,Credit Card
+2632,2,UPI
+2633,4,Debit Card
+2634,6,UPI
+2635,5,Net Banking
+2636,5,Cash on Delivery
+2637,6,Debit Card
+2638,6,Cash on Delivery
+2639,2,Cash on Delivery
+2640,2,UPI
+2641,4,Net Banking
+2642,10,Cash on Delivery
+2643,3,Net Banking
+2644,3,Credit Card
+2645,4,Net Banking
+2646,1,UPI
+2647,3,Credit Card
+2648,3,Debit Card
+2649,1,UPI
+2650,8,Credit Card
+2651,2,Net Banking
+2652,2,UPI
+2653,1,Credit Card
+2654,4,Cash on Delivery
+2655,6,UPI
+2656,7,Net Banking
+2657,3,Cash on Delivery
+2658,4,UPI
+2659,2,UPI
+2660,3,Credit Card
+2661,7,Debit Card
+2662,4,UPI
+2663,3,Debit Card
+2664,4,Credit Card
+2665,2,Cash on Delivery
+2666,9,Net Banking
+2667,3,Net Banking
+2668,7,UPI
+2669,2,Net Banking
+2670,2,UPI
+2671,4,Cash on Delivery
+2672,6,Debit Card
+2673,3,UPI
+2674,1,UPI
+2675,7,Debit Card
+2676,7,UPI
+2677,10,Cash on Delivery
+2678,2,UPI
+2679,7,Net Banking
+2680,9,Net Banking
+2681,2,Net Banking
+2682,5,Debit Card
+2683,3,Net Banking
+2684,3,UPI
+2685,7,Credit Card
+2686,5,UPI
+2687,5,Cash on Delivery
+2688,1,Debit Card
+2689,1,Net Banking
+2690,1,UPI
+2691,8,UPI
+2692,5,UPI
+2693,8,Credit Card
+2694,8,Debit Card
+2695,5,Net Banking
+2696,6,Credit Card
+2697,1,Net Banking
+2698,4,Debit Card
+2699,7,Net Banking
+2700,2,Net Banking
+2701,9,Debit Card
+2702,6,Cash on Delivery
+2703,3,Credit Card
+2704,2,UPI
+2705,3,Net Banking
+2706,4,UPI
+2707,7,Cash on Delivery
+2708,3,Net Banking
+2709,10,Credit Card
+2710,2,Credit Card
+2711,9,UPI
+2712,1,UPI
+2713,2,Net Banking
+2714,4,Cash on Delivery
+2715,1,Debit Card
+2716,4,Cash on Delivery
+2717,4,Debit Card
+2718,9,Credit Card
+2719,8,UPI
+2720,8,Cash on Delivery
+2721,6,UPI
+2722,5,Net Banking
+2723,4,Credit Card
+2724,4,Cash on Delivery
+2725,8,Debit Card
+2726,10,UPI
+2727,5,Cash on Delivery
+2728,1,Cash on Delivery
+2729,2,Net Banking
+2730,7,Net Banking
+2731,5,Net Banking
+2732,6,UPI
+2733,7,Debit Card
+2734,7,Credit Card
+2735,4,UPI
+2736,1,Credit Card
+2737,7,Debit Card
+2738,4,Credit Card
+2739,9,Net Banking
+2740,3,UPI
+2741,7,UPI
+2742,6,Cash on Delivery
+2743,5,UPI
+2744,6,UPI
+2745,1,Cash on Delivery
+2746,3,Net Banking
+2747,1,Cash on Delivery
+2748,7,Debit Card
+2749,2,UPI
+2750,2,Credit Card
+2751,6,Credit Card
+2752,5,Net Banking
+2753,1,Debit Card
+2754,6,Net Banking
+2755,8,Debit Card
+2756,9,UPI
+2757,2,Cash on Delivery
+2758,10,Cash on Delivery
+2759,4,Credit Card
+2760,3,Cash on Delivery
+2761,5,Credit Card
+2762,7,Credit Card
+2763,10,UPI
+2764,7,Credit Card
+2765,5,Net Banking
+2766,6,Cash on Delivery
+2767,5,UPI
+2768,6,Debit Card
+2769,4,Credit Card
+2770,4,Cash on Delivery
+2771,6,Net Banking
+2772,6,Debit Card
+2773,5,Net Banking
+2774,3,Net Banking
+2775,4,Debit Card
+2776,2,Debit Card
+2777,7,Debit Card
+2778,4,Debit Card
+2779,1,Debit Card
+2780,9,Credit Card
+2781,8,UPI
+2782,5,Credit Card
+2783,3,Cash on Delivery
+2784,4,Debit Card
+2785,5,Debit Card
+2786,7,Debit Card
+2787,10,Credit Card
+2788,1,UPI
+2789,3,Credit Card
+2790,9,Credit Card
+2791,10,Credit Card
+2792,2,Net Banking
+2793,4,Net Banking
+2794,6,Net Banking
+2795,1,UPI
+2796,6,Debit Card
+2797,4,UPI
+2798,7,Net Banking
+2799,6,Credit Card
+2800,9,Cash on Delivery
+2801,6,Credit Card
+2802,4,UPI
+2803,8,Cash on Delivery
+2804,1,UPI
+2805,7,Net Banking
+2806,3,Credit Card
+2807,7,UPI
+2808,8,Cash on Delivery
+2809,2,UPI
+2810,9,Net Banking
+2811,5,Debit Card
+2812,10,Debit Card
+2813,5,Credit Card
+2814,2,UPI
+2815,9,Cash on Delivery
+2816,10,Net Banking
+2817,7,Debit Card
+2818,2,Cash on Delivery
+2819,6,Debit Card
+2820,3,Credit Card
+2821,2,Debit Card
+2822,1,Net Banking
+2823,7,Debit Card
+2824,2,Debit Card
+2825,6,Debit Card
+2826,6,Credit Card
+2827,5,Net Banking
+2828,8,UPI
+2829,6,Debit Card
+2830,9,Debit Card
+2831,3,Cash on Delivery
+2832,9,Cash on Delivery
+2833,9,Credit Card
+2834,7,Credit Card
+2835,10,Net Banking
+2836,10,Cash on Delivery
+2837,4,Debit Card
+2838,7,Credit Card
+2839,7,Net Banking
+2840,1,Debit Card
+2841,6,Debit Card
+2842,2,Credit Card
+2843,6,Credit Card
+2844,8,Debit Card
+2845,7,Debit Card
+2846,5,Debit Card
+2847,2,Debit Card
+2848,1,UPI
+2849,8,Debit Card
+2850,1,Credit Card
+2851,6,Cash on Delivery
+2852,9,Cash on Delivery
+2853,3,Net Banking
+2854,3,Cash on Delivery
+2855,5,Debit Card
+2856,9,Net Banking
+2857,9,Cash on Delivery
+2858,8,Cash on Delivery
+2859,7,UPI
+2860,2,Debit Card
+2861,5,Cash on Delivery
+2862,7,Debit Card
+2863,9,UPI
+2864,4,Credit Card
+2865,2,Net Banking
+2866,9,Credit Card
+2867,7,Net Banking
+2868,1,UPI
+2869,6,Cash on Delivery
+2870,1,Net Banking
+2871,1,UPI
+2872,3,Debit Card
+2873,2,UPI
+2874,6,Debit Card
+2875,10,Cash on Delivery
+2876,2,Cash on Delivery
+2877,7,UPI
+2878,3,Debit Card
+2879,8,Cash on Delivery
+2880,1,Debit Card
+2881,8,Debit Card
+2882,10,Cash on Delivery
+2883,8,Cash on Delivery
+2884,10,Credit Card
+2885,2,UPI
+2886,1,Credit Card
+2887,4,Debit Card
+2888,9,Net Banking
+2889,1,Net Banking
+2890,2,UPI
+2891,6,Net Banking
+2892,5,Debit Card
+2893,2,Credit Card
+2894,5,Net Banking
+2895,3,Cash on Delivery
+2896,3,UPI
+2897,1,Net Banking
+2898,9,Cash on Delivery
+2899,3,Debit Card
+2900,4,Net Banking
+2901,10,Debit Card
+2902,7,Credit Card
+2903,6,Net Banking
+2904,10,UPI
+2905,7,UPI
+2906,8,Debit Card
+2907,8,Debit Card
+2908,6,Debit Card
+2909,8,Debit Card
+2910,10,Cash on Delivery
+2911,1,Net Banking
+2912,3,Cash on Delivery
+2913,10,Cash on Delivery
+2914,7,Debit Card
+2915,4,Net Banking
+2916,4,Debit Card
+2917,3,Credit Card
+2918,5,Net Banking
+2919,1,Cash on Delivery
+2920,6,Credit Card
+2921,8,Debit Card
+2922,6,Cash on Delivery
+2923,5,Debit Card
+2924,9,UPI
+2925,9,Cash on Delivery
+2926,10,Debit Card
+2927,9,Net Banking
+2928,2,UPI
+2929,6,Credit Card
+2930,7,Debit Card
+2931,10,Cash on Delivery
+2932,6,Net Banking
+2933,4,Credit Card
+2934,6,UPI
+2935,6,Credit Card
+2936,8,Credit Card
+2937,2,Cash on Delivery
+2938,7,Credit Card
+2939,3,Debit Card
+2940,4,Cash on Delivery
+2941,2,Debit Card
+2942,6,Cash on Delivery
+2943,2,Net Banking
+2944,1,Net Banking
+2945,2,Debit Card
+2946,3,Cash on Delivery
+2947,4,UPI
+2948,3,Cash on Delivery
+2949,3,Debit Card
+2950,4,Net Banking
+2951,4,UPI
+2952,8,Credit Card
+2953,8,Net Banking
+2954,4,Cash on Delivery
+2955,7,Net Banking
+2956,2,Credit Card
+2957,9,Net Banking
+2958,6,Credit Card
+2959,7,UPI
+2960,3,Cash on Delivery
+2961,7,Debit Card
+2962,2,Credit Card
+2963,2,Credit Card
+2964,10,Credit Card
+2965,9,Credit Card
+2966,2,Cash on Delivery
+2967,8,Credit Card
+2968,9,Credit Card
+2969,9,Debit Card
+2970,6,Cash on Delivery
+2971,7,Cash on Delivery
+2972,2,Net Banking
+2973,3,Cash on Delivery
+2974,1,UPI
+2975,3,Credit Card
+2976,6,Debit Card
+2977,8,Debit Card
+2978,6,Cash on Delivery
+2979,3,Debit Card
+2980,2,Debit Card
+2981,9,Credit Card
+2982,7,UPI
+2983,3,Net Banking
+2984,9,Debit Card
+2985,2,UPI
+2986,8,UPI
+2987,4,UPI
+2988,7,Credit Card
+2989,8,Credit Card
+2990,5,Credit Card
+2991,6,Net Banking
+2992,4,Credit Card
+2993,9,UPI
+2994,10,Credit Card
+2995,10,UPI
+2996,7,Net Banking
+2997,1,Credit Card
+2998,4,Cash on Delivery
+2999,10,UPI
+3000,5,Debit Card
+3001,6,UPI
+3002,4,Net Banking
+3003,7,Credit Card
+3004,9,Credit Card
+3005,2,UPI
+3006,5,UPI
+3007,3,Debit Card
+3008,6,Net Banking
+3009,3,Credit Card
+3010,10,Debit Card
+3011,3,Debit Card
+3012,6,UPI
+3013,5,Cash on Delivery
+3014,3,Credit Card
+3015,7,Net Banking
+3016,10,Net Banking
+3017,2,Credit Card
+3018,10,Credit Card
+3019,8,Cash on Delivery
+3020,8,UPI
+3021,10,Cash on Delivery
+3022,3,UPI
+3023,4,Cash on Delivery
+3024,5,Net Banking
+3025,9,Net Banking
+3026,1,UPI
+3027,10,UPI
+3028,10,Debit Card
+3029,5,Credit Card
+3030,7,UPI
+3031,9,Debit Card
+3032,10,Cash on Delivery
+3033,8,Cash on Delivery
+3034,8,Net Banking
+3035,3,Credit Card
+3036,1,Cash on Delivery
+3037,1,UPI
+3038,5,UPI
+3039,3,Net Banking
+3040,3,Net Banking
+3041,6,UPI
+3042,6,UPI
+3043,5,Credit Card
+3044,10,Net Banking
+3045,10,Debit Card
+3046,7,Cash on Delivery
+3047,1,Cash on Delivery
+3048,1,Credit Card
+3049,9,Debit Card
+3050,8,Cash on Delivery
+3051,3,Net Banking
+3052,3,UPI
+3053,1,Net Banking
+3054,8,Net Banking
+3055,8,Credit Card
+3056,8,Cash on Delivery
+3057,4,Cash on Delivery
+3058,3,Debit Card
+3059,3,Net Banking
+3060,4,UPI
+3061,6,Cash on Delivery
+3062,5,UPI
+3063,10,Debit Card
+3064,4,Cash on Delivery
+3065,1,Debit Card
+3066,1,Credit Card
+3067,5,Net Banking
+3068,9,Net Banking
+3069,8,Cash on Delivery
+3070,7,Net Banking
+3071,10,UPI
+3072,7,Debit Card
+3073,9,Net Banking
+3074,9,Net Banking
+3075,5,Credit Card
+3076,1,Credit Card
+3077,3,UPI
+3078,7,Debit Card
+3079,3,UPI
+3080,4,Net Banking
+3081,10,UPI
+3082,5,Net Banking
+3083,5,Cash on Delivery
+3084,3,UPI
+3085,9,Net Banking
+3086,10,Net Banking
+3087,2,Cash on Delivery
+3088,10,Debit Card
+3089,7,UPI
+3090,3,Credit Card
+3091,3,Cash on Delivery
+3092,2,Cash on Delivery
+3093,5,Debit Card
+3094,1,Debit Card
+3095,9,Net Banking
+3096,1,Net Banking
+3097,3,UPI
+3098,10,Net Banking
+3099,1,Credit Card
+3100,5,Credit Card
+3101,4,Cash on Delivery
+3102,1,Net Banking
+3103,9,UPI
+3104,10,Credit Card
+3105,9,Credit Card
+3106,8,UPI
+3107,4,Credit Card
+3108,6,Cash on Delivery
+3109,8,Credit Card
+3110,4,Cash on Delivery
+3111,8,Credit Card
+3112,9,Debit Card
+3113,5,Net Banking
+3114,4,Cash on Delivery
+3115,3,Cash on Delivery
+3116,6,Cash on Delivery
+3117,3,Cash on Delivery
+3118,6,Debit Card
+3119,8,Debit Card
+3120,9,Cash on Delivery
+3121,7,Cash on Delivery
+3122,1,Debit Card
+3123,3,Net Banking
+3124,1,Cash on Delivery
+3125,5,Net Banking
+3126,10,Credit Card
+3127,4,Cash on Delivery
+3128,6,Credit Card
+3129,2,Cash on Delivery
+3130,3,Credit Card
+3131,2,UPI
+3132,6,UPI
+3133,8,Net Banking
+3134,6,Credit Card
+3135,9,UPI
+3136,4,Debit Card
+3137,9,Credit Card
+3138,6,Credit Card
+3139,2,Cash on Delivery
+3140,3,Credit Card
+3141,3,Debit Card
+3142,3,UPI
+3143,3,Debit Card
+3144,2,UPI
+3145,10,UPI
+3146,5,Net Banking
+3147,10,Net Banking
+3148,2,Cash on Delivery
+3149,6,UPI
+3150,9,Net Banking
+3151,5,Cash on Delivery
+3152,2,Net Banking
+3153,6,Debit Card
+3154,1,UPI
+3155,10,UPI
+3156,2,UPI
+3157,10,Cash on Delivery
+3158,7,Credit Card
+3159,8,Cash on Delivery
+3160,1,Net Banking
+3161,8,Credit Card
+3162,3,Credit Card
+3163,2,Debit Card
+3164,3,Credit Card
+3165,9,Credit Card
+3166,10,Credit Card
+3167,9,UPI
+3168,9,Debit Card
+3169,2,Credit Card
+3170,5,Cash on Delivery
+3171,8,Debit Card
+3172,9,Debit Card
+3173,3,Cash on Delivery
+3174,1,UPI
+3175,10,Debit Card
+3176,7,UPI
+3177,8,Cash on Delivery
+3178,10,Debit Card
+3179,2,UPI
+3180,7,Cash on Delivery
+3181,9,Net Banking
+3182,3,Debit Card
+3183,8,Cash on Delivery
+3184,7,Debit Card
+3185,10,Net Banking
+3186,9,Cash on Delivery
+3187,4,Debit Card
+3188,5,Credit Card
+3189,7,Cash on Delivery
+3190,5,UPI
+3191,1,Net Banking
+3192,10,UPI
+3193,8,Net Banking
+3194,7,Cash on Delivery
+3195,6,UPI
+3196,5,Credit Card
+3197,7,Debit Card
+3198,4,Cash on Delivery
+3199,5,Debit Card
+3200,7,Net Banking
+3201,8,Credit Card
+3202,6,Credit Card
+3203,10,Credit Card
+3204,2,UPI
+3205,1,Net Banking
+3206,3,Credit Card
+3207,6,UPI
+3208,3,Cash on Delivery
+3209,7,Debit Card
+3210,8,Debit Card
+3211,9,Debit Card
+3212,10,Debit Card
+3213,9,Credit Card
+3214,10,Net Banking
+3215,8,Debit Card
+3216,9,UPI
+3217,1,Credit Card
+3218,7,UPI
+3219,6,UPI
+3220,8,Credit Card
+3221,6,Credit Card
+3222,5,Net Banking
+3223,4,Credit Card
+3224,2,Cash on Delivery
+3225,2,Cash on Delivery
+3226,3,Credit Card
+3227,1,UPI
+3228,2,Net Banking
+3229,3,Credit Card
+3230,9,UPI
+3231,2,Net Banking
+3232,2,Net Banking
+3233,3,UPI
+3234,3,Cash on Delivery
+3235,1,Debit Card
+3236,7,Net Banking
+3237,5,UPI
+3238,6,Net Banking
+3239,5,Debit Card
+3240,6,Cash on Delivery
+3241,6,UPI
+3242,3,Credit Card
+3243,5,Net Banking
+3244,5,Net Banking
+3245,6,UPI
+3246,4,Credit Card
+3247,9,Credit Card
+3248,5,UPI
+3249,8,Net Banking
+3250,8,UPI
+3251,4,Debit Card
+3252,2,Credit Card
+3253,9,Cash on Delivery
+3254,5,Credit Card
+3255,2,Debit Card
+3256,4,Cash on Delivery
+3257,5,Credit Card
+3258,2,Cash on Delivery
+3259,10,Cash on Delivery
+3260,8,Credit Card
+3261,9,Net Banking
+3262,7,Debit Card
+3263,8,Cash on Delivery
+3264,9,Cash on Delivery
+3265,10,Debit Card
+3266,3,Cash on Delivery
+3267,2,Credit Card
+3268,2,Debit Card
+3269,9,Credit Card
+3270,8,Net Banking
+3271,5,Debit Card
+3272,10,UPI
+3273,1,Credit Card
+3274,6,Net Banking
+3275,6,Net Banking
+3276,10,Credit Card
+3277,10,Net Banking
+3278,9,Cash on Delivery
+3279,9,Cash on Delivery
+3280,2,Debit Card
+3281,8,Credit Card
+3282,1,Credit Card
+3283,6,Debit Card
+3284,2,Cash on Delivery
+3285,10,UPI
+3286,7,Credit Card
+3287,1,Cash on Delivery
+3288,2,Credit Card
+3289,4,UPI
+3290,2,Cash on Delivery
+3291,7,Cash on Delivery
+3292,5,Cash on Delivery
+3293,6,Cash on Delivery
+3294,5,UPI
+3295,3,Cash on Delivery
+3296,1,Credit Card
+3297,6,Cash on Delivery
+3298,1,Credit Card
+3299,9,Debit Card
+3300,8,UPI
+3301,3,Cash on Delivery
+3302,9,Credit Card
+3303,1,UPI
+3304,1,Net Banking
+3305,9,UPI
+3306,5,UPI
+3307,3,Credit Card
+3308,10,Credit Card
+3309,10,Credit Card
+3310,7,UPI
+3311,6,Cash on Delivery
+3312,10,Cash on Delivery
+3313,8,Net Banking
+3314,5,Credit Card
+3315,6,Credit Card
+3316,2,Cash on Delivery
+3317,3,UPI
+3318,3,Credit Card
+3319,9,Credit Card
+3320,5,Net Banking
+3321,4,UPI
+3322,10,Cash on Delivery
+3323,10,Cash on Delivery
+3324,9,Net Banking
+3325,1,UPI
+3326,3,UPI
+3327,4,Debit Card
+3328,10,Debit Card
+3329,3,Credit Card
+3330,5,Cash on Delivery
+3331,2,UPI
+3332,7,Credit Card
+3333,10,Credit Card
+3334,3,UPI
+3335,10,Net Banking
+3336,8,UPI
+3337,2,Net Banking
+3338,3,Credit Card
+3339,5,Cash on Delivery
+3340,3,Net Banking
+3341,5,Debit Card
+3342,7,Credit Card
+3343,7,Cash on Delivery
+3344,1,Cash on Delivery
+3345,7,Debit Card
+3346,6,Credit Card
+3347,7,Credit Card
+3348,10,Credit Card
+3349,5,Credit Card
+3350,3,Cash on Delivery
+3351,3,UPI
+3352,1,Credit Card
+3353,5,Cash on Delivery
+3354,10,UPI
+3355,3,UPI
+3356,8,Debit Card
+3357,3,Credit Card
+3358,7,UPI
+3359,9,Net Banking
+3360,3,Net Banking
+3361,3,UPI
+3362,3,Net Banking
+3363,4,Net Banking
+3364,5,Debit Card
+3365,2,UPI
+3366,9,Net Banking
+3367,7,Cash on Delivery
+3368,9,UPI
+3369,2,Cash on Delivery
+3370,10,Debit Card
+3371,1,Net Banking
+3372,2,Cash on Delivery
+3373,1,Net Banking
+3374,4,UPI
+3375,7,UPI
+3376,6,UPI
+3377,8,Credit Card
+3378,8,UPI
+3379,2,UPI
+3380,10,Net Banking
+3381,10,Net Banking
+3382,6,Net Banking
+3383,6,Debit Card
+3384,5,Cash on Delivery
+3385,10,Credit Card
+3386,6,Net Banking
+3387,8,Cash on Delivery
+3388,9,Debit Card
+3389,9,UPI
+3390,4,Net Banking
+3391,2,Credit Card
+3392,4,Credit Card
+3393,5,Net Banking
+3394,5,Credit Card
+3395,1,Credit Card
+3396,1,Debit Card
+3397,5,UPI
+3398,8,Credit Card
+3399,2,UPI
+3400,5,Net Banking
+3401,4,Net Banking
+3402,2,Credit Card
+3403,4,Credit Card
+3404,6,Debit Card
+3405,8,UPI
+3406,8,Cash on Delivery
+3407,5,Net Banking
+3408,9,UPI
+3409,5,Cash on Delivery
+3410,6,Debit Card
+3411,3,Net Banking
+3412,2,Net Banking
+3413,5,UPI
+3414,4,UPI
+3415,5,Net Banking
+3416,6,Debit Card
+3417,5,Cash on Delivery
+3418,6,UPI
+3419,7,UPI
+3420,9,Cash on Delivery
+3421,3,Debit Card
+3422,6,UPI
+3423,6,Credit Card
+3424,1,Credit Card
+3425,6,Debit Card
+3426,10,Debit Card
+3427,7,Debit Card
+3428,10,UPI
+3429,2,Credit Card
+3430,1,UPI
+3431,6,Net Banking
+3432,9,Credit Card
+3433,4,UPI
+3434,5,Cash on Delivery
+3435,9,Cash on Delivery
+3436,8,Debit Card
+3437,5,Net Banking
+3438,6,UPI
+3439,4,Credit Card
+3440,7,Debit Card
+3441,5,UPI
+3442,1,Cash on Delivery
+3443,7,Cash on Delivery
+3444,6,Cash on Delivery
+3445,4,Net Banking
+3446,1,Cash on Delivery
+3447,4,Cash on Delivery
+3448,4,Cash on Delivery
+3449,8,Cash on Delivery
+3450,9,Cash on Delivery
+3451,10,Credit Card
+3452,9,Credit Card
+3453,10,Net Banking
+3454,2,UPI
+3455,1,Cash on Delivery
+3456,6,Net Banking
+3457,5,UPI
+3458,5,UPI
+3459,10,Debit Card
+3460,4,UPI
+3461,5,Debit Card
+3462,3,UPI
+3463,6,Debit Card
+3464,2,Credit Card
+3465,1,Cash on Delivery
+3466,4,Credit Card
+3467,2,Cash on Delivery
+3468,1,Debit Card
+3469,6,Credit Card
+3470,4,UPI
+3471,8,Credit Card
+3472,10,Net Banking
+3473,9,Debit Card
+3474,1,UPI
+3475,9,Debit Card
+3476,7,UPI
+3477,5,Credit Card
+3478,6,Cash on Delivery
+3479,5,Debit Card
+3480,5,UPI
+3481,7,Credit Card
+3482,2,Net Banking
+3483,9,Debit Card
+3484,9,Debit Card
+3485,3,UPI
+3486,6,Credit Card
+3487,9,Cash on Delivery
+3488,6,Cash on Delivery
+3489,7,Credit Card
+3490,10,Credit Card
+3491,2,Net Banking
+3492,9,UPI
+3493,10,Debit Card
+3494,6,Credit Card
+3495,9,UPI
+3496,4,Net Banking
+3497,10,UPI
+3498,4,Net Banking
+3499,1,UPI
+3500,1,Cash on Delivery
+3501,6,Cash on Delivery
+3502,5,Debit Card
+3503,1,Net Banking
+3504,9,Debit Card
+3505,8,UPI
+3506,1,UPI
+3507,3,Credit Card
+3508,1,Cash on Delivery
+3509,7,Credit Card
+3510,5,Credit Card
+3511,1,Credit Card
+3512,8,UPI
+3513,3,UPI
+3514,2,Debit Card
+3515,6,Credit Card
+3516,5,Debit Card
+3517,7,Debit Card
+3518,2,Debit Card
+3519,2,Cash on Delivery
+3520,8,Cash on Delivery
+3521,10,Net Banking
+3522,8,Net Banking
+3523,6,Net Banking
+3524,3,Cash on Delivery
+3525,5,Credit Card
+3526,8,Cash on Delivery
+3527,4,Credit Card
+3528,9,Net Banking
+3529,5,UPI
+3530,4,Credit Card
+3531,5,Net Banking
+3532,6,Cash on Delivery
+3533,10,Debit Card
+3534,5,Cash on Delivery
+3535,5,Cash on Delivery
+3536,4,Cash on Delivery
+3537,1,Net Banking
+3538,9,Debit Card
+3539,8,Net Banking
+3540,10,Net Banking
+3541,4,Debit Card
+3542,4,UPI
+3543,2,Credit Card
+3544,3,Net Banking
+3545,6,Cash on Delivery
+3546,2,Net Banking
+3547,1,Net Banking
+3548,9,UPI
+3549,10,UPI
+3550,9,Cash on Delivery
+3551,4,UPI
+3552,4,Cash on Delivery
+3553,10,UPI
+3554,4,Credit Card
+3555,6,UPI
+3556,3,Debit Card
+3557,7,Cash on Delivery
+3558,3,Net Banking
+3559,1,Cash on Delivery
+3560,6,UPI
+3561,7,Debit Card
+3562,4,Net Banking
+3563,5,Net Banking
+3564,10,Cash on Delivery
+3565,6,UPI
+3566,8,Credit Card
+3567,8,Cash on Delivery
+3568,2,Debit Card
+3569,6,Cash on Delivery
+3570,3,Cash on Delivery
+3571,1,Cash on Delivery
+3572,5,Cash on Delivery
+3573,2,Net Banking
+3574,3,Net Banking
+3575,10,Credit Card
+3576,7,UPI
+3577,3,Credit Card
+3578,9,Debit Card
+3579,2,Net Banking
+3580,2,Debit Card
+3581,3,Credit Card
+3582,2,Debit Card
+3583,2,Credit Card
+3584,2,Debit Card
+3585,9,Credit Card
+3586,10,UPI
+3587,3,Debit Card
+3588,9,Credit Card
+3589,3,UPI
+3590,6,Credit Card
+3591,9,UPI
+3592,10,Net Banking
+3593,2,UPI
+3594,10,Debit Card
+3595,5,Cash on Delivery
+3596,2,UPI
+3597,1,Credit Card
+3598,9,UPI
+3599,6,Net Banking
+3600,5,Net Banking
+3601,2,Cash on Delivery
+3602,1,Debit Card
+3603,5,UPI
+3604,8,Cash on Delivery
+3605,10,Cash on Delivery
+3606,3,Cash on Delivery
+3607,10,UPI
+3608,7,UPI
+3609,7,Debit Card
+3610,1,Debit Card
+3611,1,Net Banking
+3612,6,Debit Card
+3613,9,UPI
+3614,3,Debit Card
+3615,6,UPI
+3616,8,Net Banking
+3617,5,Debit Card
+3618,5,Credit Card
+3619,6,Debit Card
+3620,10,Net Banking
+3621,8,Debit Card
+3622,9,Net Banking
+3623,10,Debit Card
+3624,6,UPI
+3625,3,Credit Card
+3626,3,UPI
+3627,9,Net Banking
+3628,8,Cash on Delivery
+3629,10,Net Banking
+3630,4,UPI
+3631,9,Cash on Delivery
+3632,8,UPI
+3633,7,Credit Card
+3634,2,Credit Card
+3635,9,Cash on Delivery
+3636,5,UPI
+3637,2,UPI
+3638,7,Credit Card
+3639,3,Debit Card
+3640,4,Net Banking
+3641,4,Net Banking
+3642,8,Debit Card
+3643,2,Debit Card
+3644,4,UPI
+3645,3,Credit Card
+3646,4,Net Banking
+3647,3,Credit Card
+3648,5,Debit Card
+3649,5,Credit Card
+3650,2,Cash on Delivery
+3651,3,Debit Card
+3652,1,Net Banking
+3653,9,Credit Card
+3654,1,Credit Card
+3655,8,Debit Card
+3656,10,Credit Card
+3657,3,Debit Card
+3658,5,Debit Card
+3659,10,Net Banking
+3660,4,Credit Card
+3661,7,Net Banking
+3662,6,Credit Card
+3663,8,Net Banking
+3664,3,Debit Card
+3665,10,Cash on Delivery
+3666,3,Debit Card
+3667,7,Debit Card
+3668,3,Debit Card
+3669,2,Net Banking
+3670,2,Net Banking
+3671,2,UPI
+3672,2,Cash on Delivery
+3673,1,Credit Card
+3674,3,Debit Card
+3675,3,UPI
+3676,10,Cash on Delivery
+3677,8,Debit Card
+3678,6,Cash on Delivery
+3679,4,Debit Card
+3680,2,Debit Card
+3681,10,Cash on Delivery
+3682,4,Debit Card
+3683,10,Net Banking
+3684,5,UPI
+3685,7,Debit Card
+3686,1,Cash on Delivery
+3687,9,Net Banking
+3688,6,Net Banking
+3689,3,UPI
+3690,9,Debit Card
+3691,3,UPI
+3692,8,Cash on Delivery
+3693,2,UPI
+3694,7,UPI
+3695,5,Net Banking
+3696,1,Net Banking
+3697,6,UPI
+3698,10,Debit Card
+3699,1,Cash on Delivery
+3700,3,Net Banking
+3701,4,UPI
+3702,4,Net Banking
+3703,9,Cash on Delivery
+3704,7,Debit Card
+3705,1,Debit Card
+3706,1,Net Banking
+3707,7,UPI
+3708,8,UPI
+3709,3,Credit Card
+3710,7,Net Banking
+3711,4,Debit Card
+3712,4,Credit Card
+3713,8,Debit Card
+3714,2,Net Banking
+3715,8,UPI
+3716,8,Net Banking
+3717,7,Credit Card
+3718,6,UPI
+3719,5,Debit Card
+3720,4,Cash on Delivery
+3721,7,Credit Card
+3722,4,Cash on Delivery
+3723,5,UPI
+3724,8,Debit Card
+3725,7,Debit Card
+3726,2,UPI
+3727,4,Debit Card
+3728,9,UPI
+3729,4,UPI
+3730,7,Debit Card
+3731,6,Debit Card
+3732,7,Cash on Delivery
+3733,6,Credit Card
+3734,8,UPI
+3735,2,Net Banking
+3736,9,Debit Card
+3737,2,Credit Card
+3738,7,Credit Card
+3739,5,Net Banking
+3740,9,Cash on Delivery
+3741,9,Credit Card
+3742,3,UPI
+3743,7,Debit Card
+3744,6,Credit Card
+3745,3,UPI
+3746,7,Credit Card
+3747,2,Net Banking
+3748,4,Cash on Delivery
+3749,1,Cash on Delivery
+3750,9,UPI
+3751,3,Cash on Delivery
+3752,10,Cash on Delivery
+3753,3,Credit Card
+3754,4,UPI
+3755,6,Debit Card
+3756,7,Debit Card
+3757,9,UPI
+3758,4,UPI
+3759,3,Debit Card
+3760,9,Debit Card
+3761,3,Credit Card
+3762,2,Cash on Delivery
+3763,10,Cash on Delivery
+3764,9,Debit Card
+3765,6,Net Banking
+3766,3,Credit Card
+3767,7,Cash on Delivery
+3768,2,Debit Card
+3769,6,Debit Card
+3770,9,Net Banking
+3771,3,Credit Card
+3772,7,Cash on Delivery
+3773,8,Debit Card
+3774,7,Credit Card
+3775,2,Credit Card
+3776,10,Cash on Delivery
+3777,5,Debit Card
+3778,7,Credit Card
+3779,7,Net Banking
+3780,2,UPI
+3781,10,UPI
+3782,9,Cash on Delivery
+3783,3,Cash on Delivery
+3784,2,Debit Card
+3785,3,Debit Card
+3786,5,Cash on Delivery
+3787,6,Net Banking
+3788,10,Credit Card
+3789,1,Debit Card
+3790,1,Debit Card
+3791,3,UPI
+3792,3,Credit Card
+3793,9,Debit Card
+3794,7,Cash on Delivery
+3795,4,Debit Card
+3796,5,Cash on Delivery
+3797,1,Debit Card
+3798,2,Debit Card
+3799,7,UPI
+3800,3,UPI
+3801,4,UPI
+3802,7,Credit Card
+3803,4,Cash on Delivery
+3804,1,UPI
+3805,1,UPI
+3806,6,Net Banking
+3807,9,UPI
+3808,8,UPI
+3809,9,Cash on Delivery
+3810,2,Credit Card
+3811,5,Credit Card
+3812,4,UPI
+3813,3,UPI
+3814,5,Cash on Delivery
+3815,10,Cash on Delivery
+3816,7,Cash on Delivery
+3817,9,Cash on Delivery
+3818,8,Credit Card
+3819,3,Net Banking
+3820,6,Debit Card
+3821,4,UPI
+3822,10,UPI
+3823,8,Cash on Delivery
+3824,2,Credit Card
+3825,6,UPI
+3826,4,Debit Card
+3827,7,Net Banking
+3828,3,Net Banking
+3829,9,UPI
+3830,4,Debit Card
+3831,2,Debit Card
+3832,4,Credit Card
+3833,4,Debit Card
+3834,5,Debit Card
+3835,1,Debit Card
+3836,8,Net Banking
+3837,7,Credit Card
+3838,9,Net Banking
+3839,2,Debit Card
+3840,1,Debit Card
+3841,1,UPI
+3842,7,UPI
+3843,5,Credit Card
+3844,1,Cash on Delivery
+3845,6,Credit Card
+3846,5,Credit Card
+3847,3,Cash on Delivery
+3848,9,UPI
+3849,8,Credit Card
+3850,1,UPI
+3851,3,Credit Card
+3852,10,Cash on Delivery
+3853,6,UPI
+3854,10,Net Banking
+3855,2,Debit Card
+3856,5,Cash on Delivery
+3857,4,UPI
+3858,1,Debit Card
+3859,9,Debit Card
+3860,2,Debit Card
+3861,9,Credit Card
+3862,4,Cash on Delivery
+3863,9,Cash on Delivery
+3864,10,Net Banking
+3865,6,Net Banking
+3866,10,Net Banking
+3867,4,Net Banking
+3868,3,Net Banking
+3869,3,Net Banking
+3870,3,Credit Card
+3871,1,Debit Card
+3872,2,Cash on Delivery
+3873,4,Cash on Delivery
+3874,5,Debit Card
+3875,8,Credit Card
+3876,1,Cash on Delivery
+3877,3,Net Banking
+3878,3,Cash on Delivery
+3879,1,Debit Card
+3880,9,Debit Card
+3881,1,Net Banking
+3882,8,Debit Card
+3883,9,UPI
+3884,4,Net Banking
+3885,7,Net Banking
+3886,6,Debit Card
+3887,2,UPI
+3888,5,Credit Card
+3889,5,Debit Card
+3890,3,UPI
+3891,6,Net Banking
+3892,4,Debit Card
+3893,8,UPI
+3894,6,UPI
+3895,10,Cash on Delivery
+3896,9,Net Banking
+3897,5,UPI
+3898,5,UPI
+3899,10,UPI
+3900,7,Cash on Delivery
+3901,9,Cash on Delivery
+3902,6,Cash on Delivery
+3903,9,UPI
+3904,3,Debit Card
+3905,2,Debit Card
+3906,9,Net Banking
+3907,4,UPI
+3908,1,Net Banking
+3909,10,Debit Card
+3910,5,Cash on Delivery
+3911,1,Net Banking
+3912,10,Net Banking
+3913,7,Net Banking
+3914,2,Net Banking
+3915,4,Credit Card
+3916,7,Debit Card
+3917,9,Credit Card
+3918,4,Cash on Delivery
+3919,9,UPI
+3920,4,Credit Card
+3921,7,UPI
+3922,4,Net Banking
+3923,7,Net Banking
+3924,7,Debit Card
+3925,5,Debit Card
+3926,2,Credit Card
+3927,7,Debit Card
+3928,2,Cash on Delivery
+3929,5,Net Banking
+3930,9,Debit Card
+3931,3,Debit Card
+3932,6,Credit Card
+3933,8,Credit Card
+3934,9,Debit Card
+3935,9,Credit Card
+3936,10,Cash on Delivery
+3937,9,Net Banking
+3938,6,Credit Card
+3939,1,Cash on Delivery
+3940,7,UPI
+3941,6,Cash on Delivery
+3942,9,UPI
+3943,7,UPI
+3944,10,Cash on Delivery
+3945,10,Debit Card
+3946,1,Credit Card
+3947,3,Net Banking
+3948,10,UPI
+3949,7,Cash on Delivery
+3950,4,UPI
+3951,9,Credit Card
+3952,8,Net Banking
+3953,3,Net Banking
+3954,10,Debit Card
+3955,8,UPI
+3956,5,Credit Card
+3957,4,Cash on Delivery
+3958,9,Debit Card
+3959,9,Net Banking
+3960,8,Net Banking
+3961,4,UPI
+3962,6,Net Banking
+3963,9,Cash on Delivery
+3964,1,Debit Card
+3965,9,Debit Card
+3966,3,Cash on Delivery
+3967,4,Debit Card
+3968,7,UPI
+3969,8,Debit Card
+3970,7,Cash on Delivery
+3971,1,Debit Card
+3972,5,Net Banking
+3973,7,UPI
+3974,9,UPI
+3975,2,UPI
+3976,3,Credit Card
+3977,10,Cash on Delivery
+3978,10,UPI
+3979,5,Net Banking
+3980,3,Cash on Delivery
+3981,1,Debit Card
+3982,2,Debit Card
+3983,8,Cash on Delivery
+3984,10,Net Banking
+3985,6,Debit Card
+3986,1,UPI
+3987,1,UPI
+3988,2,Credit Card
+3989,3,Credit Card
+3990,4,Cash on Delivery
+3991,2,Cash on Delivery
+3992,8,Net Banking
+3993,6,Net Banking
+3994,2,Cash on Delivery
+3995,6,Credit Card
+3996,8,Credit Card
+3997,1,UPI
+3998,3,Cash on Delivery
+3999,6,Cash on Delivery
+4000,5,Cash on Delivery
+4001,9,Debit Card
+4002,1,Debit Card
+4003,3,Credit Card
+4004,6,Net Banking
+4005,6,Cash on Delivery
+4006,5,Credit Card
+4007,1,UPI
+4008,2,Debit Card
+4009,1,Net Banking
+4010,7,Net Banking
+4011,3,Cash on Delivery
+4012,1,Credit Card
+4013,1,UPI
+4014,4,Net Banking
+4015,2,Cash on Delivery
+4016,2,Net Banking
+4017,4,Debit Card
+4018,9,Net Banking
+4019,7,Cash on Delivery
+4020,1,Net Banking
+4021,4,Cash on Delivery
+4022,7,Credit Card
+4023,7,UPI
+4024,6,Credit Card
+4025,8,Net Banking
+4026,6,Debit Card
+4027,9,Debit Card
+4028,7,Cash on Delivery
+4029,7,Net Banking
+4030,8,UPI
+4031,2,Debit Card
+4032,10,Cash on Delivery
+4033,8,UPI
+4034,9,Net Banking
+4035,3,Credit Card
+4036,7,Cash on Delivery
+4037,9,Net Banking
+4038,5,Credit Card
+4039,10,Credit Card
+4040,7,Credit Card
+4041,1,UPI
+4042,4,Credit Card
+4043,9,Net Banking
+4044,8,Net Banking
+4045,3,Debit Card
+4046,10,Debit Card
+4047,4,Cash on Delivery
+4048,8,Cash on Delivery
+4049,2,Debit Card
+4050,2,UPI
+4051,2,Debit Card
+4052,6,Credit Card
+4053,2,UPI
+4054,1,Cash on Delivery
+4055,7,Credit Card
+4056,7,Cash on Delivery
+4057,4,Net Banking
+4058,9,Credit Card
+4059,9,Net Banking
+4060,1,Net Banking
+4061,4,Cash on Delivery
+4062,4,Debit Card
+4063,10,Debit Card
+4064,9,UPI
+4065,4,Debit Card
+4066,8,Debit Card
+4067,6,Net Banking
+4068,8,Cash on Delivery
+4069,4,Debit Card
+4070,8,UPI
+4071,8,Debit Card
+4072,2,Net Banking
+4073,7,Debit Card
+4074,5,Net Banking
+4075,2,UPI
+4076,7,Net Banking
+4077,2,Debit Card
+4078,3,Credit Card
+4079,4,Net Banking
+4080,10,Net Banking
+4081,6,Net Banking
+4082,6,Credit Card
+4083,8,Credit Card
+4084,8,Cash on Delivery
+4085,1,Credit Card
+4086,3,Debit Card
+4087,2,Debit Card
+4088,4,UPI
+4089,3,UPI
+4090,3,Cash on Delivery
+4091,6,UPI
+4092,1,Credit Card
+4093,10,Debit Card
+4094,9,UPI
+4095,6,Credit Card
+4096,5,UPI
+4097,9,Cash on Delivery
+4098,7,Debit Card
+4099,7,Cash on Delivery
+4100,9,Cash on Delivery
+4101,10,UPI
+4102,6,Credit Card
+4103,10,Net Banking
+4104,5,UPI
+4105,5,Credit Card
+4106,4,Debit Card
+4107,1,Cash on Delivery
+4108,1,Debit Card
+4109,6,UPI
+4110,7,Credit Card
+4111,3,Debit Card
+4112,3,Debit Card
+4113,9,UPI
+4114,1,Credit Card
+4115,5,UPI
+4116,1,Debit Card
+4117,5,Credit Card
+4118,3,Net Banking
+4119,6,Debit Card
+4120,2,UPI
+4121,8,Cash on Delivery
+4122,8,UPI
+4123,9,Net Banking
+4124,9,Net Banking
+4125,3,Net Banking
+4126,7,UPI
+4127,6,UPI
+4128,1,Debit Card
+4129,3,Credit Card
+4130,6,Cash on Delivery
+4131,8,Debit Card
+4132,7,UPI
+4133,10,Debit Card
+4134,9,Net Banking
+4135,6,Debit Card
+4136,3,Cash on Delivery
+4137,10,Cash on Delivery
+4138,9,Net Banking
+4139,10,Net Banking
+4140,5,Credit Card
+4141,10,Debit Card
+4142,5,Credit Card
+4143,6,Credit Card
+4144,3,Credit Card
+4145,4,Net Banking
+4146,6,Net Banking
+4147,5,Credit Card
+4148,7,Credit Card
+4149,8,Net Banking
+4150,6,Net Banking
+4151,5,Net Banking
+4152,1,Cash on Delivery
+4153,4,UPI
+4154,9,UPI
+4155,10,Net Banking
+4156,7,Net Banking
+4157,1,Credit Card
+4158,8,UPI
+4159,3,Debit Card
+4160,3,Cash on Delivery
+4161,2,Credit Card
+4162,10,Net Banking
+4163,4,Cash on Delivery
+4164,1,Cash on Delivery
+4165,6,Net Banking
+4166,3,Net Banking
+4167,7,UPI
+4168,9,Debit Card
+4169,2,Debit Card
+4170,2,UPI
+4171,2,Net Banking
+4172,2,Net Banking
+4173,1,UPI
+4174,3,Net Banking
+4175,1,Net Banking
+4176,10,Cash on Delivery
+4177,5,UPI
+4178,3,Net Banking
+4179,3,Credit Card
+4180,8,Debit Card
+4181,2,Net Banking
+4182,9,Credit Card
+4183,10,Cash on Delivery
+4184,1,Debit Card
+4185,10,UPI
+4186,4,Credit Card
+4187,6,Cash on Delivery
+4188,7,Debit Card
+4189,4,Cash on Delivery
+4190,3,Cash on Delivery
+4191,7,Net Banking
+4192,7,UPI
+4193,3,Debit Card
+4194,10,Debit Card
+4195,6,Net Banking
+4196,6,Credit Card
+4197,2,Net Banking
+4198,5,Debit Card
+4199,4,Credit Card
+4200,10,UPI
+4201,6,Credit Card
+4202,8,Debit Card
+4203,1,Debit Card
+4204,3,Credit Card
+4205,3,Credit Card
+4206,7,UPI
+4207,3,UPI
+4208,5,Debit Card
+4209,3,Net Banking
+4210,2,Debit Card
+4211,10,Cash on Delivery
+4212,4,UPI
+4213,10,Net Banking
+4214,1,Cash on Delivery
+4215,3,Debit Card
+4216,6,Cash on Delivery
+4217,9,UPI
+4218,3,Net Banking
+4219,4,UPI
+4220,7,Cash on Delivery
+4221,4,Cash on Delivery
+4222,7,Net Banking
+4223,6,UPI
+4224,8,Net Banking
+4225,7,Credit Card
+4226,5,Cash on Delivery
+4227,6,Cash on Delivery
+4228,3,Debit Card
+4229,2,Credit Card
+4230,9,Cash on Delivery
+4231,10,Net Banking
+4232,10,Credit Card
+4233,5,Debit Card
+4234,8,Cash on Delivery
+4235,8,UPI
+4236,7,Credit Card
+4237,4,Credit Card
+4238,2,UPI
+4239,9,UPI
+4240,1,Cash on Delivery
+4241,9,Debit Card
+4242,4,UPI
+4243,9,Credit Card
+4244,10,Debit Card
+4245,6,UPI
+4246,2,UPI
+4247,10,Debit Card
+4248,8,Credit Card
+4249,7,Net Banking
+4250,2,Debit Card
+4251,7,UPI
+4252,6,Cash on Delivery
+4253,4,UPI
+4254,6,Cash on Delivery
+4255,8,Credit Card
+4256,6,Debit Card
+4257,9,Net Banking
+4258,6,UPI
+4259,1,Debit Card
+4260,10,Net Banking
+4261,5,Cash on Delivery
+4262,3,Net Banking
+4263,3,Net Banking
+4264,10,Net Banking
+4265,5,Debit Card
+4266,2,Debit Card
+4267,8,UPI
+4268,1,Net Banking
+4269,7,Credit Card
+4270,10,Debit Card
+4271,10,Debit Card
+4272,10,Net Banking
+4273,8,Net Banking
+4274,7,Debit Card
+4275,9,Debit Card
+4276,7,Credit Card
+4277,1,UPI
+4278,7,Credit Card
+4279,8,UPI
+4280,1,Credit Card
+4281,2,Cash on Delivery
+4282,3,UPI
+4283,7,Cash on Delivery
+4284,6,Cash on Delivery
+4285,8,Net Banking
+4286,8,UPI
+4287,6,Cash on Delivery
+4288,4,UPI
+4289,8,Net Banking
+4290,5,Cash on Delivery
+4291,6,Credit Card
+4292,4,Credit Card
+4293,4,Net Banking
+4294,10,Debit Card
+4295,10,Net Banking
+4296,6,Net Banking
+4297,9,UPI
+4298,5,UPI
+4299,6,Credit Card
+4300,10,Credit Card
+4301,1,UPI
+4302,6,Credit Card
+4303,1,UPI
+4304,1,Credit Card
+4305,9,Cash on Delivery
+4306,2,Debit Card
+4307,9,UPI
+4308,1,UPI
+4309,6,Net Banking
+4310,10,Net Banking
+4311,10,Cash on Delivery
+4312,10,Cash on Delivery
+4313,3,Cash on Delivery
+4314,6,Debit Card
+4315,9,Cash on Delivery
+4316,5,Cash on Delivery
+4317,8,Credit Card
+4318,5,Credit Card
+4319,5,Net Banking
+4320,2,UPI
+4321,9,UPI
+4322,6,UPI
+4323,6,Credit Card
+4324,2,Credit Card
+4325,8,UPI
+4326,2,Cash on Delivery
+4327,2,UPI
+4328,10,Cash on Delivery
+4329,2,Debit Card
+4330,9,Cash on Delivery
+4331,8,Net Banking
+4332,5,Credit Card
+4333,10,Debit Card
+4334,8,Credit Card
+4335,10,Cash on Delivery
+4336,8,Net Banking
+4337,3,UPI
+4338,10,UPI
+4339,7,Cash on Delivery
+4340,9,Cash on Delivery
+4341,7,Cash on Delivery
+4342,5,Debit Card
+4343,10,Credit Card
+4344,8,Net Banking
+4345,7,Debit Card
+4346,5,Cash on Delivery
+4347,5,Debit Card
+4348,2,Net Banking
+4349,6,UPI
+4350,7,Net Banking
+4351,8,UPI
+4352,5,UPI
+4353,3,Debit Card
+4354,10,Net Banking
+4355,4,Credit Card
+4356,4,Debit Card
+4357,10,Debit Card
+4358,8,Debit Card
+4359,3,Credit Card
+4360,7,Credit Card
+4361,8,UPI
+4362,5,Debit Card
+4363,10,Net Banking
+4364,4,Cash on Delivery
+4365,4,UPI
+4366,2,Debit Card
+4367,5,Net Banking
+4368,4,Cash on Delivery
+4369,9,UPI
+4370,5,UPI
+4371,7,Credit Card
+4372,4,UPI
+4373,1,UPI
+4374,8,UPI
+4375,10,Cash on Delivery
+4376,7,Cash on Delivery
+4377,7,Debit Card
+4378,4,Credit Card
+4379,8,UPI
+4380,6,UPI
+4381,2,UPI
+4382,5,Cash on Delivery
+4383,9,UPI
+4384,7,UPI
+4385,4,Net Banking
+4386,9,Credit Card
+4387,7,UPI
+4388,7,Debit Card
+4389,7,Credit Card
+4390,1,Cash on Delivery
+4391,10,Credit Card
+4392,10,Net Banking
+4393,6,Credit Card
+4394,6,Net Banking
+4395,7,Debit Card
+4396,9,Net Banking
+4397,9,Net Banking
+4398,7,UPI
+4399,1,Credit Card
+4400,7,UPI
+4401,8,Cash on Delivery
+4402,2,Net Banking
+4403,1,Credit Card
+4404,3,Debit Card
+4405,3,Net Banking
+4406,2,UPI
+4407,7,Credit Card
+4408,6,Cash on Delivery
+4409,2,Net Banking
+4410,10,Credit Card
+4411,3,Net Banking
+4412,4,Debit Card
+4413,5,UPI
+4414,1,Cash on Delivery
+4415,7,Cash on Delivery
+4416,6,Net Banking
+4417,4,Credit Card
+4418,3,Net Banking
+4419,1,Credit Card
+4420,7,UPI
+4421,5,Credit Card
+4422,6,UPI
+4423,4,Cash on Delivery
+4424,5,Debit Card
+4425,5,Net Banking
+4426,3,Credit Card
+4427,7,UPI
+4428,5,Debit Card
+4429,2,Credit Card
+4430,6,Net Banking
+4431,8,UPI
+4432,9,Net Banking
+4433,5,Cash on Delivery
+4434,2,Net Banking
+4435,9,Debit Card
+4436,10,Cash on Delivery
+4437,10,Credit Card
+4438,10,Credit Card
+4439,6,Credit Card
+4440,1,Credit Card
+4441,5,Debit Card
+4442,6,Credit Card
+4443,5,Net Banking
+4444,2,Cash on Delivery
+4445,3,Cash on Delivery
+4446,6,Cash on Delivery
+4447,3,Net Banking
+4448,6,Cash on Delivery
+4449,2,Credit Card
+4450,10,UPI
+4451,6,Debit Card
+4452,6,Cash on Delivery
+4453,6,Credit Card
+4454,3,Net Banking
+4455,1,Net Banking
+4456,4,Cash on Delivery
+4457,10,Cash on Delivery
+4458,10,Credit Card
+4459,9,Net Banking
+4460,1,Credit Card
+4461,1,Net Banking
+4462,3,UPI
+4463,10,Net Banking
+4464,2,UPI
+4465,10,Credit Card
+4466,8,Debit Card
+4467,6,Net Banking
+4468,9,Cash on Delivery
+4469,3,Cash on Delivery
+4470,2,Net Banking
+4471,6,Net Banking
+4472,1,UPI
+4473,2,Cash on Delivery
+4474,5,Debit Card
+4475,10,UPI
+4476,3,Cash on Delivery
+4477,8,UPI
+4478,10,Debit Card
+4479,5,Cash on Delivery
+4480,4,UPI
+4481,6,Net Banking
+4482,6,UPI
+4483,10,Cash on Delivery
+4484,8,Net Banking
+4485,3,Debit Card
+4486,2,Debit Card
+4487,6,Credit Card
+4488,7,Credit Card
+4489,10,UPI
+4490,4,UPI
+4491,10,UPI
+4492,9,Net Banking
+4493,9,Net Banking
+4494,10,Credit Card
+4495,10,Credit Card
+4496,10,Net Banking
+4497,8,UPI
+4498,2,UPI
+4499,3,Debit Card
+4500,2,Net Banking
+4501,9,Net Banking
+4502,9,Net Banking
+4503,2,Debit Card
+4504,1,Net Banking
+4505,4,Debit Card
+4506,9,Credit Card
+4507,1,Net Banking
+4508,9,Credit Card
+4509,10,Debit Card
+4510,2,Cash on Delivery
+4511,5,UPI
+4512,1,Credit Card
+4513,8,Debit Card
+4514,2,Net Banking
+4515,4,Debit Card
+4516,5,Cash on Delivery
+4517,4,Credit Card
+4518,7,Credit Card
+4519,3,UPI
+4520,8,Cash on Delivery
+4521,10,Net Banking
+4522,8,Debit Card
+4523,1,Debit Card
+4524,5,Debit Card
+4525,9,Credit Card
+4526,4,UPI
+4527,5,Debit Card
+4528,5,Debit Card
+4529,5,Credit Card
+4530,2,Debit Card
+4531,9,Net Banking
+4532,1,Net Banking
+4533,6,Credit Card
+4534,6,Net Banking
+4535,1,Cash on Delivery
+4536,7,Credit Card
+4537,4,Cash on Delivery
+4538,3,Debit Card
+4539,10,UPI
+4540,4,Credit Card
+4541,5,UPI
+4542,2,Debit Card
+4543,10,Cash on Delivery
+4544,4,UPI
+4545,3,Cash on Delivery
+4546,3,Credit Card
+4547,2,Credit Card
+4548,7,Debit Card
+4549,7,Net Banking
+4550,7,UPI
+4551,6,Cash on Delivery
+4552,5,Cash on Delivery
+4553,7,UPI
+4554,3,Net Banking
+4555,6,Debit Card
+4556,9,Cash on Delivery
+4557,3,UPI
+4558,1,UPI
+4559,3,Credit Card
+4560,8,Cash on Delivery
+4561,1,Cash on Delivery
+4562,10,Net Banking
+4563,8,Debit Card
+4564,9,UPI
+4565,8,UPI
+4566,10,Cash on Delivery
+4567,2,Debit Card
+4568,8,UPI
+4569,5,Net Banking
+4570,1,Cash on Delivery
+4571,5,Net Banking
+4572,9,Debit Card
+4573,8,UPI
+4574,6,Cash on Delivery
+4575,5,UPI
+4576,9,UPI
+4577,7,Net Banking
+4578,1,Net Banking
+4579,10,Debit Card
+4580,6,Debit Card
+4581,10,UPI
+4582,3,UPI
+4583,6,Net Banking
+4584,2,Debit Card
+4585,9,UPI
+4586,9,Net Banking
+4587,6,Credit Card
+4588,10,Net Banking
+4589,6,Debit Card
+4590,5,Debit Card
+4591,3,Net Banking
+4592,2,UPI
+4593,3,UPI
+4594,7,Credit Card
+4595,5,Net Banking
+4596,1,UPI
+4597,5,Cash on Delivery
+4598,6,Credit Card
+4599,10,Debit Card
+4600,6,UPI
+4601,2,Debit Card
+4602,7,Debit Card
+4603,4,Debit Card
+4604,4,UPI
+4605,8,Debit Card
+4606,9,Debit Card
+4607,9,UPI
+4608,2,Credit Card
+4609,9,UPI
+4610,7,UPI
+4611,9,Net Banking
+4612,10,Cash on Delivery
+4613,2,UPI
+4614,6,Debit Card
+4615,8,Cash on Delivery
+4616,4,Net Banking
+4617,9,UPI
+4618,10,Debit Card
+4619,5,Credit Card
+4620,6,Credit Card
+4621,9,Cash on Delivery
+4622,6,Debit Card
+4623,3,Net Banking
+4624,2,Debit Card
+4625,6,Debit Card
+4626,1,Cash on Delivery
+4627,5,Net Banking
+4628,9,Debit Card
+4629,1,Credit Card
+4630,9,Credit Card
+4631,1,Credit Card
+4632,1,Cash on Delivery
+4633,8,UPI
+4634,2,Credit Card
+4635,3,Credit Card
+4636,9,Net Banking
+4637,4,Cash on Delivery
+4638,8,Net Banking
+4639,10,Debit Card
+4640,9,Credit Card
+4641,3,Debit Card
+4642,5,Credit Card
+4643,3,Cash on Delivery
+4644,10,UPI
+4645,10,Net Banking
+4646,4,UPI
+4647,6,Cash on Delivery
+4648,2,Net Banking
+4649,4,UPI
+4650,7,Debit Card
+4651,2,UPI
+4652,4,Net Banking
+4653,4,Debit Card
+4654,1,Debit Card
+4655,6,Cash on Delivery
+4656,9,UPI
+4657,9,Net Banking
+4658,2,Net Banking
+4659,7,Net Banking
+4660,4,UPI
+4661,2,Credit Card
+4662,1,Net Banking
+4663,7,Debit Card
+4664,5,Credit Card
+4665,10,Debit Card
+4666,4,Cash on Delivery
+4667,6,Cash on Delivery
+4668,10,Cash on Delivery
+4669,1,UPI
+4670,2,UPI
+4671,7,Credit Card
+4672,3,Debit Card
+4673,3,UPI
+4674,10,Cash on Delivery
+4675,9,Cash on Delivery
+4676,5,Cash on Delivery
+4677,10,Cash on Delivery
+4678,5,Cash on Delivery
+4679,2,Debit Card
+4680,7,Cash on Delivery
+4681,2,Debit Card
+4682,4,Cash on Delivery
+4683,3,Net Banking
+4684,9,UPI
+4685,3,Debit Card
+4686,1,UPI
+4687,2,Credit Card
+4688,4,Debit Card
+4689,4,Cash on Delivery
+4690,3,Debit Card
+4691,7,Debit Card
+4692,10,Cash on Delivery
+4693,9,Net Banking
+4694,2,Cash on Delivery
+4695,10,Debit Card
+4696,7,Debit Card
+4697,4,Debit Card
+4698,7,UPI
+4699,10,UPI
+4700,6,Cash on Delivery
+4701,10,Debit Card
+4702,7,Debit Card
+4703,4,UPI
+4704,5,Debit Card
+4705,8,Debit Card
+4706,3,Net Banking
+4707,10,Debit Card
+4708,5,UPI
+4709,9,Debit Card
+4710,2,UPI
+4711,5,Cash on Delivery
+4712,5,Credit Card
+4713,6,Credit Card
+4714,6,Debit Card
+4715,4,Debit Card
+4716,5,Net Banking
+4717,4,UPI
+4718,8,Credit Card
+4719,1,Cash on Delivery
+4720,5,Debit Card
+4721,9,Credit Card
+4722,5,UPI
+4723,1,Credit Card
+4724,9,Cash on Delivery
+4725,9,Credit Card
+4726,6,Net Banking
+4727,5,Net Banking
+4728,7,Debit Card
+4729,3,Credit Card
+4730,5,UPI
+4731,7,Cash on Delivery
+4732,4,UPI
+4733,4,UPI
+4734,4,Net Banking
+4735,6,Debit Card
+4736,3,Net Banking
+4737,6,Cash on Delivery
+4738,2,Net Banking
+4739,3,Cash on Delivery
+4740,9,Net Banking
+4741,5,Cash on Delivery
+4742,5,Debit Card
+4743,9,Credit Card
+4744,6,Debit Card
+4745,10,Cash on Delivery
+4746,4,Debit Card
+4747,3,UPI
+4748,8,Debit Card
+4749,7,Credit Card
+4750,7,Cash on Delivery
+4751,5,UPI
+4752,8,Net Banking
+4753,2,Credit Card
+4754,9,Net Banking
+4755,9,Cash on Delivery
+4756,8,Net Banking
+4757,4,Cash on Delivery
+4758,2,Net Banking
+4759,10,Cash on Delivery
+4760,9,Cash on Delivery
+4761,6,Net Banking
+4762,4,Credit Card
+4763,4,Debit Card
+4764,2,UPI
+4765,10,Debit Card
+4766,8,Cash on Delivery
+4767,8,UPI
+4768,1,Cash on Delivery
+4769,2,Credit Card
+4770,9,UPI
+4771,8,Debit Card
+4772,4,Debit Card
+4773,7,Net Banking
+4774,7,UPI
+4775,3,Debit Card
+4776,2,Debit Card
+4777,1,Net Banking
+4778,3,UPI
+4779,8,Cash on Delivery
+4780,2,Net Banking
+4781,8,Credit Card
+4782,9,Debit Card
+4783,4,UPI
+4784,3,Debit Card
+4785,8,Debit Card
+4786,6,UPI
+4787,9,Cash on Delivery
+4788,6,Cash on Delivery
+4789,10,Net Banking
+4790,4,Cash on Delivery
+4791,5,Net Banking
+4792,1,Credit Card
+4793,6,Cash on Delivery
+4794,8,UPI
+4795,6,Net Banking
+4796,6,Credit Card
+4797,6,Cash on Delivery
+4798,4,Cash on Delivery
+4799,6,Debit Card
+4800,10,Debit Card
+4801,4,Cash on Delivery
+4802,9,Credit Card
+4803,5,Cash on Delivery
+4804,1,Credit Card
+4805,5,UPI
+4806,10,Cash on Delivery
+4807,4,Cash on Delivery
+4808,6,Cash on Delivery
+4809,7,Debit Card
+4810,9,UPI
+4811,9,Cash on Delivery
+4812,9,Cash on Delivery
+4813,5,Net Banking
+4814,3,Cash on Delivery
+4815,4,Cash on Delivery
+4816,4,Debit Card
+4817,3,Credit Card
+4818,9,Credit Card
+4819,9,Credit Card
+4820,2,Cash on Delivery
+4821,8,Debit Card
+4822,6,UPI
+4823,5,Credit Card
+4824,7,Credit Card
+4825,4,Net Banking
+4826,9,Credit Card
+4827,5,UPI
+4828,5,Cash on Delivery
+4829,9,Net Banking
+4830,10,UPI
+4831,5,UPI
+4832,4,Net Banking
+4833,1,Net Banking
+4834,9,Net Banking
+4835,8,Net Banking
+4836,2,UPI
+4837,9,Debit Card
+4838,5,UPI
+4839,9,Net Banking
+4840,8,Credit Card
+4841,2,UPI
+4842,6,UPI
+4843,6,Debit Card
+4844,8,UPI
+4845,2,Net Banking
+4846,4,Cash on Delivery
+4847,9,Net Banking
+4848,10,Debit Card
+4849,5,UPI
+4850,3,Credit Card
+4851,1,UPI
+4852,7,Credit Card
+4853,8,Net Banking
+4854,4,Credit Card
+4855,7,Net Banking
+4856,4,Net Banking
+4857,10,Net Banking
+4858,4,UPI
+4859,8,Net Banking
+4860,2,UPI
+4861,3,Credit Card
+4862,4,Cash on Delivery
+4863,5,UPI
+4864,8,Cash on Delivery
+4865,6,Net Banking
+4866,5,Net Banking
+4867,4,Cash on Delivery
+4868,10,Cash on Delivery
+4869,9,Net Banking
+4870,6,Net Banking
+4871,3,Credit Card
+4872,5,Cash on Delivery
+4873,9,Net Banking
+4874,5,UPI
+4875,4,UPI
+4876,5,Debit Card
+4877,5,UPI
+4878,1,Cash on Delivery
+4879,10,Debit Card
+4880,6,Debit Card
+4881,4,Debit Card
+4882,4,Debit Card
+4883,5,Cash on Delivery
+4884,2,Credit Card
+4885,9,Cash on Delivery
+4886,5,Credit Card
+4887,6,UPI
+4888,3,UPI
+4889,2,Cash on Delivery
+4890,3,UPI
+4891,7,Net Banking
+4892,5,Net Banking
+4893,2,Debit Card
+4894,10,UPI
+4895,2,Net Banking
+4896,1,Cash on Delivery
+4897,3,Net Banking
+4898,7,Net Banking
+4899,4,Credit Card
+4900,1,UPI
+4901,4,Cash on Delivery
+4902,10,Credit Card
+4903,5,UPI
+4904,2,Credit Card
+4905,4,Debit Card
+4906,4,Debit Card
+4907,8,Debit Card
+4908,8,Cash on Delivery
+4909,4,Debit Card
+4910,7,Net Banking
+4911,2,UPI
+4912,8,Cash on Delivery
+4913,2,Credit Card
+4914,4,UPI
+4915,9,Credit Card
+4916,6,UPI
+4917,1,UPI
+4918,5,Net Banking
+4919,3,Cash on Delivery
+4920,3,Net Banking
+4921,9,Cash on Delivery
+4922,3,Credit Card
+4923,9,Net Banking
+4924,4,Net Banking
+4925,6,UPI
+4926,1,Net Banking
+4927,6,Debit Card
+4928,2,Cash on Delivery
+4929,10,UPI
+4930,7,UPI
+4931,5,UPI
+4932,2,UPI
+4933,5,Net Banking
+4934,10,Net Banking
+4935,9,Cash on Delivery
+4936,9,UPI
+4937,6,Cash on Delivery
+4938,2,Net Banking
+4939,9,Cash on Delivery
+4940,10,UPI
+4941,4,Credit Card
+4942,6,UPI
+4943,4,Net Banking
+4944,9,Net Banking
+4945,5,Credit Card
+4946,2,Credit Card
+4947,10,UPI
+4948,6,Net Banking
+4949,3,Debit Card
+4950,10,Debit Card
+4951,3,Credit Card
+4952,6,Cash on Delivery
+4953,1,Net Banking
+4954,5,Cash on Delivery
+4955,1,Cash on Delivery
+4956,6,Net Banking
+4957,4,Credit Card
+4958,10,Net Banking
+4959,4,Cash on Delivery
+4960,10,UPI
+4961,7,UPI
+4962,5,Credit Card
+4963,9,Debit Card
+4964,6,Cash on Delivery
+4965,7,UPI
+4966,10,Cash on Delivery
+4967,9,Net Banking
+4968,2,Cash on Delivery
+4969,10,UPI
+4970,1,Net Banking
+4971,10,Cash on Delivery
+4972,6,Debit Card
+4973,4,Credit Card
+4974,8,Debit Card
+4975,6,Net Banking
+4976,2,Credit Card
+4977,7,UPI
+4978,4,Credit Card
+4979,9,Debit Card
+4980,6,UPI
+4981,8,Debit Card
+4982,7,Cash on Delivery
+4983,8,UPI
+4984,4,Net Banking
+4985,8,Debit Card
+4986,9,Net Banking
+4987,4,UPI
+4988,8,Cash on Delivery
+4989,6,Cash on Delivery
+4990,1,Cash on Delivery
+4991,9,Debit Card
+4992,4,Net Banking
+4993,9,Credit Card
+4994,7,Debit Card
+4995,3,Credit Card
+4996,8,Net Banking
+4997,6,UPI
+4998,2,Net Banking
+4999,6,Cash on Delivery
+5000,10,Cash on Delivery
+5001,2,Debit Card
+5002,10,Credit Card
+5003,7,Debit Card
+5004,9,Debit Card
+5005,10,Credit Card
+5006,10,Cash on Delivery
+5007,2,UPI
+5008,3,Cash on Delivery
+5009,1,Net Banking
+5010,8,Cash on Delivery
+5011,1,Net Banking
+5012,6,Net Banking
+5013,6,Credit Card
+5014,2,Net Banking
+5015,7,Credit Card
+5016,8,Debit Card
+5017,10,UPI
+5018,1,UPI
+5019,4,Cash on Delivery
+5020,7,Debit Card
+5021,4,Credit Card
+5022,5,Credit Card
+5023,7,UPI
+5024,10,UPI
+5025,8,Net Banking
+5026,5,Credit Card
+5027,6,Debit Card
+5028,9,Cash on Delivery
+5029,6,Net Banking
+5030,7,Cash on Delivery
+5031,10,Cash on Delivery
+5032,7,Debit Card
+5033,6,Debit Card
+5034,4,Net Banking
+5035,10,Debit Card
+5036,4,Credit Card
+5037,3,Credit Card
+5038,8,Credit Card
+5039,1,Net Banking
+5040,7,Net Banking
+5041,9,Cash on Delivery
+5042,10,Debit Card
+5043,8,Net Banking
+5044,4,Cash on Delivery
+5045,8,Net Banking
+5046,6,Net Banking
+5047,6,Credit Card
+5048,9,Credit Card
+5049,7,Net Banking
+5050,2,UPI
+5051,2,Credit Card
+5052,3,Credit Card
+5053,2,UPI
+5054,2,UPI
+5055,2,Cash on Delivery
+5056,10,Debit Card
+5057,8,Credit Card
+5058,10,UPI
+5059,4,Cash on Delivery
+5060,6,Credit Card
+5061,9,Debit Card
+5062,3,Net Banking
+5063,7,Cash on Delivery
+5064,7,UPI
+5065,7,Cash on Delivery
+5066,10,Debit Card
+5067,5,Cash on Delivery
+5068,1,Credit Card
+5069,9,Cash on Delivery
+5070,1,UPI
+5071,5,Credit Card
+5072,6,Debit Card
+5073,9,Net Banking
+5074,4,UPI
+5075,1,Net Banking
+5076,8,Debit Card
+5077,6,Credit Card
+5078,8,UPI
+5079,5,Credit Card
+5080,2,Debit Card
+5081,7,Net Banking
+5082,5,Debit Card
+5083,6,Debit Card
+5084,9,Cash on Delivery
+5085,3,UPI
+5086,3,Credit Card
+5087,6,Cash on Delivery
+5088,9,Debit Card
+5089,4,Net Banking
+5090,2,UPI
+5091,2,Debit Card
+5092,3,Debit Card
+5093,2,UPI
+5094,2,Net Banking
+5095,4,Net Banking
+5096,9,Net Banking
+5097,2,UPI
+5098,9,Net Banking
+5099,1,UPI
+5100,9,Net Banking
+5101,5,Cash on Delivery
+5102,10,Debit Card
+5103,2,UPI
+5104,7,Net Banking
+5105,10,Net Banking
+5106,4,Credit Card
+5107,1,Cash on Delivery
+5108,9,Debit Card
+5109,5,Net Banking
+5110,4,Net Banking
+5111,9,Credit Card
+5112,2,Cash on Delivery
+5113,7,Credit Card
+5114,9,Cash on Delivery
+5115,3,Credit Card
+5116,8,Credit Card
+5117,1,UPI
+5118,7,Cash on Delivery
+5119,6,Credit Card
+5120,6,Net Banking
+5121,8,Debit Card
+5122,6,Credit Card
+5123,6,Debit Card
+5124,1,Credit Card
+5125,4,Debit Card
+5126,4,Net Banking
+5127,6,Cash on Delivery
+5128,7,UPI
+5129,9,Net Banking
+5130,9,UPI
+5131,9,Cash on Delivery
+5132,2,Cash on Delivery
+5133,1,Credit Card
+5134,5,Cash on Delivery
+5135,3,Credit Card
+5136,9,Cash on Delivery
+5137,7,Net Banking
+5138,6,Cash on Delivery
+5139,3,Credit Card
+5140,5,UPI
+5141,10,Credit Card
+5142,8,UPI
+5143,8,Cash on Delivery
+5144,1,Credit Card
+5145,9,Debit Card
+5146,10,Debit Card
+5147,1,UPI
+5148,4,Net Banking
+5149,10,Credit Card
+5150,1,Credit Card
+5151,1,Cash on Delivery
+5152,9,Debit Card
+5153,9,Cash on Delivery
+5154,6,Net Banking
+5155,7,Net Banking
+5156,9,Credit Card
+5157,1,Credit Card
+5158,10,UPI
+5159,4,Debit Card
+5160,1,Cash on Delivery
+5161,4,Net Banking
+5162,7,Credit Card
+5163,9,Debit Card
+5164,9,UPI
+5165,3,Credit Card
+5166,10,Net Banking
+5167,7,Net Banking
+5168,5,Debit Card
+5169,1,UPI
+5170,2,Net Banking
+5171,10,UPI
+5172,7,Net Banking
+5173,10,Credit Card
+5174,1,UPI
+5175,2,Cash on Delivery
+5176,4,Cash on Delivery
+5177,4,Debit Card
+5178,2,Debit Card
+5179,4,Cash on Delivery
+5180,5,Cash on Delivery
+5181,5,Cash on Delivery
+5182,9,Net Banking
+5183,10,Cash on Delivery
+5184,10,Debit Card
+5185,1,Net Banking
+5186,5,Debit Card
+5187,2,Credit Card
+5188,1,UPI
+5189,8,Net Banking
+5190,4,Debit Card
+5191,5,UPI
+5192,6,Debit Card
+5193,3,Credit Card
+5194,3,Credit Card
+5195,1,Debit Card
+5196,7,UPI
+5197,4,UPI
+5198,7,UPI
+5199,3,Cash on Delivery
+5200,1,Net Banking
+5201,2,Net Banking
+5202,4,UPI
+5203,2,Cash on Delivery
+5204,2,UPI
+5205,4,Cash on Delivery
+5206,4,UPI
+5207,7,Debit Card
+5208,8,Credit Card
+5209,7,Credit Card
+5210,3,Credit Card
+5211,3,Cash on Delivery
+5212,4,UPI
+5213,8,Cash on Delivery
+5214,8,UPI
+5215,10,Credit Card
+5216,4,Debit Card
+5217,8,Cash on Delivery
+5218,2,Debit Card
+5219,10,UPI
+5220,6,Debit Card
+5221,9,Credit Card
+5222,2,Debit Card
+5223,8,Debit Card
+5224,5,Net Banking
+5225,4,Debit Card
+5226,2,Credit Card
+5227,1,UPI
+5228,7,UPI
+5229,2,Debit Card
+5230,9,Net Banking
+5231,5,UPI
+5232,9,Cash on Delivery
+5233,4,Debit Card
+5234,9,Credit Card
+5235,10,Net Banking
+5236,5,Debit Card
+5237,2,Credit Card
+5238,7,Debit Card
+5239,2,Credit Card
+5240,3,Debit Card
+5241,2,Debit Card
+5242,8,Net Banking
+5243,6,Net Banking
+5244,2,Debit Card
+5245,9,UPI
+5246,10,Credit Card
+5247,6,Cash on Delivery
+5248,7,Cash on Delivery
+5249,6,Debit Card
+5250,2,Cash on Delivery
+5251,5,Debit Card
+5252,4,Net Banking
+5253,9,Net Banking
+5254,6,Net Banking
+5255,10,Cash on Delivery
+5256,7,Debit Card
+5257,5,Debit Card
+5258,10,UPI
+5259,5,Net Banking
+5260,6,UPI
+5261,8,Debit Card
+5262,8,UPI
+5263,1,UPI
+5264,8,Credit Card
+5265,4,Credit Card
+5266,4,Cash on Delivery
+5267,10,Cash on Delivery
+5268,6,Net Banking
+5269,3,Cash on Delivery
+5270,8,Debit Card
+5271,4,Cash on Delivery
+5272,2,Debit Card
+5273,6,Credit Card
+5274,8,Credit Card
+5275,2,Net Banking
+5276,2,Credit Card
+5277,8,UPI
+5278,6,Credit Card
+5279,2,Cash on Delivery
+5280,4,Cash on Delivery
+5281,3,Cash on Delivery
+5282,5,Debit Card
+5283,4,Debit Card
+5284,9,Net Banking
+5285,8,Debit Card
+5286,9,Cash on Delivery
+5287,10,Credit Card
+5288,9,Credit Card
+5289,9,Cash on Delivery
+5290,5,UPI
+5291,10,Cash on Delivery
+5292,4,UPI
+5293,5,Net Banking
+5294,7,UPI
+5295,1,Net Banking
+5296,1,UPI
+5297,8,Cash on Delivery
+5298,7,Debit Card
+5299,4,Credit Card
+5300,1,Debit Card
+5301,8,Net Banking
+5302,8,UPI
+5303,10,UPI
+5304,6,Credit Card
+5305,4,UPI
+5306,2,UPI
+5307,4,UPI
+5308,5,Net Banking
+5309,9,UPI
+5310,2,Debit Card
+5311,4,Cash on Delivery
+5312,7,UPI
+5313,9,Debit Card
+5314,7,Credit Card
+5315,7,UPI
+5316,2,UPI
+5317,2,Net Banking
+5318,5,Debit Card
+5319,4,Debit Card
+5320,2,UPI
+5321,6,UPI
+5322,10,Debit Card
+5323,4,Debit Card
+5324,5,Debit Card
+5325,5,Debit Card
+5326,4,Debit Card
+5327,5,Net Banking
+5328,6,Cash on Delivery
+5329,2,Debit Card
+5330,7,Net Banking
+5331,7,UPI
+5332,3,UPI
+5333,2,UPI
+5334,6,Credit Card
+5335,3,Credit Card
+5336,2,Net Banking
+5337,5,Credit Card
+5338,3,UPI
+5339,5,Credit Card
+5340,9,Cash on Delivery
+5341,8,Debit Card
+5342,9,Credit Card
+5343,8,Credit Card
+5344,10,Debit Card
+5345,8,Cash on Delivery
+5346,3,Net Banking
+5347,1,Debit Card
+5348,5,Cash on Delivery
+5349,1,Cash on Delivery
+5350,10,Cash on Delivery
+5351,6,Net Banking
+5352,10,Net Banking
+5353,6,Cash on Delivery
+5354,5,Credit Card
+5355,8,Credit Card
+5356,2,UPI
+5357,10,Cash on Delivery
+5358,10,UPI
+5359,8,Credit Card
+5360,9,Net Banking
+5361,9,Cash on Delivery
+5362,10,Credit Card
+5363,3,Cash on Delivery
+5364,10,Cash on Delivery
+5365,5,Debit Card
+5366,3,Credit Card
+5367,9,Cash on Delivery
+5368,2,UPI
+5369,9,Debit Card
+5370,6,Net Banking
+5371,9,UPI
+5372,5,Cash on Delivery
+5373,3,Net Banking
+5374,2,Credit Card
+5375,2,UPI
+5376,10,Credit Card
+5377,4,Net Banking
+5378,4,Debit Card
+5379,1,Net Banking
+5380,8,UPI
+5381,3,Debit Card
+5382,9,Cash on Delivery
+5383,10,Cash on Delivery
+5384,9,Net Banking
+5385,2,UPI
+5386,3,Net Banking
+5387,3,Debit Card
+5388,2,Credit Card
+5389,1,Cash on Delivery
+5390,4,Net Banking
+5391,7,Net Banking
+5392,10,Debit Card
+5393,5,Cash on Delivery
+5394,3,Cash on Delivery
+5395,6,Credit Card
+5396,7,Debit Card
+5397,9,Net Banking
+5398,3,Credit Card
+5399,10,Debit Card
+5400,3,Cash on Delivery
+5401,6,UPI
+5402,4,Net Banking
+5403,3,Cash on Delivery
+5404,4,Credit Card
+5405,6,Debit Card
+5406,7,UPI
+5407,10,UPI
+5408,4,Debit Card
+5409,5,Debit Card
+5410,8,Credit Card
+5411,8,Credit Card
+5412,4,UPI
+5413,4,UPI
+5414,1,Credit Card
+5415,10,Cash on Delivery
+5416,7,Credit Card
+5417,10,Credit Card
+5418,6,UPI
+5419,4,UPI
+5420,8,Cash on Delivery
+5421,7,Credit Card
+5422,7,Net Banking
+5423,3,Net Banking
+5424,6,Net Banking
+5425,1,Net Banking
+5426,8,Cash on Delivery
+5427,4,UPI
+5428,4,UPI
+5429,1,Net Banking
+5430,7,Credit Card
+5431,10,Debit Card
+5432,9,Debit Card
+5433,10,Debit Card
+5434,8,Cash on Delivery
+5435,9,UPI
+5436,7,Debit Card
+5437,3,Cash on Delivery
+5438,5,UPI
+5439,7,UPI
+5440,1,Debit Card
+5441,6,Debit Card
+5442,7,Debit Card
+5443,3,Cash on Delivery
+5444,1,Credit Card
+5445,6,UPI
+5446,8,Credit Card
+5447,4,Credit Card
+5448,9,Net Banking
+5449,2,Debit Card
+5450,10,UPI
+5451,2,Cash on Delivery
+5452,4,Net Banking
+5453,2,Cash on Delivery
+5454,2,Cash on Delivery
+5455,6,Debit Card
+5456,6,UPI
+5457,8,Cash on Delivery
+5458,8,UPI
+5459,5,Credit Card
+5460,1,Credit Card
+5461,10,Net Banking
+5462,9,Debit Card
+5463,6,Credit Card
+5464,5,Credit Card
+5465,4,Debit Card
+5466,5,Cash on Delivery
+5467,2,Cash on Delivery
+5468,10,UPI
+5469,2,Cash on Delivery
+5470,4,Credit Card
+5471,9,Cash on Delivery
+5472,4,Debit Card
+5473,1,Credit Card
+5474,8,Cash on Delivery
+5475,1,Cash on Delivery
+5476,2,Debit Card
+5477,5,Credit Card
+5478,8,Net Banking
+5479,5,UPI
+5480,6,UPI
+5481,4,Credit Card
+5482,7,Cash on Delivery
+5483,2,Debit Card
+5484,2,Cash on Delivery
+5485,4,Cash on Delivery
+5486,4,Credit Card
+5487,2,Net Banking
+5488,9,Credit Card
+5489,9,Credit Card
+5490,1,Debit Card
+5491,7,Cash on Delivery
+5492,1,Cash on Delivery
+5493,4,UPI
+5494,6,Debit Card
+5495,10,Credit Card
+5496,10,Cash on Delivery
+5497,2,Debit Card
+5498,6,Cash on Delivery
+5499,7,Cash on Delivery
+5500,10,Net Banking
+5501,9,Credit Card
+5502,10,Cash on Delivery
+5503,6,UPI
+5504,4,Credit Card
+5505,8,Cash on Delivery
+5506,5,UPI
+5507,6,Net Banking
+5508,10,Debit Card
+5509,8,Debit Card
+5510,1,Debit Card
+5511,6,Net Banking
+5512,2,Cash on Delivery
+5513,3,Debit Card
+5514,3,Debit Card
+5515,8,Cash on Delivery
+5516,4,Credit Card
+5517,5,Cash on Delivery
+5518,6,Net Banking
+5519,6,Credit Card
+5520,1,Credit Card
+5521,6,Debit Card
+5522,6,Debit Card
+5523,5,Cash on Delivery
+5524,1,Cash on Delivery
+5525,4,Debit Card
+5526,8,UPI
+5527,9,Debit Card
+5528,4,Cash on Delivery
+5529,1,Debit Card
+5530,9,Credit Card
+5531,6,Debit Card
+5532,5,Credit Card
+5533,4,Net Banking
+5534,7,Credit Card
+5535,2,Debit Card
+5536,10,UPI
+5537,8,Debit Card
+5538,3,Credit Card
+5539,8,UPI
+5540,7,UPI
+5541,2,Debit Card
+5542,5,Cash on Delivery
+5543,10,UPI
+5544,2,UPI
+5545,2,UPI
+5546,6,Debit Card
+5547,1,Cash on Delivery
+5548,4,Credit Card
+5549,9,UPI
+5550,5,Cash on Delivery
+5551,3,Debit Card
+5552,8,UPI
+5553,6,UPI
+5554,9,Credit Card
+5555,3,UPI
+5556,8,Debit Card
+5557,4,UPI
+5558,9,Net Banking
+5559,10,Net Banking
+5560,7,Debit Card
+5561,8,Cash on Delivery
+5562,1,Net Banking
+5563,4,Net Banking
+5564,2,Credit Card
+5565,5,Credit Card
+5566,10,Debit Card
+5567,6,UPI
+5568,4,Credit Card
+5569,2,Debit Card
+5570,5,Net Banking
+5571,9,Cash on Delivery
+5572,5,UPI
+5573,5,UPI
+5574,3,Debit Card
+5575,6,Credit Card
+5576,4,Credit Card
+5577,1,Credit Card
+5578,10,Net Banking
+5579,9,Credit Card
+5580,2,UPI
+5581,4,Credit Card
+5582,5,Credit Card
+5583,8,Credit Card
+5584,10,Debit Card
+5585,4,Credit Card
+5586,6,Cash on Delivery
+5587,2,UPI
+5588,9,Debit Card
+5589,3,Net Banking
+5590,1,Credit Card
+5591,4,Cash on Delivery
+5592,10,UPI
+5593,2,Credit Card
+5594,6,Debit Card
+5595,6,Debit Card
+5596,8,Net Banking
+5597,7,Debit Card
+5598,10,UPI
+5599,4,UPI
+5600,10,Cash on Delivery
+5601,8,Debit Card
+5602,4,Cash on Delivery
+5603,4,Net Banking
+5604,6,Credit Card
+5605,6,Cash on Delivery
+5606,7,UPI
+5607,10,Credit Card
+5608,3,UPI
+5609,9,UPI
+5610,8,Credit Card
+5611,1,UPI
+5612,8,Cash on Delivery
+5613,5,Net Banking
+5614,8,Net Banking
+5615,9,UPI
+5616,6,Credit Card
+5617,1,Debit Card
+5618,1,Debit Card
+5619,2,Net Banking
+5620,5,UPI
+5621,9,UPI
+5622,10,Credit Card
+5623,4,Credit Card
+5624,2,Credit Card
+5625,4,UPI
+5626,5,Net Banking
+5627,6,Debit Card
+5628,5,Net Banking
+5629,4,Debit Card
+5630,8,Net Banking
+5631,2,Credit Card
+5632,1,Credit Card
+5633,2,Debit Card
+5634,8,Debit Card
+5635,7,UPI
+5636,3,Credit Card
+5637,5,Credit Card
+5638,3,Credit Card
+5639,3,Debit Card
+5640,4,Cash on Delivery
+5641,4,Cash on Delivery
+5642,6,UPI
+5643,6,Net Banking
+5644,10,Credit Card
+5645,6,Credit Card
+5646,9,Cash on Delivery
+5647,8,UPI
+5648,10,Credit Card
+5649,2,Cash on Delivery
+5650,4,Debit Card
+5651,4,UPI
+5652,8,Credit Card
+5653,4,Net Banking
+5654,4,Cash on Delivery
+5655,1,Credit Card
+5656,1,Debit Card
+5657,6,Net Banking
+5658,3,Net Banking
+5659,9,UPI
+5660,4,Cash on Delivery
+5661,5,Cash on Delivery
+5662,10,Cash on Delivery
+5663,9,Net Banking
+5664,1,Debit Card
+5665,8,UPI
+5666,9,Credit Card
+5667,5,UPI
+5668,7,Debit Card
+5669,10,UPI
+5670,9,UPI
+5671,2,Net Banking
+5672,5,Debit Card
+5673,7,Cash on Delivery
+5674,9,Cash on Delivery
+5675,3,Debit Card
+5676,10,Credit Card
+5677,5,Net Banking
+5678,4,UPI
+5679,10,Debit Card
+5680,8,Debit Card
+5681,6,Debit Card
+5682,3,Credit Card
+5683,9,Net Banking
+5684,6,Cash on Delivery
+5685,6,Cash on Delivery
+5686,5,Credit Card
+5687,9,UPI
+5688,4,Net Banking
+5689,8,Credit Card
+5690,7,Debit Card
+5691,4,UPI
+5692,3,Debit Card
+5693,5,Credit Card
+5694,4,UPI
+5695,7,Debit Card
+5696,10,Debit Card
+5697,3,Credit Card
+5698,8,Credit Card
+5699,1,UPI
+5700,9,UPI
+5701,10,Net Banking
+5702,8,UPI
+5703,2,Debit Card
+5704,3,UPI
+5705,7,UPI
+5706,10,Credit Card
+5707,6,UPI
+5708,6,Cash on Delivery
+5709,1,Net Banking
+5710,4,Cash on Delivery
+5711,9,Credit Card
+5712,4,UPI
+5713,9,Cash on Delivery
+5714,7,Debit Card
+5715,1,Debit Card
+5716,10,Debit Card
+5717,1,UPI
+5718,8,Credit Card
+5719,9,Net Banking
+5720,5,Cash on Delivery
+5721,9,Debit Card
+5722,6,Net Banking
+5723,5,UPI
+5724,1,Debit Card
+5725,7,Debit Card
+5726,9,Net Banking
+5727,8,Debit Card
+5728,5,Net Banking
+5729,8,Credit Card
+5730,4,Cash on Delivery
+5731,5,Credit Card
+5732,10,Cash on Delivery
+5733,7,Cash on Delivery
+5734,3,UPI
+5735,10,Cash on Delivery
+5736,5,Debit Card
+5737,1,Debit Card
+5738,8,Net Banking
+5739,6,Credit Card
+5740,5,Net Banking
+5741,9,Credit Card
+5742,2,Credit Card
+5743,7,Credit Card
+5744,2,Debit Card
+5745,1,UPI
+5746,1,Debit Card
+5747,5,Net Banking
+5748,4,Cash on Delivery
+5749,1,UPI
+5750,9,Net Banking
+5751,2,Debit Card
+5752,9,Credit Card
+5753,7,UPI
+5754,1,Net Banking
+5755,6,Debit Card
+5756,8,Credit Card
+5757,4,Debit Card
+5758,7,Credit Card
+5759,4,Net Banking
+5760,3,Cash on Delivery
+5761,5,Net Banking
+5762,10,Net Banking
+5763,5,Debit Card
+5764,3,Net Banking
+5765,6,Net Banking
+5766,2,UPI
+5767,8,Net Banking
+5768,3,Net Banking
+5769,10,Net Banking
+5770,2,Cash on Delivery
+5771,1,UPI
+5772,10,Net Banking
+5773,10,Cash on Delivery
+5774,9,Debit Card
+5775,3,Net Banking
+5776,8,Cash on Delivery
+5777,7,UPI
+5778,9,Credit Card
+5779,4,UPI
+5780,7,Debit Card
+5781,3,Cash on Delivery
+5782,4,Debit Card
+5783,7,Credit Card
+5784,1,Credit Card
+5785,6,UPI
+5786,4,Cash on Delivery
+5787,2,Debit Card
+5788,2,Debit Card
+5789,5,Credit Card
+5790,4,Net Banking
+5791,10,UPI
+5792,3,Net Banking
+5793,9,Net Banking
+5794,6,Credit Card
+5795,6,Debit Card
+5796,5,UPI
+5797,4,Credit Card
+5798,4,Cash on Delivery
+5799,4,UPI
+5800,8,Debit Card
+5801,1,Credit Card
+5802,1,Debit Card
+5803,2,Credit Card
+5804,7,Credit Card
+5805,3,Debit Card
+5806,4,Debit Card
+5807,3,Debit Card
+5808,10,Credit Card
+5809,1,Net Banking
+5810,3,Cash on Delivery
+5811,4,Net Banking
+5812,4,Net Banking
+5813,8,Debit Card
+5814,9,Cash on Delivery
+5815,3,Credit Card
+5816,7,Cash on Delivery
+5817,7,Net Banking
+5818,5,Credit Card
+5819,1,UPI
+5820,2,Debit Card
+5821,6,Credit Card
+5822,8,Debit Card
+5823,5,Debit Card
+5824,2,Credit Card
+5825,3,Cash on Delivery
+5826,5,UPI
+5827,7,UPI
+5828,8,Cash on Delivery
+5829,9,Debit Card
+5830,8,Debit Card
+5831,6,Credit Card
+5832,4,Debit Card
+5833,4,Debit Card
+5834,5,Debit Card
+5835,5,Credit Card
+5836,3,UPI
+5837,6,Debit Card
+5838,7,Credit Card
+5839,2,Net Banking
+5840,9,Credit Card
+5841,10,Credit Card
+5842,2,Debit Card
+5843,8,Credit Card
+5844,3,Debit Card
+5845,1,Debit Card
+5846,10,Credit Card
+5847,3,UPI
+5848,3,Credit Card
+5849,3,Net Banking
+5850,1,Debit Card
+5851,9,UPI
+5852,9,Net Banking
+5853,9,Net Banking
+5854,2,Cash on Delivery
+5855,7,Debit Card
+5856,9,UPI
+5857,10,Cash on Delivery
+5858,4,Net Banking
+5859,8,Cash on Delivery
+5860,10,UPI
+5861,5,Debit Card
+5862,9,Debit Card
+5863,2,Net Banking
+5864,6,Debit Card
+5865,9,Credit Card
+5866,3,Cash on Delivery
+5867,8,Net Banking
+5868,8,Net Banking
+5869,9,Debit Card
+5870,7,Credit Card
+5871,8,Debit Card
+5872,3,Net Banking
+5873,6,Credit Card
+5874,4,Cash on Delivery
+5875,2,Cash on Delivery
+5876,5,Debit Card
+5877,7,UPI
+5878,1,Net Banking
+5879,5,Credit Card
+5880,6,Credit Card
+5881,2,Credit Card
+5882,5,Cash on Delivery
+5883,6,UPI
+5884,6,Debit Card
+5885,2,UPI
+5886,3,Credit Card
+5887,10,Debit Card
+5888,6,Net Banking
+5889,5,Credit Card
+5890,8,Net Banking
+5891,5,Credit Card
+5892,4,Credit Card
+5893,2,Credit Card
+5894,6,UPI
+5895,7,Cash on Delivery
+5896,4,UPI
+5897,9,Cash on Delivery
+5898,6,Credit Card
+5899,5,Cash on Delivery
+5900,4,Net Banking
+5901,8,UPI
+5902,4,Cash on Delivery
+5903,9,Credit Card
+5904,6,UPI
+5905,6,Debit Card
+5906,6,Credit Card
+5907,9,Net Banking
+5908,9,Credit Card
+5909,4,Credit Card
+5910,5,UPI
+5911,7,Net Banking
+5912,10,Net Banking
+5913,9,Debit Card
+5914,7,UPI
+5915,10,Credit Card
+5916,8,Credit Card
+5917,9,UPI
+5918,5,UPI
+5919,6,Cash on Delivery
+5920,8,Credit Card
+5921,5,Credit Card
+5922,1,Cash on Delivery
+5923,2,UPI
+5924,5,UPI
+5925,2,UPI
+5926,5,Cash on Delivery
+5927,2,UPI
+5928,9,Cash on Delivery
+5929,4,Credit Card
+5930,3,Debit Card
+5931,3,Credit Card
+5932,5,Debit Card
+5933,8,Net Banking
+5934,1,UPI
+5935,7,Net Banking
+5936,7,Net Banking
+5937,8,Credit Card
+5938,4,Cash on Delivery
+5939,7,Debit Card
+5940,8,Cash on Delivery
+5941,2,Credit Card
+5942,2,Net Banking
+5943,3,Net Banking
+5944,2,Debit Card
+5945,1,Cash on Delivery
+5946,2,Debit Card
+5947,9,Cash on Delivery
+5948,8,Debit Card
+5949,1,Cash on Delivery
+5950,8,Net Banking
+5951,6,Cash on Delivery
+5952,6,Debit Card
+5953,2,Cash on Delivery
+5954,6,UPI
+5955,9,Net Banking
+5956,5,Net Banking
+5957,2,Cash on Delivery
+5958,1,Credit Card
+5959,8,Debit Card
+5960,6,Debit Card
+5961,8,Net Banking
+5962,9,Credit Card
+5963,10,Net Banking
+5964,9,Credit Card
+5965,9,UPI
+5966,3,Cash on Delivery
+5967,8,Cash on Delivery
+5968,5,Cash on Delivery
+5969,7,Net Banking
+5970,8,Net Banking
+5971,9,Debit Card
+5972,5,Credit Card
+5973,2,Cash on Delivery
+5974,1,Credit Card
+5975,2,UPI
+5976,5,Debit Card
+5977,8,Credit Card
+5978,6,Debit Card
+5979,10,Debit Card
+5980,9,Credit Card
+5981,3,Net Banking
+5982,5,Net Banking
+5983,3,Debit Card
+5984,5,Net Banking
+5985,8,Debit Card
+5986,6,Debit Card
+5987,8,UPI
+5988,4,Net Banking
+5989,10,Credit Card
+5990,7,Debit Card
+5991,2,Debit Card
+5992,7,UPI
+5993,4,Net Banking
+5994,4,Net Banking
+5995,3,Debit Card
+5996,4,Credit Card
+5997,10,Debit Card
+5998,9,Cash on Delivery
+5999,8,Debit Card
+6000,8,Net Banking
+6001,1,Credit Card
+6002,2,Credit Card
+6003,8,UPI
+6004,9,Debit Card
+6005,6,Net Banking
+6006,6,Cash on Delivery
+6007,10,Debit Card
+6008,4,Credit Card
+6009,1,UPI
+6010,2,UPI
+6011,6,Debit Card
+6012,1,Cash on Delivery
+6013,4,Debit Card
+6014,8,UPI
+6015,6,Cash on Delivery
+6016,10,Net Banking
+6017,6,Debit Card
+6018,3,UPI
+6019,6,Debit Card
+6020,7,UPI
+6021,9,Net Banking
+6022,8,UPI
+6023,1,Cash on Delivery
+6024,1,UPI
+6025,5,UPI
+6026,4,Cash on Delivery
+6027,2,Net Banking
+6028,7,Cash on Delivery
+6029,5,Debit Card
+6030,10,Credit Card
+6031,3,Credit Card
+6032,2,Cash on Delivery
+6033,10,Cash on Delivery
+6034,3,Debit Card
+6035,8,UPI
+6036,9,UPI
+6037,2,Debit Card
+6038,9,UPI
+6039,9,Credit Card
+6040,6,UPI
+6041,1,Debit Card
+6042,1,Cash on Delivery
+6043,5,Credit Card
+6044,6,Net Banking
+6045,9,UPI
+6046,1,Cash on Delivery
+6047,6,Credit Card
+6048,10,Debit Card
+6049,1,Cash on Delivery
+6050,2,Cash on Delivery
+6051,9,Net Banking
+6052,5,Cash on Delivery
+6053,4,UPI
+6054,5,UPI
+6055,3,Credit Card
+6056,3,Net Banking
+6057,2,Debit Card
+6058,9,Debit Card
+6059,8,Credit Card
+6060,4,Debit Card
+6061,6,UPI
+6062,5,Cash on Delivery
+6063,9,Cash on Delivery
+6064,6,UPI
+6065,8,Net Banking
+6066,2,Cash on Delivery
+6067,5,Net Banking
+6068,1,Net Banking
+6069,5,Credit Card
+6070,6,Credit Card
+6071,6,Credit Card
+6072,10,Cash on Delivery
+6073,6,Debit Card
+6074,6,Cash on Delivery
+6075,9,UPI
+6076,2,Net Banking
+6077,2,Credit Card
+6078,1,Net Banking
+6079,4,Net Banking
+6080,5,Net Banking
+6081,5,UPI
+6082,6,Net Banking
+6083,7,Cash on Delivery
+6084,2,UPI
+6085,7,Net Banking
+6086,3,Credit Card
+6087,7,Net Banking
+6088,7,Credit Card
+6089,1,Cash on Delivery
+6090,7,Cash on Delivery
+6091,10,Cash on Delivery
+6092,8,UPI
+6093,10,Cash on Delivery
+6094,7,UPI
+6095,8,Debit Card
+6096,5,Credit Card
+6097,3,Net Banking
+6098,8,Debit Card
+6099,6,Credit Card
+6100,6,UPI
+6101,3,Net Banking
+6102,7,Cash on Delivery
+6103,4,UPI
+6104,6,Credit Card
+6105,6,Net Banking
+6106,2,Cash on Delivery
+6107,8,Credit Card
+6108,10,Cash on Delivery
+6109,3,Debit Card
+6110,10,Credit Card
+6111,9,Cash on Delivery
+6112,3,Cash on Delivery
+6113,7,Cash on Delivery
+6114,7,Cash on Delivery
+6115,4,Net Banking
+6116,10,Net Banking
+6117,10,Credit Card
+6118,7,Net Banking
+6119,6,Credit Card
+6120,5,Cash on Delivery
+6121,4,Debit Card
+6122,9,Debit Card
+6123,8,Cash on Delivery
+6124,5,Net Banking
+6125,6,Net Banking
+6126,5,UPI
+6127,9,Net Banking
+6128,7,Credit Card
+6129,3,Credit Card
+6130,7,Net Banking
+6131,5,Debit Card
+6132,7,UPI
+6133,10,Net Banking
+6134,7,Cash on Delivery
+6135,7,Net Banking
+6136,7,Net Banking
+6137,7,Credit Card
+6138,5,Net Banking
+6139,4,Debit Card
+6140,4,Credit Card
+6141,3,Debit Card
+6142,7,Net Banking
+6143,10,Cash on Delivery
+6144,1,UPI
+6145,8,Net Banking
+6146,1,Debit Card
+6147,10,UPI
+6148,1,Credit Card
+6149,9,Debit Card
+6150,5,UPI
+6151,1,Net Banking
+6152,2,Credit Card
+6153,10,Cash on Delivery
+6154,10,Debit Card
+6155,3,Cash on Delivery
+6156,7,UPI
+6157,3,Debit Card
+6158,4,Credit Card
+6159,4,Debit Card
+6160,5,Credit Card
+6161,3,Debit Card
+6162,8,UPI
+6163,3,Cash on Delivery
+6164,3,Cash on Delivery
+6165,8,Net Banking
+6166,9,Debit Card
+6167,8,Credit Card
+6168,4,Cash on Delivery
+6169,2,Net Banking
+6170,3,Net Banking
+6171,10,Credit Card
+6172,7,Net Banking
+6173,4,Debit Card
+6174,7,Net Banking
+6175,4,Cash on Delivery
+6176,9,Debit Card
+6177,4,Credit Card
+6178,8,Credit Card
+6179,2,Net Banking
+6180,9,UPI
+6181,10,Cash on Delivery
+6182,6,Net Banking
+6183,4,Cash on Delivery
+6184,6,Debit Card
+6185,10,Credit Card
+6186,10,Debit Card
+6187,5,Cash on Delivery
+6188,10,Debit Card
+6189,8,Debit Card
+6190,6,Cash on Delivery
+6191,1,Debit Card
+6192,10,Debit Card
+6193,10,UPI
+6194,9,UPI
+6195,7,Cash on Delivery
+6196,8,UPI
+6197,1,Net Banking
+6198,2,UPI
+6199,1,Debit Card
+6200,3,Cash on Delivery
+6201,5,Net Banking
+6202,4,Credit Card
+6203,9,Cash on Delivery
+6204,4,Net Banking
+6205,8,Credit Card
+6206,10,Net Banking
+6207,3,Cash on Delivery
+6208,7,Net Banking
+6209,5,Debit Card
+6210,8,Cash on Delivery
+6211,4,UPI
+6212,2,Cash on Delivery
+6213,6,Cash on Delivery
+6214,9,Net Banking
+6215,9,UPI
+6216,1,Cash on Delivery
+6217,10,Cash on Delivery
+6218,3,Net Banking
+6219,10,UPI
+6220,9,Credit Card
+6221,7,Net Banking
+6222,2,Credit Card
+6223,4,Net Banking
+6224,7,Debit Card
+6225,8,Cash on Delivery
+6226,1,UPI
+6227,9,Credit Card
+6228,10,Net Banking
+6229,9,Debit Card
+6230,10,UPI
+6231,8,UPI
+6232,10,Net Banking
+6233,2,Credit Card
+6234,1,Credit Card
+6235,8,Net Banking
+6236,8,Net Banking
+6237,9,Net Banking
+6238,2,Net Banking
+6239,10,UPI
+6240,4,Net Banking
+6241,8,Debit Card
+6242,7,Cash on Delivery
+6243,6,Cash on Delivery
+6244,10,Net Banking
+6245,7,UPI
+6246,8,Net Banking
+6247,3,Net Banking
+6248,8,Net Banking
+6249,3,Credit Card
+6250,6,Debit Card
+6251,5,Net Banking
+6252,6,UPI
+6253,8,Credit Card
+6254,4,Net Banking
+6255,5,Net Banking
+6256,6,Cash on Delivery
+6257,7,Cash on Delivery
+6258,5,Credit Card
+6259,1,Net Banking
+6260,10,UPI
+6261,6,Debit Card
+6262,8,Net Banking
+6263,3,Cash on Delivery
+6264,7,Debit Card
+6265,9,Net Banking
+6266,4,Credit Card
+6267,1,UPI
+6268,1,Net Banking
+6269,5,Debit Card
+6270,4,Cash on Delivery
+6271,3,Net Banking
+6272,9,Credit Card
+6273,10,UPI
+6274,3,Debit Card
+6275,8,Credit Card
+6276,4,Debit Card
+6277,2,Credit Card
+6278,9,UPI
+6279,9,Credit Card
+6280,4,Credit Card
+6281,7,UPI
+6282,8,UPI
+6283,5,UPI
+6284,2,Credit Card
+6285,7,Net Banking
+6286,2,Debit Card
+6287,5,Cash on Delivery
+6288,6,UPI
+6289,4,Net Banking
+6290,2,UPI
+6291,7,UPI
+6292,4,Debit Card
+6293,1,Cash on Delivery
+6294,3,Net Banking
+6295,4,UPI
+6296,3,UPI
+6297,9,UPI
+6298,1,Debit Card
+6299,4,Net Banking
+6300,1,UPI
+6301,2,Net Banking
+6302,4,UPI
+6303,8,Net Banking
+6304,10,Debit Card
+6305,7,Cash on Delivery
+6306,6,Cash on Delivery
+6307,7,Net Banking
+6308,1,Cash on Delivery
+6309,9,UPI
+6310,5,Cash on Delivery
+6311,6,Cash on Delivery
+6312,7,Debit Card
+6313,8,Cash on Delivery
+6314,8,Debit Card
+6315,6,Debit Card
+6316,1,Cash on Delivery
+6317,4,Cash on Delivery
+6318,9,Net Banking
+6319,5,Cash on Delivery
+6320,3,Credit Card
+6321,10,Net Banking
+6322,1,Cash on Delivery
+6323,10,Net Banking
+6324,8,Net Banking
+6325,9,UPI
+6326,2,Cash on Delivery
+6327,3,Net Banking
+6328,3,Debit Card
+6329,1,Credit Card
+6330,3,Net Banking
+6331,5,Cash on Delivery
+6332,2,Cash on Delivery
+6333,1,Cash on Delivery
+6334,6,Debit Card
+6335,1,Debit Card
+6336,10,Net Banking
+6337,7,Credit Card
+6338,6,UPI
+6339,1,Debit Card
+6340,7,Debit Card
+6341,9,Credit Card
+6342,3,Cash on Delivery
+6343,5,Net Banking
+6344,5,Debit Card
+6345,3,Credit Card
+6346,6,Cash on Delivery
+6347,3,Net Banking
+6348,3,Debit Card
+6349,10,Cash on Delivery
+6350,6,Net Banking
+6351,8,Net Banking
+6352,8,UPI
+6353,10,Credit Card
+6354,10,Credit Card
+6355,3,Cash on Delivery
+6356,2,Debit Card
+6357,7,Debit Card
+6358,3,Credit Card
+6359,9,Cash on Delivery
+6360,7,Credit Card
+6361,2,UPI
+6362,8,Debit Card
+6363,4,Debit Card
+6364,5,UPI
+6365,2,Debit Card
+6366,10,Cash on Delivery
+6367,2,Net Banking
+6368,7,Cash on Delivery
+6369,1,Credit Card
+6370,5,Credit Card
+6371,10,Credit Card
+6372,1,Credit Card
+6373,6,Net Banking
+6374,7,Debit Card
+6375,3,Debit Card
+6376,5,Net Banking
+6377,8,Credit Card
+6378,6,Debit Card
+6379,6,Debit Card
+6380,3,Cash on Delivery
+6381,3,Credit Card
+6382,8,Cash on Delivery
+6383,4,Credit Card
+6384,6,Net Banking
+6385,9,UPI
+6386,7,Net Banking
+6387,6,Debit Card
+6388,4,UPI
+6389,9,Debit Card
+6390,6,Credit Card
+6391,4,Cash on Delivery
+6392,7,Net Banking
+6393,7,Cash on Delivery
+6394,8,Net Banking
+6395,9,Debit Card
+6396,3,Debit Card
+6397,4,Credit Card
+6398,5,Credit Card
+6399,9,UPI
+6400,3,Debit Card
+6401,4,UPI
+6402,5,Cash on Delivery
+6403,6,Cash on Delivery
+6404,6,Credit Card
+6405,1,Debit Card
+6406,5,Debit Card
+6407,4,Net Banking
+6408,8,Net Banking
+6409,7,Credit Card
+6410,5,Credit Card
+6411,5,Credit Card
+6412,10,Net Banking
+6413,5,UPI
+6414,4,Credit Card
+6415,7,Cash on Delivery
+6416,1,Cash on Delivery
+6417,8,Cash on Delivery
+6418,8,Credit Card
+6419,10,Debit Card
+6420,9,Net Banking
+6421,3,Net Banking
+6422,9,UPI
+6423,2,Credit Card
+6424,8,Debit Card
+6425,9,UPI
+6426,5,Net Banking
+6427,2,Debit Card
+6428,3,Net Banking
+6429,7,UPI
+6430,3,Cash on Delivery
+6431,10,Debit Card
+6432,10,Cash on Delivery
+6433,10,Cash on Delivery
+6434,1,Debit Card
+6435,1,Net Banking
+6436,7,Net Banking
+6437,2,UPI
+6438,9,Credit Card
+6439,7,UPI
+6440,2,Credit Card
+6441,8,UPI
+6442,2,Net Banking
+6443,8,Net Banking
+6444,6,Debit Card
+6445,5,Credit Card
+6446,9,Net Banking
+6447,8,UPI
+6448,7,UPI
+6449,8,Credit Card
+6450,4,UPI
+6451,4,Net Banking
+6452,7,Net Banking
+6453,8,Net Banking
+6454,2,Cash on Delivery
+6455,5,Cash on Delivery
+6456,7,UPI
+6457,9,UPI
+6458,10,UPI
+6459,9,Debit Card
+6460,4,UPI
+6461,7,Net Banking
+6462,6,Cash on Delivery
+6463,7,Cash on Delivery
+6464,6,Debit Card
+6465,1,Debit Card
+6466,8,Net Banking
+6467,10,UPI
+6468,9,Cash on Delivery
+6469,9,Cash on Delivery
+6470,1,Debit Card
+6471,6,Credit Card
+6472,3,UPI
+6473,2,UPI
+6474,8,Debit Card
+6475,7,Cash on Delivery
+6476,3,UPI
+6477,5,Debit Card
+6478,4,Credit Card
+6479,9,Credit Card
+6480,10,UPI
+6481,9,Debit Card
+6482,8,Net Banking
+6483,6,Debit Card
+6484,2,UPI
+6485,6,UPI
+6486,8,UPI
+6487,1,Net Banking
+6488,7,Credit Card
+6489,8,UPI
+6490,7,Net Banking
+6491,7,Cash on Delivery
+6492,3,Debit Card
+6493,7,Net Banking
+6494,1,Net Banking
+6495,7,Debit Card
+6496,4,Debit Card
+6497,8,Cash on Delivery
+6498,1,Credit Card
+6499,9,Cash on Delivery
+6500,6,UPI
+6501,9,UPI
+6502,6,Debit Card
+6503,1,Credit Card
+6504,6,Credit Card
+6505,1,Net Banking
+6506,7,UPI
+6507,6,Net Banking
+6508,3,Net Banking
+6509,4,Net Banking
+6510,3,Credit Card
+6511,5,UPI
+6512,8,Debit Card
+6513,6,Net Banking
+6514,2,Credit Card
+6515,10,Cash on Delivery
+6516,3,Credit Card
+6517,4,Cash on Delivery
+6518,9,UPI
+6519,5,Cash on Delivery
+6520,3,Cash on Delivery
+6521,3,Net Banking
+6522,2,Debit Card
+6523,6,UPI
+6524,4,UPI
+6525,6,Debit Card
+6526,4,Net Banking
+6527,10,Net Banking
+6528,4,Debit Card
+6529,8,Debit Card
+6530,8,Credit Card
+6531,1,UPI
+6532,10,Cash on Delivery
+6533,8,Net Banking
+6534,2,Cash on Delivery
+6535,7,Net Banking
+6536,9,Debit Card
+6537,3,Debit Card
+6538,1,UPI
+6539,6,Net Banking
+6540,1,UPI
+6541,1,Cash on Delivery
+6542,2,Cash on Delivery
+6543,3,UPI
+6544,7,Net Banking
+6545,6,UPI
+6546,2,Cash on Delivery
+6547,8,Debit Card
+6548,7,UPI
+6549,8,Net Banking
+6550,7,Cash on Delivery
+6551,2,Credit Card
+6552,3,Debit Card
+6553,4,Debit Card
+6554,6,Cash on Delivery
+6555,4,Cash on Delivery
+6556,6,Net Banking
+6557,1,UPI
+6558,10,Debit Card
+6559,3,Cash on Delivery
+6560,9,Debit Card
+6561,6,Cash on Delivery
+6562,7,Net Banking
+6563,1,Credit Card
+6564,10,Credit Card
+6565,8,Debit Card
+6566,2,Cash on Delivery
+6567,5,Debit Card
+6568,3,Credit Card
+6569,8,UPI
+6570,7,Net Banking
+6571,5,Debit Card
+6572,1,Credit Card
+6573,2,Net Banking
+6574,4,Cash on Delivery
+6575,6,Net Banking
+6576,9,Net Banking
+6577,2,UPI
+6578,10,UPI
+6579,8,Net Banking
+6580,3,Credit Card
+6581,7,UPI
+6582,8,Cash on Delivery
+6583,3,Cash on Delivery
+6584,4,Net Banking
+6585,10,Cash on Delivery
+6586,1,Credit Card
+6587,4,Credit Card
+6588,3,Credit Card
+6589,6,Debit Card
+6590,2,UPI
+6591,3,Net Banking
+6592,9,Net Banking
+6593,1,UPI
+6594,7,Debit Card
+6595,9,Cash on Delivery
+6596,6,Debit Card
+6597,9,Credit Card
+6598,4,Debit Card
+6599,10,Cash on Delivery
+6600,1,Credit Card
+6601,1,Net Banking
+6602,5,Debit Card
+6603,8,Credit Card
+6604,10,Cash on Delivery
+6605,5,Debit Card
+6606,10,UPI
+6607,4,Cash on Delivery
+6608,4,Cash on Delivery
+6609,6,Cash on Delivery
+6610,10,Credit Card
+6611,10,Debit Card
+6612,5,Cash on Delivery
+6613,6,Credit Card
+6614,1,Net Banking
+6615,5,Cash on Delivery
+6616,2,Credit Card
+6617,10,Net Banking
+6618,4,Credit Card
+6619,5,UPI
+6620,4,Cash on Delivery
+6621,1,Credit Card
+6622,2,UPI
+6623,10,Cash on Delivery
+6624,10,Debit Card
+6625,8,Net Banking
+6626,5,Cash on Delivery
+6627,4,UPI
+6628,7,UPI
+6629,9,Net Banking
+6630,3,Credit Card
+6631,2,Cash on Delivery
+6632,9,Debit Card
+6633,9,Net Banking
+6634,3,Debit Card
+6635,2,Cash on Delivery
+6636,5,Net Banking
+6637,10,Net Banking
+6638,8,Credit Card
+6639,8,Cash on Delivery
+6640,2,Debit Card
+6641,6,Debit Card
+6642,1,Cash on Delivery
+6643,1,UPI
+6644,5,UPI
+6645,2,Cash on Delivery
+6646,2,UPI
+6647,1,Net Banking
+6648,7,UPI
+6649,4,Credit Card
+6650,3,Credit Card
+6651,4,Debit Card
+6652,5,Credit Card
+6653,3,Credit Card
+6654,10,Cash on Delivery
+6655,7,Credit Card
+6656,9,Net Banking
+6657,1,Net Banking
+6658,8,UPI
+6659,10,Debit Card
+6660,10,Credit Card
+6661,9,Net Banking
+6662,10,Credit Card
+6663,4,UPI
+6664,10,Debit Card
+6665,9,Debit Card
+6666,1,Debit Card
+6667,6,Credit Card
+6668,1,Credit Card
+6669,10,Cash on Delivery
+6670,6,Debit Card
+6671,9,UPI
+6672,9,Credit Card
+6673,8,Cash on Delivery
+6674,4,Credit Card
+6675,7,UPI
+6676,2,Credit Card
+6677,4,Credit Card
+6678,10,Cash on Delivery
+6679,2,Net Banking
+6680,10,Net Banking
+6681,5,Debit Card
+6682,4,Net Banking
+6683,7,Net Banking
+6684,1,UPI
+6685,1,Debit Card
+6686,5,Credit Card
+6687,8,Cash on Delivery
+6688,1,Credit Card
+6689,5,Cash on Delivery
+6690,7,Net Banking
+6691,3,Debit Card
+6692,6,Net Banking
+6693,9,Cash on Delivery
+6694,5,Debit Card
+6695,10,UPI
+6696,6,Debit Card
+6697,8,Net Banking
+6698,8,Debit Card
+6699,5,Net Banking
+6700,8,Cash on Delivery
+6701,2,Net Banking
+6702,9,UPI
+6703,2,Credit Card
+6704,4,Cash on Delivery
+6705,8,Credit Card
+6706,5,Credit Card
+6707,1,UPI
+6708,7,Net Banking
+6709,10,Credit Card
+6710,9,Debit Card
+6711,4,Net Banking
+6712,8,Cash on Delivery
+6713,4,Cash on Delivery
+6714,2,UPI
+6715,1,Credit Card
+6716,4,Credit Card
+6717,6,Net Banking
+6718,8,Net Banking
+6719,8,Credit Card
+6720,3,Debit Card
+6721,5,Credit Card
+6722,7,Credit Card
+6723,9,Debit Card
+6724,3,Debit Card
+6725,10,Credit Card
+6726,7,Net Banking
+6727,6,Credit Card
+6728,9,Cash on Delivery
+6729,4,Cash on Delivery
+6730,1,UPI
+6731,6,Credit Card
+6732,2,Cash on Delivery
+6733,3,Debit Card
+6734,8,Net Banking
+6735,10,Debit Card
+6736,7,Net Banking
+6737,6,Credit Card
+6738,2,Debit Card
+6739,3,Credit Card
+6740,7,Cash on Delivery
+6741,5,Debit Card
+6742,10,UPI
+6743,1,Credit Card
+6744,2,Credit Card
+6745,10,Cash on Delivery
+6746,7,Debit Card
+6747,8,UPI
+6748,2,UPI
+6749,1,Net Banking
+6750,1,UPI
+6751,2,Credit Card
+6752,2,Credit Card
+6753,3,UPI
+6754,8,Net Banking
+6755,2,Cash on Delivery
+6756,8,Net Banking
+6757,3,UPI
+6758,2,Net Banking
+6759,8,Cash on Delivery
+6760,2,Cash on Delivery
+6761,4,Net Banking
+6762,10,Credit Card
+6763,6,Debit Card
+6764,5,Cash on Delivery
+6765,1,Credit Card
+6766,2,Cash on Delivery
+6767,5,Net Banking
+6768,7,Credit Card
+6769,2,Debit Card
+6770,2,Debit Card
+6771,3,Cash on Delivery
+6772,6,UPI
+6773,10,UPI
+6774,3,Debit Card
+6775,5,Cash on Delivery
+6776,7,Cash on Delivery
+6777,3,Credit Card
+6778,7,Net Banking
+6779,2,Cash on Delivery
+6780,6,UPI
+6781,2,Debit Card
+6782,6,Cash on Delivery
+6783,9,UPI
+6784,3,Credit Card
+6785,7,Debit Card
+6786,4,Debit Card
+6787,10,UPI
+6788,1,Cash on Delivery
+6789,9,Cash on Delivery
+6790,1,UPI
+6791,1,Cash on Delivery
+6792,9,Credit Card
+6793,5,Net Banking
+6794,3,Credit Card
+6795,5,Debit Card
+6796,2,Debit Card
+6797,5,Cash on Delivery
+6798,2,Credit Card
+6799,6,Net Banking
+6800,9,Cash on Delivery
+6801,7,Cash on Delivery
+6802,1,Credit Card
+6803,9,Credit Card
+6804,5,Debit Card
+6805,4,UPI
+6806,5,Debit Card
+6807,5,Cash on Delivery
+6808,4,Cash on Delivery
+6809,3,Debit Card
+6810,1,Cash on Delivery
+6811,4,Credit Card
+6812,1,Debit Card
+6813,3,Net Banking
+6814,4,Net Banking
+6815,1,Cash on Delivery
+6816,3,Debit Card
+6817,5,Credit Card
+6818,9,UPI
+6819,8,Debit Card
+6820,10,Credit Card
+6821,7,Net Banking
+6822,7,Debit Card
+6823,7,Credit Card
+6824,3,Net Banking
+6825,4,UPI
+6826,7,Credit Card
+6827,7,Credit Card
+6828,3,Cash on Delivery
+6829,3,UPI
+6830,9,Debit Card
+6831,9,Net Banking
+6832,6,Cash on Delivery
+6833,10,Debit Card
+6834,3,Credit Card
+6835,1,Cash on Delivery
+6836,9,Debit Card
+6837,9,Debit Card
+6838,8,Net Banking
+6839,8,Debit Card
+6840,1,Credit Card
+6841,5,Debit Card
+6842,4,Credit Card
+6843,1,Cash on Delivery
+6844,7,Debit Card
+6845,6,Net Banking
+6846,9,Net Banking
+6847,3,Credit Card
+6848,4,UPI
+6849,4,Credit Card
+6850,7,Debit Card
+6851,7,Net Banking
+6852,2,Cash on Delivery
+6853,1,Net Banking
+6854,9,Cash on Delivery
+6855,10,Net Banking
+6856,8,Cash on Delivery
+6857,7,Debit Card
+6858,5,Credit Card
+6859,9,Net Banking
+6860,5,Net Banking
+6861,6,UPI
+6862,2,Cash on Delivery
+6863,1,UPI
+6864,8,Debit Card
+6865,1,Credit Card
+6866,8,UPI
+6867,5,Credit Card
+6868,1,Cash on Delivery
+6869,1,Cash on Delivery
+6870,10,Cash on Delivery
+6871,8,Credit Card
+6872,9,UPI
+6873,2,Cash on Delivery
+6874,8,Cash on Delivery
+6875,2,Debit Card
+6876,1,Credit Card
+6877,8,Debit Card
+6878,5,Debit Card
+6879,2,Credit Card
+6880,6,Net Banking
+6881,9,Cash on Delivery
+6882,10,Net Banking
+6883,5,UPI
+6884,4,UPI
+6885,6,Net Banking
+6886,10,Net Banking
+6887,3,Credit Card
+6888,1,Net Banking
+6889,3,Cash on Delivery
+6890,9,Cash on Delivery
+6891,5,Debit Card
+6892,4,Net Banking
+6893,2,Debit Card
+6894,9,Debit Card
+6895,10,Cash on Delivery
+6896,1,UPI
+6897,2,Cash on Delivery
+6898,4,Cash on Delivery
+6899,9,Net Banking
+6900,2,Net Banking
+6901,2,Debit Card
+6902,2,Debit Card
+6903,5,Cash on Delivery
+6904,10,UPI
+6905,5,Debit Card
+6906,3,Net Banking
+6907,10,Cash on Delivery
+6908,2,Cash on Delivery
+6909,7,Credit Card
+6910,9,Credit Card
+6911,6,Credit Card
+6912,7,Cash on Delivery
+6913,6,Net Banking
+6914,3,Debit Card
+6915,3,Credit Card
+6916,8,Credit Card
+6917,10,Credit Card
+6918,8,UPI
+6919,2,Credit Card
+6920,8,Net Banking
+6921,5,Cash on Delivery
+6922,9,Cash on Delivery
+6923,8,Credit Card
+6924,2,Credit Card
+6925,8,Credit Card
+6926,4,Net Banking
+6927,5,Debit Card
+6928,1,Credit Card
+6929,4,Net Banking
+6930,6,UPI
+6931,4,Cash on Delivery
+6932,7,Debit Card
+6933,6,Debit Card
+6934,10,Net Banking
+6935,4,Net Banking
+6936,4,UPI
+6937,5,Net Banking
+6938,9,Credit Card
+6939,10,Net Banking
+6940,4,Net Banking
+6941,6,Cash on Delivery
+6942,2,UPI
+6943,7,Credit Card
+6944,1,UPI
+6945,8,Cash on Delivery
+6946,4,Credit Card
+6947,4,Net Banking
+6948,3,Debit Card
+6949,3,Credit Card
+6950,10,UPI
+6951,6,Credit Card
+6952,7,Debit Card
+6953,3,Debit Card
+6954,3,Net Banking
+6955,6,Debit Card
+6956,1,Cash on Delivery
+6957,7,UPI
+6958,8,UPI
+6959,6,Debit Card
+6960,6,Net Banking
+6961,1,Debit Card
+6962,1,Credit Card
+6963,2,Debit Card
+6964,8,UPI
+6965,2,Cash on Delivery
+6966,4,Credit Card
+6967,4,Credit Card
+6968,4,Cash on Delivery
+6969,8,Debit Card
+6970,2,Debit Card
+6971,6,Credit Card
+6972,5,Net Banking
+6973,8,Debit Card
+6974,5,UPI
+6975,4,Credit Card
+6976,10,Credit Card
+6977,8,Net Banking
+6978,9,Debit Card
+6979,6,Debit Card
+6980,7,Cash on Delivery
+6981,6,UPI
+6982,5,UPI
+6983,8,Debit Card
+6984,10,Debit Card
+6985,4,Debit Card
+6986,10,Cash on Delivery
+6987,10,Debit Card
+6988,3,Credit Card
+6989,3,Debit Card
+6990,9,Net Banking
+6991,7,Cash on Delivery
+6992,8,Cash on Delivery
+6993,3,Cash on Delivery
+6994,4,Debit Card
+6995,2,UPI
+6996,2,Cash on Delivery
+6997,2,Debit Card
+6998,10,UPI
+6999,7,Cash on Delivery
+7000,9,Debit Card
+7001,9,Cash on Delivery
+7002,10,Cash on Delivery
+7003,6,Credit Card
+7004,8,Cash on Delivery
+7005,3,Debit Card
+7006,7,UPI
+7007,2,UPI
+7008,1,Credit Card
+7009,7,Credit Card
+7010,3,Net Banking
+7011,9,Credit Card
+7012,4,UPI
+7013,2,Net Banking
+7014,1,Net Banking
+7015,10,UPI
+7016,8,Net Banking
+7017,2,UPI
+7018,10,Net Banking
+7019,9,Debit Card
+7020,9,UPI
+7021,9,Cash on Delivery
+7022,1,Cash on Delivery
+7023,1,Credit Card
+7024,2,Credit Card
+7025,6,Net Banking
+7026,8,UPI
+7027,7,Net Banking
+7028,5,Credit Card
+7029,7,Debit Card
+7030,10,Net Banking
+7031,7,Net Banking
+7032,1,Net Banking
+7033,1,UPI
+7034,3,Cash on Delivery
+7035,5,Debit Card
+7036,9,Cash on Delivery
+7037,6,Credit Card
+7038,1,Net Banking
+7039,1,Debit Card
+7040,10,Net Banking
+7041,1,Cash on Delivery
+7042,8,Debit Card
+7043,3,Cash on Delivery
+7044,5,Credit Card
+7045,1,UPI
+7046,6,Credit Card
+7047,9,Debit Card
+7048,8,Credit Card
+7049,6,Cash on Delivery
+7050,3,UPI
+7051,5,Credit Card
+7052,2,Credit Card
+7053,8,Cash on Delivery
+7054,10,Debit Card
+7055,6,UPI
+7056,7,Credit Card
+7057,5,Credit Card
+7058,1,Debit Card
+7059,5,Cash on Delivery
+7060,3,Credit Card
+7061,5,Cash on Delivery
+7062,6,Debit Card
+7063,3,Credit Card
+7064,7,Net Banking
+7065,3,UPI
+7066,8,UPI
+7067,2,Cash on Delivery
+7068,6,Net Banking
+7069,3,Credit Card
+7070,4,Credit Card
+7071,9,UPI
+7072,10,Debit Card
+7073,6,Cash on Delivery
+7074,3,UPI
+7075,4,Credit Card
+7076,6,Net Banking
+7077,5,Credit Card
+7078,2,Cash on Delivery
+7079,8,Credit Card
+7080,8,UPI
+7081,2,Debit Card
+7082,4,Net Banking
+7083,5,Net Banking
+7084,8,Net Banking
+7085,8,Debit Card
+7086,10,Debit Card
+7087,3,Credit Card
+7088,6,Credit Card
+7089,2,Credit Card
+7090,3,Credit Card
+7091,9,UPI
+7092,10,Credit Card
+7093,10,Net Banking
+7094,3,Cash on Delivery
+7095,1,Debit Card
+7096,6,Credit Card
+7097,8,UPI
+7098,8,Net Banking
+7099,1,Debit Card
+7100,1,Net Banking
+7101,7,Debit Card
+7102,6,Credit Card
+7103,8,UPI
+7104,4,Cash on Delivery
+7105,1,Debit Card
+7106,5,Credit Card
+7107,10,UPI
+7108,7,Credit Card
+7109,4,Cash on Delivery
+7110,7,Net Banking
+7111,1,Debit Card
+7112,1,UPI
+7113,5,UPI
+7114,3,UPI
+7115,8,UPI
+7116,9,Net Banking
+7117,3,Net Banking
+7118,1,Debit Card
+7119,10,Net Banking
+7120,9,Credit Card
+7121,8,UPI
+7122,3,Debit Card
+7123,1,UPI
+7124,4,Cash on Delivery
+7125,2,Credit Card
+7126,7,Debit Card
+7127,7,Debit Card
+7128,8,Cash on Delivery
+7129,3,Credit Card
+7130,9,Net Banking
+7131,1,Net Banking
+7132,2,UPI
+7133,2,UPI
+7134,10,Net Banking
+7135,3,Cash on Delivery
+7136,6,Credit Card
+7137,7,Credit Card
+7138,1,UPI
+7139,9,Cash on Delivery
+7140,4,Debit Card
+7141,10,Credit Card
+7142,8,Net Banking
+7143,8,UPI
+7144,5,Net Banking
+7145,9,Credit Card
+7146,3,Cash on Delivery
+7147,3,Debit Card
+7148,7,UPI
+7149,9,Debit Card
+7150,10,Cash on Delivery
+7151,10,UPI
+7152,9,UPI
+7153,6,Credit Card
+7154,3,Debit Card
+7155,2,Debit Card
+7156,4,UPI
+7157,1,Credit Card
+7158,3,Net Banking
+7159,10,Debit Card
+7160,2,Credit Card
+7161,10,UPI
+7162,8,UPI
+7163,4,Cash on Delivery
+7164,7,Net Banking
+7165,6,UPI
+7166,8,Debit Card
+7167,6,Debit Card
+7168,5,Credit Card
+7169,5,UPI
+7170,7,UPI
+7171,3,Debit Card
+7172,6,Net Banking
+7173,5,Debit Card
+7174,2,Cash on Delivery
+7175,9,Credit Card
+7176,1,Debit Card
+7177,3,Debit Card
+7178,5,Net Banking
+7179,10,Cash on Delivery
+7180,8,Debit Card
+7181,4,Net Banking
+7182,5,Debit Card
+7183,9,Net Banking
+7184,1,Debit Card
+7185,2,Net Banking
+7186,9,Debit Card
+7187,1,Cash on Delivery
+7188,7,Debit Card
+7189,1,Cash on Delivery
+7190,1,Net Banking
+7191,9,UPI
+7192,3,Credit Card
+7193,9,Credit Card
+7194,8,Cash on Delivery
+7195,5,Debit Card
+7196,10,Credit Card
+7197,3,Net Banking
+7198,3,Debit Card
+7199,10,Credit Card
+7200,2,Net Banking
+7201,4,Credit Card
+7202,9,UPI
+7203,10,UPI
+7204,7,Net Banking
+7205,2,UPI
+7206,3,Net Banking
+7207,5,Debit Card
+7208,9,Debit Card
+7209,1,Cash on Delivery
+7210,4,Debit Card
+7211,4,Credit Card
+7212,9,Debit Card
+7213,10,UPI
+7214,10,UPI
+7215,6,Cash on Delivery
+7216,8,Cash on Delivery
+7217,10,Cash on Delivery
+7218,1,Cash on Delivery
+7219,10,Net Banking
+7220,6,Credit Card
+7221,1,Credit Card
+7222,1,Net Banking
+7223,3,UPI
+7224,9,UPI
+7225,8,Cash on Delivery
+7226,8,Debit Card
+7227,7,Credit Card
+7228,2,Debit Card
+7229,5,Cash on Delivery
+7230,6,Debit Card
+7231,3,Debit Card
+7232,10,Credit Card
+7233,3,UPI
+7234,3,Net Banking
+7235,5,Debit Card
+7236,9,Net Banking
+7237,1,Debit Card
+7238,1,Credit Card
+7239,5,UPI
+7240,7,UPI
+7241,5,Debit Card
+7242,4,Debit Card
+7243,9,UPI
+7244,1,Net Banking
+7245,9,Credit Card
+7246,3,Cash on Delivery
+7247,6,Cash on Delivery
+7248,8,Net Banking
+7249,7,Net Banking
+7250,2,Cash on Delivery
+7251,9,Credit Card
+7252,3,Credit Card
+7253,6,Net Banking
+7254,7,Cash on Delivery
+7255,6,Debit Card
+7256,7,Net Banking
+7257,7,Debit Card
+7258,4,Debit Card
+7259,3,UPI
+7260,4,Credit Card
+7261,3,Cash on Delivery
+7262,5,Debit Card
+7263,5,Net Banking
+7264,4,Debit Card
+7265,9,Cash on Delivery
+7266,1,Cash on Delivery
+7267,2,Net Banking
+7268,8,Credit Card
+7269,8,UPI
+7270,5,Debit Card
+7271,4,Net Banking
+7272,3,Credit Card
+7273,3,Debit Card
+7274,10,Debit Card
+7275,10,Credit Card
+7276,5,Net Banking
+7277,4,Debit Card
+7278,5,UPI
+7279,3,UPI
+7280,6,UPI
+7281,7,UPI
+7282,5,Credit Card
+7283,8,UPI
+7284,5,Debit Card
+7285,3,Net Banking
+7286,1,Debit Card
+7287,9,Credit Card
+7288,10,Cash on Delivery
+7289,2,Credit Card
+7290,3,UPI
+7291,7,Net Banking
+7292,6,Debit Card
+7293,9,Cash on Delivery
+7294,10,Credit Card
+7295,4,Debit Card
+7296,2,Debit Card
+7297,1,Credit Card
+7298,5,Credit Card
+7299,4,UPI
+7300,6,Debit Card
+7301,10,Cash on Delivery
+7302,6,Credit Card
+7303,4,Cash on Delivery
+7304,6,Net Banking
+7305,6,UPI
+7306,10,UPI
+7307,8,Debit Card
+7308,2,UPI
+7309,6,UPI
+7310,1,Debit Card
+7311,8,Debit Card
+7312,6,UPI
+7313,10,Net Banking
+7314,3,UPI
+7315,9,UPI
+7316,3,UPI
+7317,4,Cash on Delivery
+7318,8,Debit Card
+7319,6,UPI
+7320,4,Net Banking
+7321,6,Credit Card
+7322,10,UPI
+7323,3,Debit Card
+7324,5,UPI
+7325,8,Net Banking
+7326,6,UPI
+7327,8,Cash on Delivery
+7328,9,Net Banking
+7329,10,Credit Card
+7330,8,Credit Card
+7331,6,UPI
+7332,2,Credit Card
+7333,7,Cash on Delivery
+7334,10,Debit Card
+7335,5,Debit Card
+7336,8,Credit Card
+7337,4,Cash on Delivery
+7338,5,UPI
+7339,4,Debit Card
+7340,3,Debit Card
+7341,3,UPI
+7342,2,Debit Card
+7343,1,Credit Card
+7344,9,Credit Card
+7345,9,Cash on Delivery
+7346,2,UPI
+7347,10,Debit Card
+7348,2,Net Banking
+7349,2,UPI
+7350,7,UPI
+7351,7,Debit Card
+7352,1,Credit Card
+7353,10,Debit Card
+7354,5,Net Banking
+7355,3,Cash on Delivery
+7356,7,UPI
+7357,3,UPI
+7358,5,UPI
+7359,9,Debit Card
+7360,9,Cash on Delivery
+7361,1,Credit Card
+7362,2,UPI
+7363,5,Credit Card
+7364,6,Credit Card
+7365,8,Cash on Delivery
+7366,9,Net Banking
+7367,6,Cash on Delivery
+7368,10,Net Banking
+7369,2,Debit Card
+7370,9,Net Banking
+7371,7,Net Banking
+7372,3,Net Banking
+7373,6,Debit Card
+7374,7,Debit Card
+7375,2,Credit Card
+7376,4,Debit Card
+7377,4,UPI
+7378,7,UPI
+7379,4,Cash on Delivery
+7380,2,Debit Card
+7381,9,UPI
+7382,1,Net Banking
+7383,10,Cash on Delivery
+7384,2,Net Banking
+7385,1,UPI
+7386,4,Cash on Delivery
+7387,1,Debit Card
+7388,4,Credit Card
+7389,5,Debit Card
+7390,1,UPI
+7391,1,Debit Card
+7392,2,Credit Card
+7393,3,Cash on Delivery
+7394,9,Net Banking
+7395,4,Net Banking
+7396,2,Net Banking
+7397,1,Cash on Delivery
+7398,2,Cash on Delivery
+7399,9,Credit Card
+7400,4,Debit Card
+7401,6,Debit Card
+7402,6,UPI
+7403,10,Net Banking
+7404,4,Cash on Delivery
+7405,8,Credit Card
+7406,4,UPI
+7407,10,Net Banking
+7408,1,Debit Card
+7409,9,Debit Card
+7410,8,UPI
+7411,3,Cash on Delivery
+7412,8,Net Banking
+7413,2,Cash on Delivery
+7414,4,Net Banking
+7415,7,Credit Card
+7416,6,Credit Card
+7417,3,Credit Card
+7418,5,Credit Card
+7419,9,UPI
+7420,4,Net Banking
+7421,7,Cash on Delivery
+7422,7,Cash on Delivery
+7423,1,Credit Card
+7424,2,Cash on Delivery
+7425,2,Cash on Delivery
+7426,3,UPI
+7427,10,Cash on Delivery
+7428,10,Debit Card
+7429,7,Debit Card
+7430,5,Credit Card
+7431,6,Cash on Delivery
+7432,8,UPI
+7433,4,Cash on Delivery
+7434,9,Cash on Delivery
+7435,9,Credit Card
+7436,5,Debit Card
+7437,7,UPI
+7438,1,Net Banking
+7439,6,UPI
+7440,9,Credit Card
+7441,10,Cash on Delivery
+7442,7,Debit Card
+7443,1,Credit Card
+7444,3,UPI
+7445,2,Debit Card
+7446,4,Debit Card
+7447,6,Debit Card
+7448,2,Net Banking
+7449,1,Debit Card
+7450,9,Net Banking
+7451,3,UPI
+7452,4,Net Banking
+7453,6,Debit Card
+7454,8,UPI
+7455,7,Net Banking
+7456,7,Credit Card
+7457,10,Credit Card
+7458,6,Net Banking
+7459,6,Credit Card
+7460,1,Cash on Delivery
+7461,1,UPI
+7462,8,Net Banking
+7463,8,UPI
+7464,6,Credit Card
+7465,3,Credit Card
+7466,8,Cash on Delivery
+7467,1,UPI
+7468,3,Net Banking
+7469,1,Credit Card
+7470,5,Credit Card
+7471,8,Net Banking
+7472,10,UPI
+7473,4,Net Banking
+7474,5,Cash on Delivery
+7475,5,Credit Card
+7476,3,Net Banking
+7477,1,Debit Card
+7478,2,Cash on Delivery
+7479,10,Credit Card
+7480,6,Credit Card
+7481,7,Debit Card
+7482,2,Debit Card
+7483,9,Debit Card
+7484,4,Debit Card
+7485,9,Credit Card
+7486,1,Net Banking
+7487,8,Credit Card
+7488,7,Debit Card
+7489,4,Net Banking
+7490,10,Net Banking
+7491,9,Credit Card
+7492,7,Cash on Delivery
+7493,6,Net Banking
+7494,3,Debit Card
+7495,6,Debit Card
+7496,5,UPI
+7497,5,UPI
+7498,3,Credit Card
+7499,9,UPI
+7500,2,UPI
+7501,1,Net Banking
+7502,4,Debit Card
+7503,3,Credit Card
+7504,4,Cash on Delivery
+7505,9,UPI
+7506,8,Net Banking
+7507,5,Credit Card
+7508,7,UPI
+7509,5,UPI
+7510,5,Credit Card
+7511,9,UPI
+7512,2,Net Banking
+7513,6,Credit Card
+7514,5,Debit Card
+7515,6,Debit Card
+7516,4,UPI
+7517,4,Cash on Delivery
+7518,3,Net Banking
+7519,3,UPI
+7520,5,Debit Card
+7521,2,Debit Card
+7522,1,Credit Card
+7523,6,Credit Card
+7524,5,Credit Card
+7525,9,UPI
+7526,9,Net Banking
+7527,4,Credit Card
+7528,6,UPI
+7529,8,UPI
+7530,6,Credit Card
+7531,10,Net Banking
+7532,1,Credit Card
+7533,3,Credit Card
+7534,1,Cash on Delivery
+7535,7,Credit Card
+7536,5,UPI
+7537,2,Debit Card
+7538,10,Cash on Delivery
+7539,9,UPI
+7540,6,Debit Card
+7541,10,UPI
+7542,6,UPI
+7543,4,Credit Card
+7544,4,UPI
+7545,1,Net Banking
+7546,8,Net Banking
+7547,1,Net Banking
+7548,2,Net Banking
+7549,4,Cash on Delivery
+7550,9,Cash on Delivery
+7551,1,UPI
+7552,7,UPI
+7553,2,Net Banking
+7554,2,Credit Card
+7555,3,UPI
+7556,4,Cash on Delivery
+7557,2,Cash on Delivery
+7558,4,Credit Card
+7559,6,Debit Card
+7560,5,Debit Card
+7561,2,Credit Card
+7562,10,Debit Card
+7563,8,Cash on Delivery
+7564,7,Net Banking
+7565,9,Cash on Delivery
+7566,10,Cash on Delivery
+7567,9,Debit Card
+7568,3,Credit Card
+7569,5,Credit Card
+7570,6,UPI
+7571,5,UPI
+7572,5,UPI
+7573,9,Debit Card
+7574,10,Credit Card
+7575,7,Net Banking
+7576,6,Credit Card
+7577,7,Debit Card
+7578,6,Cash on Delivery
+7579,2,Debit Card
+7580,10,Debit Card
+7581,9,Debit Card
+7582,8,UPI
+7583,7,Debit Card
+7584,2,UPI
+7585,6,Cash on Delivery
+7586,7,Debit Card
+7587,7,Cash on Delivery
+7588,10,UPI
+7589,5,Cash on Delivery
+7590,7,Debit Card
+7591,3,UPI
+7592,6,Debit Card
+7593,4,UPI
+7594,10,UPI
+7595,7,Net Banking
+7596,4,UPI
+7597,10,Net Banking
+7598,4,UPI
+7599,3,Cash on Delivery
+7600,7,Debit Card
+7601,7,Net Banking
+7602,8,Net Banking
+7603,7,Net Banking
+7604,6,Debit Card
+7605,6,Credit Card
+7606,3,Credit Card
+7607,6,Net Banking
+7608,8,UPI
+7609,7,Net Banking
+7610,8,Cash on Delivery
+7611,5,Debit Card
+7612,7,UPI
+7613,5,Net Banking
+7614,2,Cash on Delivery
+7615,3,Debit Card
+7616,6,UPI
+7617,10,Credit Card
+7618,3,Cash on Delivery
+7619,5,Credit Card
+7620,1,Debit Card
+7621,9,Net Banking
+7622,5,Debit Card
+7623,3,Net Banking
+7624,9,UPI
+7625,4,Credit Card
+7626,6,Cash on Delivery
+7627,7,Net Banking
+7628,3,Debit Card
+7629,9,Cash on Delivery
+7630,4,Net Banking
+7631,10,Net Banking
+7632,10,Net Banking
+7633,10,Cash on Delivery
+7634,4,Cash on Delivery
+7635,9,Net Banking
+7636,3,Cash on Delivery
+7637,7,Debit Card
+7638,9,Net Banking
+7639,3,Net Banking
+7640,7,Net Banking
+7641,4,Net Banking
+7642,3,Cash on Delivery
+7643,6,Debit Card
+7644,4,Net Banking
+7645,5,Debit Card
+7646,7,Cash on Delivery
+7647,2,Credit Card
+7648,1,UPI
+7649,7,Debit Card
+7650,2,Debit Card
+7651,6,Net Banking
+7652,9,Cash on Delivery
+7653,10,UPI
+7654,5,Debit Card
+7655,7,Debit Card
+7656,10,Credit Card
+7657,5,Cash on Delivery
+7658,2,Credit Card
+7659,8,Debit Card
+7660,5,Credit Card
+7661,1,Net Banking
+7662,6,Cash on Delivery
+7663,1,UPI
+7664,2,Cash on Delivery
+7665,4,Credit Card
+7666,10,Net Banking
+7667,10,UPI
+7668,9,Cash on Delivery
+7669,5,Net Banking
+7670,6,Net Banking
+7671,5,Cash on Delivery
+7672,2,Debit Card
+7673,5,UPI
+7674,7,Cash on Delivery
+7675,3,UPI
+7676,10,UPI
+7677,2,Cash on Delivery
+7678,8,Cash on Delivery
+7679,8,UPI
+7680,3,Cash on Delivery
+7681,3,Credit Card
+7682,7,Net Banking
+7683,1,UPI
+7684,7,UPI
+7685,2,Cash on Delivery
+7686,10,Cash on Delivery
+7687,1,Cash on Delivery
+7688,5,Net Banking
+7689,9,Credit Card
+7690,6,UPI
+7691,2,Credit Card
+7692,6,Credit Card
+7693,5,Debit Card
+7694,2,UPI
+7695,2,Cash on Delivery
+7696,9,Debit Card
+7697,10,Net Banking
+7698,4,Net Banking
+7699,8,Debit Card
+7700,5,UPI
+7701,5,UPI
+7702,5,Credit Card
+7703,5,Credit Card
+7704,10,Debit Card
+7705,7,Net Banking
+7706,6,UPI
+7707,2,Net Banking
+7708,4,Net Banking
+7709,4,UPI
+7710,4,Cash on Delivery
+7711,9,Cash on Delivery
+7712,6,UPI
+7713,4,UPI
+7714,8,Debit Card
+7715,1,UPI
+7716,2,Net Banking
+7717,5,Debit Card
+7718,6,Net Banking
+7719,8,Net Banking
+7720,2,Credit Card
+7721,5,UPI
+7722,5,UPI
+7723,6,UPI
+7724,9,Credit Card
+7725,2,Net Banking
+7726,3,Debit Card
+7727,7,Cash on Delivery
+7728,6,UPI
+7729,8,Debit Card
+7730,4,UPI
+7731,2,Cash on Delivery
+7732,8,Debit Card
+7733,4,UPI
+7734,2,Cash on Delivery
+7735,10,Cash on Delivery
+7736,7,Net Banking
+7737,1,UPI
+7738,7,Net Banking
+7739,7,Net Banking
+7740,8,Credit Card
+7741,1,Credit Card
+7742,2,Debit Card
+7743,9,Debit Card
+7744,5,Cash on Delivery
+7745,7,Cash on Delivery
+7746,2,Debit Card
+7747,1,Credit Card
+7748,10,Credit Card
+7749,7,UPI
+7750,1,Cash on Delivery
+7751,10,Cash on Delivery
+7752,2,Cash on Delivery
+7753,3,Net Banking
+7754,6,Debit Card
+7755,10,Net Banking
+7756,2,UPI
+7757,9,Cash on Delivery
+7758,4,UPI
+7759,6,Credit Card
+7760,7,Credit Card
+7761,10,Credit Card
+7762,5,UPI
+7763,9,Cash on Delivery
+7764,10,Credit Card
+7765,8,UPI
+7766,7,Credit Card
+7767,7,Credit Card
+7768,1,UPI
+7769,6,Debit Card
+7770,3,Cash on Delivery
+7771,1,UPI
+7772,10,Debit Card
+7773,7,Debit Card
+7774,2,Credit Card
+7775,5,Net Banking
+7776,10,Cash on Delivery
+7777,7,Credit Card
+7778,9,UPI
+7779,7,Debit Card
+7780,9,Net Banking
+7781,6,UPI
+7782,3,Cash on Delivery
+7783,2,UPI
+7784,1,UPI
+7785,1,Net Banking
+7786,9,Credit Card
+7787,9,Credit Card
+7788,5,Debit Card
+7789,1,UPI
+7790,5,Cash on Delivery
+7791,1,Debit Card
+7792,10,Debit Card
+7793,5,Credit Card
+7794,7,Debit Card
+7795,10,UPI
+7796,4,UPI
+7797,3,Credit Card
+7798,5,Cash on Delivery
+7799,1,Net Banking
+7800,4,Net Banking
+7801,2,UPI
+7802,9,Net Banking
+7803,1,Net Banking
+7804,9,Cash on Delivery
+7805,3,Net Banking
+7806,2,UPI
+7807,7,UPI
+7808,3,UPI
+7809,9,Debit Card
+7810,10,UPI
+7811,9,Cash on Delivery
+7812,5,UPI
+7813,5,Net Banking
+7814,9,Net Banking
+7815,4,Credit Card
+7816,1,UPI
+7817,2,Net Banking
+7818,9,Debit Card
+7819,9,Net Banking
+7820,10,UPI
+7821,2,Debit Card
+7822,10,Debit Card
+7823,4,Debit Card
+7824,10,Credit Card
+7825,7,Cash on Delivery
+7826,1,Credit Card
+7827,2,Net Banking
+7828,5,UPI
+7829,5,Credit Card
+7830,1,Net Banking
+7831,10,Debit Card
+7832,2,Net Banking
+7833,6,Debit Card
+7834,4,Cash on Delivery
+7835,7,UPI
+7836,3,Debit Card
+7837,1,Cash on Delivery
+7838,9,Credit Card
+7839,8,Debit Card
+7840,6,Debit Card
+7841,4,Credit Card
+7842,9,UPI
+7843,3,UPI
+7844,2,Credit Card
+7845,5,Cash on Delivery
+7846,9,Credit Card
+7847,4,Net Banking
+7848,6,Debit Card
+7849,2,Credit Card
+7850,10,Cash on Delivery
+7851,6,Cash on Delivery
+7852,6,Credit Card
+7853,2,Cash on Delivery
+7854,7,Cash on Delivery
+7855,9,UPI
+7856,4,Credit Card
+7857,7,Credit Card
+7858,9,Net Banking
+7859,7,Debit Card
+7860,10,Debit Card
+7861,5,UPI
+7862,8,Debit Card
+7863,5,Net Banking
+7864,1,UPI
+7865,6,Credit Card
+7866,6,Credit Card
+7867,6,Debit Card
+7868,7,Credit Card
+7869,4,Net Banking
+7870,1,Net Banking
+7871,5,Credit Card
+7872,8,UPI
+7873,8,Credit Card
+7874,2,UPI
+7875,6,Credit Card
+7876,4,Credit Card
+7877,5,Credit Card
+7878,1,Debit Card
+7879,7,Credit Card
+7880,10,Cash on Delivery
+7881,7,Cash on Delivery
+7882,5,Debit Card
+7883,2,Debit Card
+7884,8,UPI
+7885,9,Credit Card
+7886,9,Credit Card
+7887,5,Credit Card
+7888,4,UPI
+7889,6,Cash on Delivery
+7890,7,Net Banking
+7891,1,Debit Card
+7892,10,Debit Card
+7893,9,Net Banking
+7894,9,Net Banking
+7895,6,Net Banking
+7896,3,Net Banking
+7897,1,Credit Card
+7898,4,Cash on Delivery
+7899,3,Debit Card
+7900,3,Credit Card
+7901,10,Net Banking
+7902,8,Cash on Delivery
+7903,6,Cash on Delivery
+7904,7,Cash on Delivery
+7905,6,UPI
+7906,3,Credit Card
+7907,1,Cash on Delivery
+7908,4,UPI
+7909,10,Credit Card
+7910,5,Credit Card
+7911,5,Debit Card
+7912,6,Credit Card
+7913,10,UPI
+7914,1,Cash on Delivery
+7915,9,Credit Card
+7916,8,Debit Card
+7917,6,Credit Card
+7918,9,Debit Card
+7919,1,Cash on Delivery
+7920,4,Cash on Delivery
+7921,4,Debit Card
+7922,4,Debit Card
+7923,2,Cash on Delivery
+7924,5,Net Banking
+7925,10,Debit Card
+7926,1,Debit Card
+7927,6,Debit Card
+7928,8,Net Banking
+7929,2,Net Banking
+7930,7,UPI
+7931,1,Cash on Delivery
+7932,4,UPI
+7933,3,Cash on Delivery
+7934,10,Net Banking
+7935,2,Credit Card
+7936,10,Debit Card
+7937,2,UPI
+7938,10,Debit Card
+7939,3,Net Banking
+7940,10,Credit Card
+7941,4,Debit Card
+7942,6,UPI
+7943,1,Debit Card
+7944,2,Cash on Delivery
+7945,3,Net Banking
+7946,7,Credit Card
+7947,10,Debit Card
+7948,9,Credit Card
+7949,9,Debit Card
+7950,8,Net Banking
+7951,1,Net Banking
+7952,10,UPI
+7953,7,Net Banking
+7954,9,Net Banking
+7955,6,Debit Card
+7956,6,Credit Card
+7957,5,Debit Card
+7958,10,Cash on Delivery
+7959,4,UPI
+7960,1,Debit Card
+7961,7,Net Banking
+7962,2,Cash on Delivery
+7963,3,Credit Card
+7964,10,UPI
+7965,3,Debit Card
+7966,3,Debit Card
+7967,3,Cash on Delivery
+7968,3,Credit Card
+7969,4,Net Banking
+7970,6,Net Banking
+7971,7,Cash on Delivery
+7972,8,Debit Card
+7973,9,Cash on Delivery
+7974,6,Net Banking
+7975,3,Debit Card
+7976,7,Cash on Delivery
+7977,4,Net Banking
+7978,8,Cash on Delivery
+7979,9,Credit Card
+7980,2,UPI
+7981,1,UPI
+7982,1,Credit Card
+7983,2,Debit Card
+7984,4,UPI
+7985,1,Debit Card
+7986,9,Debit Card
+7987,10,Net Banking
+7988,1,Cash on Delivery
+7989,4,Cash on Delivery
+7990,2,Cash on Delivery
+7991,9,Credit Card
+7992,4,Cash on Delivery
+7993,10,Debit Card
+7994,9,UPI
+7995,7,Credit Card
+7996,9,Cash on Delivery
+7997,2,Cash on Delivery
+7998,3,UPI
+7999,2,Credit Card
+8000,5,Cash on Delivery
+8001,4,UPI
+8002,5,Cash on Delivery
+8003,4,Debit Card
+8004,3,Cash on Delivery
+8005,2,Cash on Delivery
+8006,8,Cash on Delivery
+8007,2,Cash on Delivery
+8008,2,Credit Card
+8009,10,Credit Card
+8010,9,Cash on Delivery
+8011,7,Net Banking
+8012,7,Net Banking
+8013,4,UPI
+8014,5,Cash on Delivery
+8015,10,Credit Card
+8016,5,Cash on Delivery
+8017,2,UPI
+8018,9,Net Banking
+8019,3,UPI
+8020,7,Credit Card
+8021,5,Cash on Delivery
+8022,9,Debit Card
+8023,9,Debit Card
+8024,2,Net Banking
+8025,1,Debit Card
+8026,3,Credit Card
+8027,10,Credit Card
+8028,4,Debit Card
+8029,8,Credit Card
+8030,6,Debit Card
+8031,10,UPI
+8032,10,Net Banking
+8033,5,Cash on Delivery
+8034,7,UPI
+8035,10,UPI
+8036,6,Credit Card
+8037,5,Net Banking
+8038,8,Debit Card
+8039,3,Net Banking
+8040,1,Cash on Delivery
+8041,3,Debit Card
+8042,2,Net Banking
+8043,2,Cash on Delivery
+8044,5,Credit Card
+8045,4,Credit Card
+8046,8,Debit Card
+8047,4,UPI
+8048,7,UPI
+8049,2,Cash on Delivery
+8050,1,Debit Card
+8051,8,Net Banking
+8052,1,UPI
+8053,8,Credit Card
+8054,1,Cash on Delivery
+8055,5,Net Banking
+8056,10,Credit Card
+8057,2,Credit Card
+8058,2,UPI
+8059,1,Cash on Delivery
+8060,4,UPI
+8061,7,Cash on Delivery
+8062,7,Credit Card
+8063,9,Debit Card
+8064,1,Credit Card
+8065,7,UPI
+8066,8,Cash on Delivery
+8067,4,Debit Card
+8068,2,Net Banking
+8069,7,Debit Card
+8070,5,Credit Card
+8071,5,Net Banking
+8072,9,Net Banking
+8073,5,Debit Card
+8074,1,UPI
+8075,7,Debit Card
+8076,9,UPI
+8077,9,Debit Card
+8078,3,Debit Card
+8079,3,Net Banking
+8080,4,UPI
+8081,3,Credit Card
+8082,10,Net Banking
+8083,6,Cash on Delivery
+8084,6,UPI
+8085,3,Net Banking
+8086,4,Debit Card
+8087,6,Credit Card
+8088,8,Net Banking
+8089,7,Credit Card
+8090,1,Net Banking
+8091,5,UPI
+8092,4,Cash on Delivery
+8093,10,Net Banking
+8094,8,Net Banking
+8095,3,Debit Card
+8096,9,Net Banking
+8097,4,UPI
+8098,10,Credit Card
+8099,4,Net Banking
+8100,5,Cash on Delivery
+8101,9,Debit Card
+8102,4,Cash on Delivery
+8103,8,UPI
+8104,4,Net Banking
+8105,8,Cash on Delivery
+8106,4,UPI
+8107,8,Credit Card
+8108,8,UPI
+8109,7,Credit Card
+8110,4,Debit Card
+8111,9,Cash on Delivery
+8112,1,Credit Card
+8113,8,Cash on Delivery
+8114,1,Net Banking
+8115,2,Credit Card
+8116,9,Credit Card
+8117,5,Cash on Delivery
+8118,5,UPI
+8119,9,Net Banking
+8120,4,Net Banking
+8121,3,Net Banking
+8122,4,Credit Card
+8123,7,Net Banking
+8124,4,Net Banking
+8125,9,Credit Card
+8126,5,Net Banking
+8127,4,Cash on Delivery
+8128,5,UPI
+8129,8,Debit Card
+8130,5,Cash on Delivery
+8131,7,Net Banking
+8132,10,Net Banking
+8133,7,UPI
+8134,2,Credit Card
+8135,5,UPI
+8136,1,Net Banking
+8137,9,UPI
+8138,9,Cash on Delivery
+8139,5,Cash on Delivery
+8140,6,Credit Card
+8141,7,Cash on Delivery
+8142,7,UPI
+8143,8,Cash on Delivery
+8144,10,UPI
+8145,7,Net Banking
+8146,10,UPI
+8147,3,Net Banking
+8148,3,UPI
+8149,9,UPI
+8150,5,Debit Card
+8151,7,Credit Card
+8152,2,Net Banking
+8153,4,Cash on Delivery
+8154,6,Cash on Delivery
+8155,10,Cash on Delivery
+8156,9,Debit Card
+8157,6,Net Banking
+8158,8,Net Banking
+8159,1,Debit Card
+8160,5,Net Banking
+8161,7,UPI
+8162,1,Net Banking
+8163,10,Credit Card
+8164,9,UPI
+8165,7,Credit Card
+8166,8,Net Banking
+8167,7,UPI
+8168,7,Cash on Delivery
+8169,9,Cash on Delivery
+8170,3,Net Banking
+8171,1,UPI
+8172,2,UPI
+8173,3,Net Banking
+8174,9,Net Banking
+8175,1,UPI
+8176,9,Debit Card
+8177,2,Cash on Delivery
+8178,9,Cash on Delivery
+8179,10,Credit Card
+8180,9,Debit Card
+8181,6,Debit Card
+8182,9,Net Banking
+8183,1,Cash on Delivery
+8184,4,Net Banking
+8185,2,Debit Card
+8186,1,UPI
+8187,10,Credit Card
+8188,10,Net Banking
+8189,9,Debit Card
+8190,6,Cash on Delivery
+8191,5,Net Banking
+8192,10,Cash on Delivery
+8193,10,Credit Card
+8194,2,Credit Card
+8195,4,Net Banking
+8196,7,Debit Card
+8197,8,Debit Card
+8198,1,Credit Card
+8199,1,Net Banking
+8200,9,Net Banking
+8201,6,Cash on Delivery
+8202,6,UPI
+8203,1,Debit Card
+8204,5,Credit Card
+8205,7,Net Banking
+8206,2,Net Banking
+8207,2,Credit Card
+8208,5,Cash on Delivery
+8209,5,Net Banking
+8210,8,Credit Card
+8211,9,Debit Card
+8212,9,Net Banking
+8213,3,Net Banking
+8214,3,UPI
+8215,6,UPI
+8216,3,Debit Card
+8217,2,UPI
+8218,7,Cash on Delivery
+8219,9,Net Banking
+8220,2,Debit Card
+8221,4,Credit Card
+8222,3,Credit Card
+8223,3,Net Banking
+8224,4,Cash on Delivery
+8225,10,Net Banking
+8226,8,Cash on Delivery
+8227,2,Debit Card
+8228,1,Net Banking
+8229,1,Cash on Delivery
+8230,10,Credit Card
+8231,7,Cash on Delivery
+8232,5,Net Banking
+8233,10,Debit Card
+8234,10,UPI
+8235,2,Credit Card
+8236,3,Credit Card
+8237,6,Credit Card
+8238,9,UPI
+8239,6,Debit Card
+8240,5,UPI
+8241,4,Net Banking
+8242,10,Debit Card
+8243,3,Debit Card
+8244,3,Debit Card
+8245,2,Net Banking
+8246,4,Cash on Delivery
+8247,5,Net Banking
+8248,6,Net Banking
+8249,8,Net Banking
+8250,4,Cash on Delivery
+8251,10,Cash on Delivery
+8252,1,Net Banking
+8253,7,Credit Card
+8254,6,Credit Card
+8255,7,Credit Card
+8256,7,Cash on Delivery
+8257,5,UPI
+8258,4,UPI
+8259,6,Credit Card
+8260,6,Cash on Delivery
+8261,4,UPI
+8262,10,UPI
+8263,8,Net Banking
+8264,1,Cash on Delivery
+8265,5,Debit Card
+8266,4,Cash on Delivery
+8267,8,Net Banking
+8268,2,Net Banking
+8269,5,Debit Card
+8270,7,UPI
+8271,10,UPI
+8272,7,Debit Card
+8273,3,Debit Card
+8274,6,UPI
+8275,5,Cash on Delivery
+8276,1,UPI
+8277,9,Credit Card
+8278,9,Debit Card
+8279,1,Net Banking
+8280,2,UPI
+8281,9,Cash on Delivery
+8282,9,Cash on Delivery
+8283,5,Credit Card
+8284,8,UPI
+8285,9,UPI
+8286,3,Debit Card
+8287,10,Debit Card
+8288,2,UPI
+8289,3,Credit Card
+8290,10,Net Banking
+8291,5,Net Banking
+8292,8,Net Banking
+8293,10,UPI
+8294,5,UPI
+8295,3,Credit Card
+8296,2,Credit Card
+8297,5,Debit Card
+8298,10,Cash on Delivery
+8299,5,Credit Card
+8300,6,Net Banking
+8301,2,Debit Card
+8302,3,Cash on Delivery
+8303,9,Cash on Delivery
+8304,8,Debit Card
+8305,5,Cash on Delivery
+8306,9,UPI
+8307,9,Credit Card
+8308,6,Net Banking
+8309,7,Cash on Delivery
+8310,7,Credit Card
+8311,1,UPI
+8312,8,Credit Card
+8313,4,Cash on Delivery
+8314,1,Credit Card
+8315,8,Cash on Delivery
+8316,6,Credit Card
+8317,4,Cash on Delivery
+8318,3,Debit Card
+8319,10,Credit Card
+8320,10,Net Banking
+8321,3,Credit Card
+8322,6,Net Banking
+8323,1,UPI
+8324,4,Credit Card
+8325,4,Credit Card
+8326,6,Credit Card
+8327,5,Debit Card
+8328,5,Credit Card
+8329,1,Cash on Delivery
+8330,5,Credit Card
+8331,6,UPI
+8332,10,Credit Card
+8333,7,Cash on Delivery
+8334,4,Credit Card
+8335,10,Debit Card
+8336,8,Debit Card
+8337,1,Cash on Delivery
+8338,2,Credit Card
+8339,2,Net Banking
+8340,8,Cash on Delivery
+8341,4,Debit Card
+8342,4,Net Banking
+8343,5,Debit Card
+8344,3,Debit Card
+8345,10,Debit Card
+8346,7,Net Banking
+8347,8,Cash on Delivery
+8348,10,Debit Card
+8349,5,UPI
+8350,8,Net Banking
+8351,3,Net Banking
+8352,10,Net Banking
+8353,5,Debit Card
+8354,3,Net Banking
+8355,9,Credit Card
+8356,1,Credit Card
+8357,2,Credit Card
+8358,7,Cash on Delivery
+8359,2,Debit Card
+8360,2,Debit Card
+8361,8,Credit Card
+8362,9,Credit Card
+8363,8,Debit Card
+8364,2,Net Banking
+8365,7,Cash on Delivery
+8366,9,Net Banking
+8367,3,Net Banking
+8368,5,Debit Card
+8369,3,UPI
+8370,7,Debit Card
+8371,10,Cash on Delivery
+8372,4,Net Banking
+8373,8,UPI
+8374,8,Debit Card
+8375,9,UPI
+8376,3,Net Banking
+8377,7,UPI
+8378,3,Net Banking
+8379,3,Cash on Delivery
+8380,10,Credit Card
+8381,1,Debit Card
+8382,7,Debit Card
+8383,7,Debit Card
+8384,3,UPI
+8385,5,UPI
+8386,8,Debit Card
+8387,8,Credit Card
+8388,6,Debit Card
+8389,4,Debit Card
+8390,3,Debit Card
+8391,6,Net Banking
+8392,3,Credit Card
+8393,5,Debit Card
+8394,9,UPI
+8395,6,Cash on Delivery
+8396,8,Debit Card
+8397,6,Net Banking
+8398,2,Net Banking
+8399,3,Cash on Delivery
+8400,2,Credit Card
+8401,4,Cash on Delivery
+8402,9,Net Banking
+8403,3,Debit Card
+8404,7,Cash on Delivery
+8405,5,Net Banking
+8406,1,Cash on Delivery
+8407,9,Credit Card
+8408,10,Cash on Delivery
+8409,3,Debit Card
+8410,3,Credit Card
+8411,5,Cash on Delivery
+8412,10,UPI
+8413,5,Credit Card
+8414,2,Debit Card
+8415,10,Credit Card
+8416,3,Net Banking
+8417,5,Net Banking
+8418,1,Net Banking
+8419,5,UPI
+8420,8,UPI
+8421,7,Cash on Delivery
+8422,3,Cash on Delivery
+8423,4,Cash on Delivery
+8424,9,Cash on Delivery
+8425,10,Debit Card
+8426,8,UPI
+8427,2,Debit Card
+8428,2,UPI
+8429,4,Cash on Delivery
+8430,3,Debit Card
+8431,4,Debit Card
+8432,3,Cash on Delivery
+8433,3,UPI
+8434,5,Credit Card
+8435,3,Credit Card
+8436,3,Credit Card
+8437,6,Net Banking
+8438,2,UPI
+8439,3,Cash on Delivery
+8440,7,Net Banking
+8441,8,UPI
+8442,3,Net Banking
+8443,6,Credit Card
+8444,1,UPI
+8445,1,Net Banking
+8446,10,Net Banking
+8447,5,UPI
+8448,7,Cash on Delivery
+8449,5,Cash on Delivery
+8450,9,Net Banking
+8451,7,Cash on Delivery
+8452,1,Credit Card
+8453,3,Cash on Delivery
+8454,8,Cash on Delivery
+8455,2,Net Banking
+8456,1,Debit Card
+8457,2,Credit Card
+8458,7,Debit Card
+8459,4,Debit Card
+8460,9,Cash on Delivery
+8461,1,Cash on Delivery
+8462,7,Net Banking
+8463,6,Cash on Delivery
+8464,3,UPI
+8465,8,Debit Card
+8466,10,UPI
+8467,2,Credit Card
+8468,9,Net Banking
+8469,4,UPI
+8470,1,Net Banking
+8471,2,UPI
+8472,9,Credit Card
+8473,8,UPI
+8474,2,Cash on Delivery
+8475,5,Net Banking
+8476,1,Net Banking
+8477,5,UPI
+8478,9,Credit Card
+8479,5,Cash on Delivery
+8480,2,UPI
+8481,6,Credit Card
+8482,7,UPI
+8483,9,Net Banking
+8484,1,Cash on Delivery
+8485,5,Cash on Delivery
+8486,9,Net Banking
+8487,2,Net Banking
+8488,8,Net Banking
+8489,7,UPI
+8490,3,Debit Card
+8491,7,UPI
+8492,10,Cash on Delivery
+8493,6,UPI
+8494,5,UPI
+8495,5,Credit Card
+8496,4,Debit Card
+8497,3,Debit Card
+8498,4,Debit Card
+8499,9,Debit Card
+8500,10,Cash on Delivery
+8501,3,UPI
+8502,2,Cash on Delivery
+8503,1,Credit Card
+8504,8,Debit Card
+8505,10,Debit Card
+8506,2,Debit Card
+8507,8,Credit Card
+8508,2,UPI
+8509,3,UPI
+8510,4,Debit Card
+8511,3,Net Banking
+8512,10,Credit Card
+8513,8,Cash on Delivery
+8514,6,Cash on Delivery
+8515,1,Net Banking
+8516,9,Cash on Delivery
+8517,10,Net Banking
+8518,5,Cash on Delivery
+8519,8,UPI
+8520,2,Debit Card
+8521,4,Cash on Delivery
+8522,4,Cash on Delivery
+8523,5,Net Banking
+8524,2,Credit Card
+8525,6,Cash on Delivery
+8526,10,UPI
+8527,8,UPI
+8528,6,Debit Card
+8529,3,Debit Card
+8530,7,Cash on Delivery
+8531,6,Debit Card
+8532,6,UPI
+8533,10,UPI
+8534,1,UPI
+8535,7,Credit Card
+8536,6,Cash on Delivery
+8537,8,Net Banking
+8538,5,Net Banking
+8539,6,Cash on Delivery
+8540,1,Credit Card
+8541,5,UPI
+8542,2,Debit Card
+8543,10,Credit Card
+8544,10,Net Banking
+8545,8,Net Banking
+8546,10,UPI
+8547,9,Cash on Delivery
+8548,7,Cash on Delivery
+8549,3,UPI
+8550,8,Credit Card
+8551,7,Credit Card
+8552,7,Cash on Delivery
+8553,2,Debit Card
+8554,8,Net Banking
+8555,4,Cash on Delivery
+8556,4,Cash on Delivery
+8557,5,Cash on Delivery
+8558,5,Cash on Delivery
+8559,3,Debit Card
+8560,1,UPI
+8561,8,Debit Card
+8562,10,UPI
+8563,2,Debit Card
+8564,10,UPI
+8565,5,Credit Card
+8566,3,Credit Card
+8567,3,Debit Card
+8568,1,Debit Card
+8569,3,Credit Card
+8570,5,Cash on Delivery
+8571,8,UPI
+8572,5,Debit Card
+8573,5,Net Banking
+8574,4,Cash on Delivery
+8575,8,UPI
+8576,5,Debit Card
+8577,1,Debit Card
+8578,7,Cash on Delivery
+8579,7,Cash on Delivery
+8580,3,Cash on Delivery
+8581,8,Credit Card
+8582,8,Cash on Delivery
+8583,5,Net Banking
+8584,4,Net Banking
+8585,10,Cash on Delivery
+8586,7,Cash on Delivery
+8587,7,Credit Card
+8588,2,Debit Card
+8589,10,Cash on Delivery
+8590,9,UPI
+8591,1,Debit Card
+8592,3,UPI
+8593,7,Cash on Delivery
+8594,8,Cash on Delivery
+8595,1,Net Banking
+8596,4,Cash on Delivery
+8597,3,Credit Card
+8598,3,UPI
+8599,9,Credit Card
+8600,10,Credit Card
+8601,4,Debit Card
+8602,3,Net Banking
+8603,1,Cash on Delivery
+8604,9,UPI
+8605,3,UPI
+8606,3,UPI
+8607,7,Debit Card
+8608,7,Debit Card
+8609,10,UPI
+8610,2,Net Banking
+8611,1,Credit Card
+8612,8,Credit Card
+8613,2,Net Banking
+8614,8,Cash on Delivery
+8615,9,Credit Card
+8616,9,Net Banking
+8617,5,Net Banking
+8618,1,Debit Card
+8619,5,Credit Card
+8620,1,UPI
+8621,3,UPI
+8622,10,Net Banking
+8623,9,Net Banking
+8624,9,Credit Card
+8625,7,Cash on Delivery
+8626,10,UPI
+8627,7,Net Banking
+8628,10,Debit Card
+8629,10,Credit Card
+8630,4,Net Banking
+8631,6,Debit Card
+8632,10,Credit Card
+8633,9,Net Banking
+8634,7,Credit Card
+8635,4,Debit Card
+8636,1,Net Banking
+8637,3,Net Banking
+8638,7,Debit Card
+8639,10,Cash on Delivery
+8640,8,Credit Card
+8641,6,Cash on Delivery
+8642,7,Cash on Delivery
+8643,7,Cash on Delivery
+8644,8,Credit Card
+8645,1,Net Banking
+8646,1,Net Banking
+8647,1,Net Banking
+8648,3,Cash on Delivery
+8649,2,Debit Card
+8650,4,UPI
+8651,3,Debit Card
+8652,4,Net Banking
+8653,5,Net Banking
+8654,10,Cash on Delivery
+8655,7,Debit Card
+8656,3,UPI
+8657,3,Cash on Delivery
+8658,2,Net Banking
+8659,5,UPI
+8660,6,Debit Card
+8661,2,Credit Card
+8662,9,UPI
+8663,3,Cash on Delivery
+8664,2,Cash on Delivery
+8665,1,UPI
+8666,8,Debit Card
+8667,8,UPI
+8668,10,UPI
+8669,3,UPI
+8670,8,Cash on Delivery
+8671,7,Credit Card
+8672,3,UPI
+8673,2,Cash on Delivery
+8674,4,Debit Card
+8675,6,Credit Card
+8676,7,Cash on Delivery
+8677,6,UPI
+8678,9,Cash on Delivery
+8679,9,UPI
+8680,5,Debit Card
+8681,9,UPI
+8682,9,Net Banking
+8683,2,Net Banking
+8684,5,Cash on Delivery
+8685,6,UPI
+8686,7,Debit Card
+8687,1,Cash on Delivery
+8688,3,Cash on Delivery
+8689,4,Debit Card
+8690,1,Cash on Delivery
+8691,5,Cash on Delivery
+8692,4,Credit Card
+8693,5,Debit Card
+8694,2,Debit Card
+8695,7,Cash on Delivery
+8696,10,UPI
+8697,7,UPI
+8698,1,Net Banking
+8699,5,UPI
+8700,9,UPI
+8701,6,Debit Card
+8702,1,Credit Card
+8703,2,Credit Card
+8704,7,UPI
+8705,1,Cash on Delivery
+8706,6,Cash on Delivery
+8707,2,Net Banking
+8708,9,Credit Card
+8709,5,Debit Card
+8710,1,Debit Card
+8711,5,UPI
+8712,8,Cash on Delivery
+8713,9,Cash on Delivery
+8714,9,Debit Card
+8715,1,Debit Card
+8716,6,UPI
+8717,9,Net Banking
+8718,7,Debit Card
+8719,6,Net Banking
+8720,2,Net Banking
+8721,3,UPI
+8722,6,Net Banking
+8723,4,Credit Card
+8724,1,Credit Card
+8725,10,Credit Card
+8726,8,UPI
+8727,3,UPI
+8728,2,Credit Card
+8729,9,Debit Card
+8730,1,Debit Card
+8731,6,Debit Card
+8732,3,Debit Card
+8733,8,Net Banking
+8734,6,Cash on Delivery
+8735,6,Credit Card
+8736,4,Net Banking
+8737,1,UPI
+8738,8,Debit Card
+8739,4,Credit Card
+8740,4,Debit Card
+8741,1,Net Banking
+8742,9,Net Banking
+8743,6,Cash on Delivery
+8744,5,Debit Card
+8745,7,Cash on Delivery
+8746,7,Debit Card
+8747,8,Cash on Delivery
+8748,2,Cash on Delivery
+8749,10,Net Banking
+8750,4,UPI
+8751,5,Net Banking
+8752,2,UPI
+8753,8,Credit Card
+8754,9,Debit Card
+8755,8,Credit Card
+8756,4,Debit Card
+8757,2,Debit Card
+8758,2,Cash on Delivery
+8759,9,UPI
+8760,10,Net Banking
+8761,9,Debit Card
+8762,9,Debit Card
+8763,6,Cash on Delivery
+8764,6,Debit Card
+8765,7,Credit Card
+8766,5,Net Banking
+8767,7,UPI
+8768,6,Debit Card
+8769,9,UPI
+8770,3,Net Banking
+8771,4,Cash on Delivery
+8772,9,Debit Card
+8773,10,Debit Card
+8774,5,Debit Card
+8775,8,UPI
+8776,4,Debit Card
+8777,8,Net Banking
+8778,7,Net Banking
+8779,7,Debit Card
+8780,1,Debit Card
+8781,10,Net Banking
+8782,2,UPI
+8783,3,UPI
+8784,2,Credit Card
+8785,9,Credit Card
+8786,5,UPI
+8787,8,Cash on Delivery
+8788,5,Credit Card
+8789,8,Debit Card
+8790,5,Debit Card
+8791,9,Credit Card
+8792,8,Net Banking
+8793,1,Credit Card
+8794,2,Net Banking
+8795,1,Credit Card
+8796,5,Credit Card
+8797,7,Cash on Delivery
+8798,4,Net Banking
+8799,10,UPI
+8800,2,UPI
+8801,5,UPI
+8802,7,Credit Card
+8803,3,Debit Card
+8804,6,Cash on Delivery
+8805,8,Debit Card
+8806,1,Net Banking
+8807,10,UPI
+8808,4,Net Banking
+8809,9,Net Banking
+8810,10,Debit Card
+8811,6,Net Banking
+8812,1,Net Banking
+8813,9,Cash on Delivery
+8814,4,Credit Card
+8815,4,UPI
+8816,10,Cash on Delivery
+8817,7,Net Banking
+8818,8,Cash on Delivery
+8819,5,UPI
+8820,5,UPI
+8821,6,Net Banking
+8822,5,Credit Card
+8823,2,Cash on Delivery
+8824,4,Debit Card
+8825,1,UPI
+8826,5,Credit Card
+8827,2,UPI
+8828,10,Credit Card
+8829,1,Cash on Delivery
+8830,7,Net Banking
+8831,9,UPI
+8832,6,Net Banking
+8833,9,Debit Card
+8834,2,UPI
+8835,9,Net Banking
+8836,4,Credit Card
+8837,2,Debit Card
+8838,8,Debit Card
+8839,6,Net Banking
+8840,3,UPI
+8841,2,Net Banking
+8842,10,UPI
+8843,5,Cash on Delivery
+8844,5,UPI
+8845,2,Cash on Delivery
+8846,10,UPI
+8847,3,Cash on Delivery
+8848,5,Cash on Delivery
+8849,1,Credit Card
+8850,6,Debit Card
+8851,1,Net Banking
+8852,3,Net Banking
+8853,4,UPI
+8854,2,Debit Card
+8855,10,Credit Card
+8856,9,Net Banking
+8857,8,Credit Card
+8858,5,Net Banking
+8859,4,Cash on Delivery
+8860,2,Cash on Delivery
+8861,9,Net Banking
+8862,2,UPI
+8863,10,UPI
+8864,6,Net Banking
+8865,6,UPI
+8866,2,UPI
+8867,4,UPI
+8868,7,Net Banking
+8869,10,Net Banking
+8870,5,Cash on Delivery
+8871,5,UPI
+8872,9,Debit Card
+8873,4,Debit Card
+8874,9,Net Banking
+8875,5,UPI
+8876,8,Cash on Delivery
+8877,9,Net Banking
+8878,4,Net Banking
+8879,8,Credit Card
+8880,10,Credit Card
+8881,7,UPI
+8882,1,UPI
+8883,9,Cash on Delivery
+8884,1,Cash on Delivery
+8885,6,Cash on Delivery
+8886,8,Cash on Delivery
+8887,3,UPI
+8888,10,Cash on Delivery
+8889,8,Net Banking
+8890,10,Debit Card
+8891,6,Net Banking
+8892,6,UPI
+8893,6,UPI
+8894,9,Net Banking
+8895,4,Credit Card
+8896,6,Debit Card
+8897,8,Credit Card
+8898,5,UPI
+8899,5,Debit Card
+8900,3,Credit Card
+8901,10,Net Banking
+8902,3,UPI
+8903,5,Cash on Delivery
+8904,7,Net Banking
+8905,3,Cash on Delivery
+8906,7,Net Banking
+8907,9,Net Banking
+8908,1,Credit Card
+8909,10,Debit Card
+8910,1,Credit Card
+8911,2,Credit Card
+8912,10,UPI
+8913,6,Cash on Delivery
+8914,2,Credit Card
+8915,5,Cash on Delivery
+8916,8,UPI
+8917,1,Credit Card
+8918,5,Cash on Delivery
+8919,9,Debit Card
+8920,9,UPI
+8921,4,Cash on Delivery
+8922,2,Credit Card
+8923,10,Cash on Delivery
+8924,4,Net Banking
+8925,8,Debit Card
+8926,10,Net Banking
+8927,9,Credit Card
+8928,1,Debit Card
+8929,2,Debit Card
+8930,4,Net Banking
+8931,6,Cash on Delivery
+8932,3,Cash on Delivery
+8933,9,UPI
+8934,1,UPI
+8935,6,Debit Card
+8936,5,UPI
+8937,8,UPI
+8938,6,Net Banking
+8939,6,Cash on Delivery
+8940,3,Net Banking
+8941,4,Debit Card
+8942,2,Credit Card
+8943,2,Credit Card
+8944,6,Net Banking
+8945,6,Debit Card
+8946,4,Net Banking
+8947,6,UPI
+8948,2,Debit Card
+8949,9,Net Banking
+8950,7,Cash on Delivery
+8951,5,Debit Card
+8952,1,Credit Card
+8953,3,Credit Card
+8954,7,UPI
+8955,6,UPI
+8956,7,Cash on Delivery
+8957,10,Debit Card
+8958,6,Cash on Delivery
+8959,5,Debit Card
+8960,10,Net Banking
+8961,9,Net Banking
+8962,3,Credit Card
+8963,6,Net Banking
+8964,8,Credit Card
+8965,7,Cash on Delivery
+8966,4,Debit Card
+8967,3,Net Banking
+8968,4,Cash on Delivery
+8969,3,UPI
+8970,3,Net Banking
+8971,5,Credit Card
+8972,1,Debit Card
+8973,6,Debit Card
+8974,8,UPI
+8975,3,UPI
+8976,8,Net Banking
+8977,4,Debit Card
+8978,5,Cash on Delivery
+8979,5,Credit Card
+8980,4,Debit Card
+8981,1,Debit Card
+8982,9,Net Banking
+8983,5,Net Banking
+8984,6,Cash on Delivery
+8985,1,Net Banking
+8986,3,Credit Card
+8987,9,Debit Card
+8988,5,Debit Card
+8989,4,Debit Card
+8990,9,UPI
+8991,3,Credit Card
+8992,1,Credit Card
+8993,9,Cash on Delivery
+8994,3,Debit Card
+8995,2,UPI
+8996,5,Credit Card
+8997,8,Cash on Delivery
+8998,3,Cash on Delivery
+8999,4,Credit Card
+9000,1,Credit Card
+9001,4,Cash on Delivery
+9002,4,Net Banking
+9003,4,Net Banking
+9004,4,Credit Card
+9005,10,Cash on Delivery
+9006,2,Cash on Delivery
+9007,5,Debit Card
+9008,4,Credit Card
+9009,3,Debit Card
+9010,5,UPI
+9011,2,UPI
+9012,10,Credit Card
+9013,7,Credit Card
+9014,10,Credit Card
+9015,1,Credit Card
+9016,3,Credit Card
+9017,9,Net Banking
+9018,6,UPI
+9019,10,Debit Card
+9020,9,UPI
+9021,9,UPI
+9022,5,Credit Card
+9023,6,UPI
+9024,6,UPI
+9025,3,UPI
+9026,10,Net Banking
+9027,1,Credit Card
+9028,6,Credit Card
+9029,6,Cash on Delivery
+9030,9,Net Banking
+9031,2,Cash on Delivery
+9032,10,Debit Card
+9033,6,Credit Card
+9034,7,Net Banking
+9035,3,Cash on Delivery
+9036,8,Credit Card
+9037,2,UPI
+9038,9,Credit Card
+9039,1,Debit Card
+9040,8,Debit Card
+9041,4,Cash on Delivery
+9042,10,Cash on Delivery
+9043,2,UPI
+9044,6,Net Banking
+9045,7,Cash on Delivery
+9046,2,Credit Card
+9047,7,UPI
+9048,9,UPI
+9049,6,UPI
+9050,5,UPI
+9051,10,Debit Card
+9052,3,Cash on Delivery
+9053,1,Cash on Delivery
+9054,8,Net Banking
+9055,6,Credit Card
+9056,2,UPI
+9057,4,Debit Card
+9058,1,UPI
+9059,7,Credit Card
+9060,8,Credit Card
+9061,10,Credit Card
+9062,4,Debit Card
+9063,6,Cash on Delivery
+9064,2,Debit Card
+9065,10,Debit Card
+9066,4,Cash on Delivery
+9067,9,Cash on Delivery
+9068,5,Debit Card
+9069,7,Debit Card
+9070,6,Credit Card
+9071,1,Cash on Delivery
+9072,2,UPI
+9073,2,Cash on Delivery
+9074,1,Cash on Delivery
+9075,4,Net Banking
+9076,5,Net Banking
+9077,3,Cash on Delivery
+9078,4,Credit Card
+9079,9,Debit Card
+9080,10,Cash on Delivery
+9081,8,UPI
+9082,4,Cash on Delivery
+9083,7,Credit Card
+9084,8,Debit Card
+9085,10,Net Banking
+9086,5,UPI
+9087,5,Credit Card
+9088,8,Debit Card
+9089,3,UPI
+9090,2,Credit Card
+9091,2,Net Banking
+9092,4,Debit Card
+9093,4,UPI
+9094,8,Debit Card
+9095,2,Credit Card
+9096,10,Cash on Delivery
+9097,7,Debit Card
+9098,9,Net Banking
+9099,3,Credit Card
+9100,7,Cash on Delivery
+9101,2,Net Banking
+9102,7,Net Banking
+9103,7,UPI
+9104,2,UPI
+9105,4,Debit Card
+9106,8,Cash on Delivery
+9107,8,Net Banking
+9108,5,UPI
+9109,8,Debit Card
+9110,1,Net Banking
+9111,5,UPI
+9112,5,Debit Card
+9113,10,Credit Card
+9114,6,Cash on Delivery
+9115,2,Debit Card
+9116,8,UPI
+9117,10,UPI
+9118,8,Debit Card
+9119,8,Net Banking
+9120,7,Credit Card
+9121,8,Credit Card
+9122,5,Credit Card
+9123,10,Cash on Delivery
+9124,4,UPI
+9125,8,Net Banking
+9126,9,Cash on Delivery
+9127,4,UPI
+9128,6,Credit Card
+9129,2,UPI
+9130,4,Debit Card
+9131,3,UPI
+9132,8,Cash on Delivery
+9133,8,Net Banking
+9134,9,Net Banking
+9135,10,Cash on Delivery
+9136,2,Credit Card
+9137,6,Credit Card
+9138,3,Credit Card
+9139,6,Net Banking
+9140,9,Debit Card
+9141,3,Credit Card
+9142,3,Credit Card
+9143,10,Credit Card
+9144,4,Credit Card
+9145,4,Cash on Delivery
+9146,6,Net Banking
+9147,7,UPI
+9148,3,Net Banking
+9149,3,Cash on Delivery
+9150,5,UPI
+9151,5,Net Banking
+9152,5,Credit Card
+9153,9,Cash on Delivery
+9154,6,Credit Card
+9155,4,Credit Card
+9156,8,Debit Card
+9157,9,Cash on Delivery
+9158,3,Credit Card
+9159,9,UPI
+9160,6,Debit Card
+9161,5,UPI
+9162,3,UPI
+9163,6,Credit Card
+9164,4,UPI
+9165,5,Debit Card
+9166,6,Cash on Delivery
+9167,1,Credit Card
+9168,2,Debit Card
+9169,2,Net Banking
+9170,8,UPI
+9171,2,UPI
+9172,10,UPI
+9173,7,Credit Card
+9174,6,UPI
+9175,2,Debit Card
+9176,8,Net Banking
+9177,1,Debit Card
+9178,9,Credit Card
+9179,6,Debit Card
+9180,8,Net Banking
+9181,10,Net Banking
+9182,6,Credit Card
+9183,2,UPI
+9184,2,Net Banking
+9185,4,Credit Card
+9186,9,Credit Card
+9187,9,Net Banking
+9188,2,Net Banking
+9189,9,Cash on Delivery
+9190,4,UPI
+9191,1,UPI
+9192,10,Cash on Delivery
+9193,2,Cash on Delivery
+9194,6,Cash on Delivery
+9195,2,Debit Card
+9196,1,Cash on Delivery
+9197,1,Debit Card
+9198,9,Cash on Delivery
+9199,3,Debit Card
+9200,5,Credit Card
+9201,10,Credit Card
+9202,8,Cash on Delivery
+9203,3,Cash on Delivery
+9204,5,UPI
+9205,1,Cash on Delivery
+9206,9,Net Banking
+9207,3,Net Banking
+9208,10,Net Banking
+9209,6,Net Banking
+9210,9,Credit Card
+9211,3,Credit Card
+9212,8,Credit Card
+9213,7,Net Banking
+9214,3,Credit Card
+9215,5,Debit Card
+9216,10,Cash on Delivery
+9217,10,Credit Card
+9218,2,Credit Card
+9219,8,Net Banking
+9220,5,Credit Card
+9221,7,UPI
+9222,4,UPI
+9223,8,UPI
+9224,6,UPI
+9225,10,Credit Card
+9226,9,Net Banking
+9227,6,UPI
+9228,6,Cash on Delivery
+9229,8,Cash on Delivery
+9230,6,Cash on Delivery
+9231,3,Debit Card
+9232,6,Debit Card
+9233,1,UPI
+9234,1,Credit Card
+9235,8,Cash on Delivery
+9236,10,Net Banking
+9237,10,Credit Card
+9238,6,Net Banking
+9239,3,Cash on Delivery
+9240,10,UPI
+9241,4,Debit Card
+9242,2,Debit Card
+9243,2,Net Banking
+9244,2,UPI
+9245,7,Cash on Delivery
+9246,7,Cash on Delivery
+9247,4,UPI
+9248,8,Cash on Delivery
+9249,3,Credit Card
+9250,8,Net Banking
+9251,2,Net Banking
+9252,10,Net Banking
+9253,4,Credit Card
+9254,5,Cash on Delivery
+9255,6,Net Banking
+9256,4,Net Banking
+9257,8,UPI
+9258,2,Cash on Delivery
+9259,4,Net Banking
+9260,5,UPI
+9261,3,Debit Card
+9262,1,Credit Card
+9263,8,UPI
+9264,6,Debit Card
+9265,3,UPI
+9266,9,Debit Card
+9267,1,UPI
+9268,3,Debit Card
+9269,7,UPI
+9270,5,Net Banking
+9271,10,Net Banking
+9272,6,Debit Card
+9273,8,Cash on Delivery
+9274,10,Credit Card
+9275,10,UPI
+9276,6,Credit Card
+9277,4,Credit Card
+9278,1,Cash on Delivery
+9279,4,Credit Card
+9280,6,UPI
+9281,1,UPI
+9282,5,Debit Card
+9283,8,UPI
+9284,3,Credit Card
+9285,10,UPI
+9286,6,Credit Card
+9287,7,Credit Card
+9288,8,UPI
+9289,2,Credit Card
+9290,7,Cash on Delivery
+9291,10,Credit Card
+9292,6,Debit Card
+9293,4,Net Banking
+9294,1,Debit Card
+9295,9,Credit Card
+9296,6,UPI
+9297,4,Credit Card
+9298,8,Debit Card
+9299,9,UPI
+9300,10,Cash on Delivery
+9301,6,Credit Card
+9302,7,UPI
+9303,5,UPI
+9304,8,Credit Card
+9305,7,Debit Card
+9306,6,Cash on Delivery
+9307,8,Credit Card
+9308,5,Cash on Delivery
+9309,8,UPI
+9310,3,Credit Card
+9311,1,Net Banking
+9312,4,UPI
+9313,3,Debit Card
+9314,7,UPI
+9315,8,Credit Card
+9316,9,Cash on Delivery
+9317,4,UPI
+9318,10,UPI
+9319,2,Debit Card
+9320,9,UPI
+9321,10,Debit Card
+9322,3,Cash on Delivery
+9323,10,Debit Card
+9324,3,Net Banking
+9325,1,UPI
+9326,9,Debit Card
+9327,8,Credit Card
+9328,5,Credit Card
+9329,6,UPI
+9330,9,Cash on Delivery
+9331,5,Cash on Delivery
+9332,7,UPI
+9333,1,Debit Card
+9334,4,Credit Card
+9335,10,Net Banking
+9336,1,Debit Card
+9337,1,Credit Card
+9338,1,UPI
+9339,1,Credit Card
+9340,2,Cash on Delivery
+9341,4,Debit Card
+9342,1,UPI
+9343,7,Cash on Delivery
+9344,6,Debit Card
+9345,10,Debit Card
+9346,2,Debit Card
+9347,10,UPI
+9348,2,Net Banking
+9349,2,UPI
+9350,6,Net Banking
+9351,7,Cash on Delivery
+9352,2,Debit Card
+9353,7,Cash on Delivery
+9354,5,Debit Card
+9355,6,Cash on Delivery
+9356,2,Net Banking
+9357,10,UPI
+9358,10,UPI
+9359,9,Net Banking
+9360,5,UPI
+9361,9,Net Banking
+9362,8,Cash on Delivery
+9363,8,Credit Card
+9364,2,Cash on Delivery
+9365,4,Cash on Delivery
+9366,10,Debit Card
+9367,7,UPI
+9368,2,Debit Card
+9369,6,Debit Card
+9370,2,UPI
+9371,6,Credit Card
+9372,4,UPI
+9373,6,Debit Card
+9374,9,Credit Card
+9375,7,Net Banking
+9376,8,UPI
+9377,5,UPI
+9378,3,Cash on Delivery
+9379,6,UPI
+9380,1,Debit Card
+9381,6,Net Banking
+9382,4,Debit Card
+9383,3,Credit Card
+9384,5,Credit Card
+9385,7,Cash on Delivery
+9386,8,Net Banking
+9387,5,Net Banking
+9388,4,Net Banking
+9389,3,Debit Card
+9390,2,Credit Card
+9391,1,UPI
+9392,1,Net Banking
+9393,9,UPI
+9394,10,UPI
+9395,6,Cash on Delivery
+9396,10,Cash on Delivery
+9397,3,Net Banking
+9398,8,Cash on Delivery
+9399,4,UPI
+9400,3,UPI
+9401,10,Cash on Delivery
+9402,9,Credit Card
+9403,1,Debit Card
+9404,2,Credit Card
+9405,7,Cash on Delivery
+9406,8,Cash on Delivery
+9407,4,Credit Card
+9408,7,Cash on Delivery
+9409,4,UPI
+9410,7,UPI
+9411,6,Debit Card
+9412,7,Cash on Delivery
+9413,2,Credit Card
+9414,5,UPI
+9415,9,UPI
+9416,7,Cash on Delivery
+9417,6,Cash on Delivery
+9418,2,UPI
+9419,7,Credit Card
+9420,9,Debit Card
+9421,3,UPI
+9422,8,Debit Card
+9423,3,Net Banking
+9424,9,Net Banking
+9425,8,Net Banking
+9426,7,UPI
+9427,7,UPI
+9428,10,Debit Card
+9429,7,UPI
+9430,6,Credit Card
+9431,8,Debit Card
+9432,1,Debit Card
+9433,6,Debit Card
+9434,6,UPI
+9435,8,Debit Card
+9436,10,Cash on Delivery
+9437,1,Credit Card
+9438,9,Cash on Delivery
+9439,3,Credit Card
+9440,2,Cash on Delivery
+9441,9,Net Banking
+9442,7,Cash on Delivery
+9443,6,Net Banking
+9444,9,Cash on Delivery
+9445,4,Credit Card
+9446,10,Credit Card
+9447,6,UPI
+9448,2,Cash on Delivery
+9449,10,Debit Card
+9450,8,Debit Card
+9451,5,Credit Card
+9452,8,UPI
+9453,7,Debit Card
+9454,7,Net Banking
+9455,9,Debit Card
+9456,5,Credit Card
+9457,10,Debit Card
+9458,10,UPI
+9459,8,Cash on Delivery
+9460,10,Net Banking
+9461,4,Cash on Delivery
+9462,3,Cash on Delivery
+9463,5,Cash on Delivery
+9464,5,UPI
+9465,6,UPI
+9466,2,Net Banking
+9467,5,Credit Card
+9468,1,Cash on Delivery
+9469,5,UPI
+9470,8,UPI
+9471,6,Net Banking
+9472,3,Credit Card
+9473,9,Debit Card
+9474,5,Credit Card
+9475,1,Debit Card
+9476,8,UPI
+9477,4,Debit Card
+9478,6,UPI
+9479,8,Credit Card
+9480,4,Cash on Delivery
+9481,6,Net Banking
+9482,4,Net Banking
+9483,7,Credit Card
+9484,1,Cash on Delivery
+9485,1,Credit Card
+9486,4,UPI
+9487,4,Cash on Delivery
+9488,6,Credit Card
+9489,2,UPI
+9490,2,UPI
+9491,4,Cash on Delivery
+9492,1,Debit Card
+9493,4,Net Banking
+9494,3,Debit Card
+9495,5,UPI
+9496,4,Cash on Delivery
+9497,9,Cash on Delivery
+9498,9,Debit Card
+9499,8,Debit Card
+9500,8,Debit Card
+9501,2,UPI
+9502,2,Debit Card
+9503,8,Net Banking
+9504,9,Credit Card
+9505,10,UPI
+9506,3,Credit Card
+9507,3,Cash on Delivery
+9508,10,Credit Card
+9509,7,Debit Card
+9510,4,UPI
+9511,1,Net Banking
+9512,3,Debit Card
+9513,6,UPI
+9514,10,Net Banking
+9515,9,UPI
+9516,6,Debit Card
+9517,6,Net Banking
+9518,3,Cash on Delivery
+9519,3,UPI
+9520,4,Credit Card
+9521,7,Debit Card
+9522,3,Cash on Delivery
+9523,6,Debit Card
+9524,5,Net Banking
+9525,3,Net Banking
+9526,7,Debit Card
+9527,3,Net Banking
+9528,2,Net Banking
+9529,3,UPI
+9530,10,Credit Card
+9531,5,UPI
+9532,1,Credit Card
+9533,6,UPI
+9534,6,Debit Card
+9535,4,Net Banking
+9536,9,Credit Card
+9537,4,Cash on Delivery
+9538,10,Net Banking
+9539,7,Cash on Delivery
+9540,10,Cash on Delivery
+9541,10,Net Banking
+9542,10,Debit Card
+9543,8,Debit Card
+9544,7,Net Banking
+9545,1,UPI
+9546,4,Cash on Delivery
+9547,8,Debit Card
+9548,1,Net Banking
+9549,6,Net Banking
+9550,5,Net Banking
+9551,10,Debit Card
+9552,2,Cash on Delivery
+9553,2,Debit Card
+9554,3,Cash on Delivery
+9555,4,Cash on Delivery
+9556,1,UPI
+9557,4,Net Banking
+9558,5,Net Banking
+9559,4,Debit Card
+9560,10,Net Banking
+9561,5,UPI
+9562,8,Credit Card
+9563,4,UPI
+9564,1,Credit Card
+9565,5,Net Banking
+9566,6,Debit Card
+9567,8,Net Banking
+9568,9,Credit Card
+9569,8,Debit Card
+9570,9,Credit Card
+9571,4,Credit Card
+9572,2,Net Banking
+9573,6,Net Banking
+9574,5,Cash on Delivery
+9575,3,Debit Card
+9576,1,Cash on Delivery
+9577,8,Debit Card
+9578,5,Cash on Delivery
+9579,8,Net Banking
+9580,3,Cash on Delivery
+9581,10,Credit Card
+9582,9,Credit Card
+9583,5,Credit Card
+9584,8,UPI
+9585,5,Net Banking
+9586,7,Cash on Delivery
+9587,1,Net Banking
+9588,9,Cash on Delivery
+9589,3,Debit Card
+9590,5,UPI
+9591,7,Net Banking
+9592,3,Debit Card
+9593,5,UPI
+9594,7,Debit Card
+9595,1,Debit Card
+9596,10,Cash on Delivery
+9597,4,UPI
+9598,5,Cash on Delivery
+9599,1,UPI
+9600,9,Credit Card
+9601,4,Net Banking
+9602,8,Net Banking
+9603,3,UPI
+9604,7,Cash on Delivery
+9605,7,UPI
+9606,1,Net Banking
+9607,7,Debit Card
+9608,4,Cash on Delivery
+9609,2,Net Banking
+9610,1,UPI
+9611,5,UPI
+9612,3,UPI
+9613,4,Cash on Delivery
+9614,10,Credit Card
+9615,3,Debit Card
+9616,8,UPI
+9617,8,Debit Card
+9618,4,UPI
+9619,2,Credit Card
+9620,2,Cash on Delivery
+9621,10,Debit Card
+9622,3,Net Banking
+9623,7,UPI
+9624,4,UPI
+9625,10,Credit Card
+9626,3,UPI
+9627,4,Debit Card
+9628,4,Cash on Delivery
+9629,6,Debit Card
+9630,4,UPI
+9631,10,Credit Card
+9632,1,Debit Card
+9633,8,Cash on Delivery
+9634,1,Debit Card
+9635,9,Net Banking
+9636,4,Credit Card
+9637,1,Net Banking
+9638,10,Credit Card
+9639,8,UPI
+9640,8,Net Banking
+9641,3,Net Banking
+9642,3,Cash on Delivery
+9643,8,Cash on Delivery
+9644,9,Debit Card
+9645,8,Cash on Delivery
+9646,1,Debit Card
+9647,6,Debit Card
+9648,3,Cash on Delivery
+9649,10,Credit Card
+9650,5,Debit Card
+9651,2,Net Banking
+9652,10,Cash on Delivery
+9653,9,Net Banking
+9654,4,Cash on Delivery
+9655,4,Cash on Delivery
+9656,3,UPI
+9657,10,Credit Card
+9658,6,Debit Card
+9659,2,UPI
+9660,10,Debit Card
+9661,10,Credit Card
+9662,9,Credit Card
+9663,2,Credit Card
+9664,8,Credit Card
+9665,10,Debit Card
+9666,7,Debit Card
+9667,3,Net Banking
+9668,7,Net Banking
+9669,3,Credit Card
+9670,5,Credit Card
+9671,5,Cash on Delivery
+9672,7,Credit Card
+9673,1,Debit Card
+9674,5,Net Banking
+9675,4,UPI
+9676,4,Cash on Delivery
+9677,7,Credit Card
+9678,7,UPI
+9679,8,Debit Card
+9680,4,Debit Card
+9681,8,Net Banking
+9682,4,Debit Card
+9683,4,Cash on Delivery
+9684,4,Credit Card
+9685,9,UPI
+9686,10,Net Banking
+9687,10,UPI
+9688,3,Credit Card
+9689,10,Cash on Delivery
+9690,8,Debit Card
+9691,2,Cash on Delivery
+9692,3,Cash on Delivery
+9693,9,Debit Card
+9694,1,Net Banking
+9695,6,Cash on Delivery
+9696,8,Debit Card
+9697,9,Net Banking
+9698,9,UPI
+9699,7,UPI
+9700,9,UPI
+9701,2,Cash on Delivery
+9702,3,Credit Card
+9703,10,Net Banking
+9704,2,UPI
+9705,6,Debit Card
+9706,10,Debit Card
+9707,6,Net Banking
+9708,9,Debit Card
+9709,5,Cash on Delivery
+9710,9,Credit Card
+9711,10,Net Banking
+9712,8,Credit Card
+9713,10,UPI
+9714,10,Cash on Delivery
+9715,9,Debit Card
+9716,4,UPI
+9717,4,UPI
+9718,1,Debit Card
+9719,6,Net Banking
+9720,6,Credit Card
+9721,4,Net Banking
+9722,4,Credit Card
+9723,9,Net Banking
+9724,3,Net Banking
+9725,3,UPI
+9726,6,Net Banking
+9727,5,Net Banking
+9728,1,Cash on Delivery
+9729,5,Debit Card
+9730,5,Debit Card
+9731,10,Cash on Delivery
+9732,7,Cash on Delivery
+9733,1,Debit Card
+9734,4,Cash on Delivery
+9735,6,Credit Card
+9736,2,Net Banking
+9737,7,Cash on Delivery
+9738,1,Net Banking
+9739,8,Cash on Delivery
+9740,1,Net Banking
+9741,1,Cash on Delivery
+9742,10,Net Banking
+9743,6,Debit Card
+9744,6,Debit Card
+9745,10,UPI
+9746,2,Net Banking
+9747,10,Cash on Delivery
+9748,1,Cash on Delivery
+9749,2,Cash on Delivery
+9750,10,UPI
+9751,10,Debit Card
+9752,2,Debit Card
+9753,1,Cash on Delivery
+9754,1,Net Banking
+9755,6,Net Banking
+9756,3,Credit Card
+9757,8,Debit Card
+9758,7,Cash on Delivery
+9759,6,Credit Card
+9760,9,Cash on Delivery
+9761,1,Cash on Delivery
+9762,3,UPI
+9763,6,Net Banking
+9764,3,Net Banking
+9765,6,UPI
+9766,6,UPI
+9767,7,Net Banking
+9768,1,Cash on Delivery
+9769,6,Debit Card
+9770,10,Debit Card
+9771,5,Net Banking
+9772,7,Credit Card
+9773,3,UPI
+9774,1,Cash on Delivery
+9775,9,UPI
+9776,9,Net Banking
+9777,6,Cash on Delivery
+9778,7,Net Banking
+9779,4,Net Banking
+9780,6,Debit Card
+9781,8,Cash on Delivery
+9782,5,Credit Card
+9783,7,Net Banking
+9784,7,Net Banking
+9785,10,UPI
+9786,9,UPI
+9787,1,Debit Card
+9788,8,UPI
+9789,3,UPI
+9790,10,Credit Card
+9791,3,Credit Card
+9792,7,UPI
+9793,9,Net Banking
+9794,8,Cash on Delivery
+9795,2,Net Banking
+9796,6,Debit Card
+9797,1,Credit Card
+9798,9,Cash on Delivery
+9799,2,Net Banking
+9800,5,Cash on Delivery
+9801,5,Credit Card
+9802,7,Cash on Delivery
+9803,2,Debit Card
+9804,6,Cash on Delivery
+9805,9,Credit Card
+9806,1,Credit Card
+9807,3,Debit Card
+9808,10,Credit Card
+9809,10,Net Banking
+9810,4,UPI
+9811,7,UPI
+9812,5,Debit Card
+9813,7,Cash on Delivery
+9814,8,Credit Card
+9815,3,Net Banking
+9816,1,Credit Card
+9817,3,Net Banking
+9818,8,UPI
+9819,5,Cash on Delivery
+9820,10,UPI
+9821,7,Net Banking
+9822,9,Credit Card
+9823,9,Cash on Delivery
+9824,2,UPI
+9825,5,Debit Card
+9826,1,UPI
+9827,8,Credit Card
+9828,3,Credit Card
+9829,1,Net Banking
+9830,3,UPI
+9831,8,Cash on Delivery
+9832,2,UPI
+9833,8,Cash on Delivery
+9834,2,Credit Card
+9835,9,Credit Card
+9836,3,Debit Card
+9837,6,Debit Card
+9838,7,UPI
+9839,1,Cash on Delivery
+9840,7,Cash on Delivery
+9841,1,Credit Card
+9842,1,Debit Card
+9843,6,Net Banking
+9844,10,Cash on Delivery
+9845,8,Net Banking
+9846,1,Net Banking
+9847,2,Debit Card
+9848,9,Net Banking
+9849,9,Cash on Delivery
+9850,7,Cash on Delivery
+9851,3,Cash on Delivery
+9852,3,Credit Card
+9853,8,UPI
+9854,6,Cash on Delivery
+9855,8,UPI
+9856,5,UPI
+9857,3,Debit Card
+9858,9,Credit Card
+9859,1,Cash on Delivery
+9860,5,Debit Card
+9861,7,Credit Card
+9862,2,Debit Card
+9863,3,UPI
+9864,1,UPI
+9865,1,Cash on Delivery
+9866,7,Debit Card
+9867,5,Net Banking
+9868,6,Cash on Delivery
+9869,3,Debit Card
+9870,9,Credit Card
+9871,9,Cash on Delivery
+9872,4,Net Banking
+9873,10,Credit Card
+9874,1,UPI
+9875,10,Debit Card
+9876,1,Credit Card
+9877,6,Cash on Delivery
+9878,5,Debit Card
+9879,9,UPI
+9880,2,Debit Card
+9881,5,Debit Card
+9882,7,Net Banking
+9883,1,UPI
+9884,3,Credit Card
+9885,6,Cash on Delivery
+9886,1,Net Banking
+9887,1,Net Banking
+9888,6,Credit Card
+9889,10,Debit Card
+9890,4,Credit Card
+9891,10,Cash on Delivery
+9892,2,Cash on Delivery
+9893,9,Cash on Delivery
+9894,3,Cash on Delivery
+9895,2,UPI
+9896,9,Credit Card
+9897,5,Cash on Delivery
+9898,2,Net Banking
+9899,7,Debit Card
+9900,10,UPI
+9901,4,Debit Card
+9902,10,Debit Card
+9903,9,Credit Card
+9904,2,Debit Card
+9905,3,UPI
+9906,2,UPI
+9907,10,UPI
+9908,9,Cash on Delivery
+9909,7,Net Banking
+9910,7,Debit Card
+9911,10,UPI
+9912,9,Net Banking
+9913,3,Cash on Delivery
+9914,6,Debit Card
+9915,1,Credit Card
+9916,2,Debit Card
+9917,4,Debit Card
+9918,9,Credit Card
+9919,4,Cash on Delivery
+9920,1,Credit Card
+9921,4,Debit Card
+9922,3,Debit Card
+9923,7,Cash on Delivery
+9924,5,Debit Card
+9925,6,Net Banking
+9926,4,Debit Card
+9927,8,Debit Card
+9928,6,Cash on Delivery
+9929,9,UPI
+9930,8,Cash on Delivery
+9931,5,Credit Card
+9932,2,Cash on Delivery
+9933,7,UPI
+9934,6,Credit Card
+9935,7,Debit Card
+9936,5,Debit Card
+9937,9,UPI
+9938,7,Cash on Delivery
+9939,7,Credit Card
+9940,2,Net Banking
+9941,9,UPI
+9942,8,Cash on Delivery
+9943,4,Debit Card
+9944,3,Cash on Delivery
+9945,10,Net Banking
+9946,3,Debit Card
+9947,6,Credit Card
+9948,10,Credit Card
+9949,8,Debit Card
+9950,8,Debit Card
+9951,5,Debit Card
+9952,6,Credit Card
+9953,2,UPI
+9954,2,UPI
+9955,10,Cash on Delivery
+9956,2,Debit Card
+9957,3,Net Banking
+9958,1,Cash on Delivery
+9959,7,Cash on Delivery
+9960,3,Net Banking
+9961,4,Credit Card
+9962,1,UPI
+9963,1,Net Banking
+9964,4,Credit Card
+9965,10,Cash on Delivery
+9966,9,Net Banking
+9967,2,UPI
+9968,9,Credit Card
+9969,7,Debit Card
+9970,8,Debit Card
+9971,9,UPI
+9972,1,Debit Card
+9973,3,Net Banking
+9974,7,Debit Card
+9975,7,UPI
+9976,3,Credit Card
+9977,2,Debit Card
+9978,1,Credit Card
+9979,3,Net Banking
+9980,7,Credit Card
+9981,10,Cash on Delivery
+9982,3,UPI
+9983,5,Net Banking
+9984,8,Debit Card
+9985,4,Debit Card
+9986,8,Credit Card
+9987,9,Debit Card
+9988,7,Credit Card
+9989,5,Net Banking
+9990,2,UPI
+9991,8,Net Banking
+9992,1,Net Banking
+9993,5,UPI
+9994,7,Cash on Delivery
+9995,5,Net Banking
+9996,3,Credit Card
+9997,3,Credit Card
+9998,5,Net Banking
+9999,10,Cash on Delivery
+10000,8,Net Banking
