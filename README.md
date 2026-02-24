@@ -55,6 +55,7 @@ This project performs an end-to-end **Sales Data Analysis** using **MySQL**. It 
 |---|-------------------|
 | Q12 | Profit distribution per day using `CASE WHEN` |
 | Q13 | Top 5 customers by total profit generated |
+| Q14 | Daily Sales vs. Profit Comparison |
 
 ---
 
